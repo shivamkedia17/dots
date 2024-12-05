@@ -12,5 +12,10 @@ to train agent:
 python agent.py
 ```
 
+save output to a file:
+```sh
+python agent.py > file2.txt
+```
+
 TODO:
 load trained agent as an option to play against in play.py
