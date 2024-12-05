@@ -1,0 +1,92 @@
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   dqn   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   dqn   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+
+$L3: 7, dqn: 2
+Episode 1/5, Total Reward: 40
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   dqn   |  
+|         |         |         |  
+*---------*---------*---------*  
+
+$L3: 8, dqn: 1
+Episode 2/5, Total Reward: 30
+*---------*---------*---------*  
+|         |         |         |  
+|   dqn   |   dqn   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+
+$L3: 7, dqn: 2
+Episode 3/5, Total Reward: 40
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+player not recognized: None
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   dqn   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+
+$L3: 8, dqn: 1
+Episode 4/5, Total Reward: 0
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+mat1 and mat2 must have the same dtype, but got Byte and Float
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+|         |         |         |  
+|   $L3   |   $L3   |   $L3   |  
+|         |         |         |  
+*---------*---------*---------*  
+
+$L3: 9, dqn: 0
+Episode 5/5, Total Reward: 0
