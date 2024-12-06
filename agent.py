@@ -117,7 +117,7 @@ class DQNAgent:
         state[-1] = game.get_score(self.op_player_name)
         return state
 
-    # Done AI agent's moves
+    #  AI agent's moves
     # act(self, state)
     def select_edge(self, game):
         # Epsilon-greedy: randomly select a state if below epsilon threshold
