@@ -1,3 +1,4 @@
+import itertools
 import random
 from collections import deque
 
@@ -50,17 +51,20 @@ class ReplayMemory:
     def sample(self, sample_size):
         return random.sample(self.memory, sample_size)
 
+    def first_n(self, n):
+        return list(itertools.islice(self.memory, 0, n))
+
     def __len__(self):
         return len(self.memory)
 
 
 class DQNAgent:
     # (Static) Hyperparameters
-    learning_rate = 0.001
+    learning_rate = 0.008
     discount_factor = 0.7
-    network_sync_rate = 10
-    replay_memory_size = 512
-    mini_batch_size = 32
+    network_sync_rate = 4
+    replay_memory_size = 64
+    mini_batch_size = 4
 
     # NN
     loss_fn = nn.MSELoss()
@@ -84,11 +88,11 @@ class DQNAgent:
         self.optimizer = optim.Adam(self.policy_net.parameters(), lr=self.learning_rate)
         self.memory = ReplayMemory(self.replay_memory_size)
         self.epsilon = 1.0
-        self.epsilon_min = 0.01
-        self.epsilon_decay = 0.995
+        self.epsilon_min = 0.1
+        self.epsilon_decay = 0.9999
 
         self.bot_player_name = "dqn"
-        self.op_player_name = "$L3"
+        self.op_player_name = "$L1"
 
     # Function Equivalences:
     # initialisation:       reset() = dbnpy.Game(board_size, players)
@@ -169,16 +173,31 @@ class DQNAgent:
         # if the bot violates a rule
         except Exception as e:
             print(e)
-            game.terminate()
-            done = True
-            reward = -50
+            # game.terminate()
+            # done = True
+            done = False
+            reward = -10000000000
 
         next_state = self.state_to_dqn_input(game)
         return next_state, reward, done
 
+    def update(self, action_tuple):
+        state, action, reward, next_state, done = action_tuple
+
+        q_value = self.policy_net(state)
+        next_q_value = self.target_net(next_state)
+
+        target_q_value = reward + self.discount_factor * next_q_value * (~done)
+
+        loss = self.loss_fn(q_value, target_q_value)
+        self.optimizer.zero_grad()
+        loss.backward()
+        self.optimizer.step()
+
     def replay(self):
         # 5. TODO Sample a mini batch from the replay buffer
-        batch = self.memory.sample(self.mini_batch_size)
+        # batch = self.memory.sample(self.mini_batch_size)
+        batch = self.memory.first_n(self.mini_batch_size)
         states, actions, rewards, next_states, dones = zip(*batch)
 
         states = torch.stack(states)
@@ -263,6 +282,12 @@ class DQNAgent:
                     next_state, reward, done = self.step(game, move, current_player)
                     total_reward += reward
 
+                    # Without Replay Learning
+                    self.update(action_tuple=(state, move, reward, next_state, done))
+                    self.target_net.load_state_dict(self.policy_net.state_dict())
+                    self.target_net.eval()
+
+                    """ Replay Learning
                     # 4. Store the transition in the replay buffer
                     self.memory.append((state, move, reward, next_state, done))
 
@@ -275,6 +300,7 @@ class DQNAgent:
                     if steps % self.network_sync_rate == 0:
                         self.target_net.load_state_dict(self.policy_net.state_dict())
                         self.target_net.eval()
+                    """
                 # except Exception as e:
                 #     print(e)
 
@@ -312,7 +338,7 @@ class DQNAgent:
 if __name__ == "__main__":
     board_size = (3, 3)  # Example board size
     agent = DQNAgent(board_size)
-    completed, won = agent.train(episodes=1000)
+    completed, won = agent.train(episodes=2000)
     print("Completed Games: ", completed)
     print("Won Games: ", won)
     agent.save_model()

@@ -1,0 +1,3133 @@
+Episode 1/2000, Total Reward: -42, Epsilon: 0.9999
+Episode 2/2000, Total Reward: -42, Epsilon: 0.9998000100000001
+Episode 3/2000, Total Reward: 16, Epsilon: 0.9997000299990001
+Episode 4/2000, Total Reward: 16, Epsilon: 0.9996000599960002
+Episode 5/2000, Total Reward: 16, Epsilon: 0.9995000999900007
+Episode 6/2000, Total Reward: -74, Epsilon: 0.9994001499800017
+Episode 7/2000, Total Reward: -10, Epsilon: 0.9993002099650037
+Episode 8/2000, Total Reward: -74, Epsilon: 0.9992002799440072
+Episode 9/2000, Total Reward: -42, Epsilon: 0.9991003599160128
+Episode 10/2000, Total Reward: 48, Epsilon: 0.9990004498800211
+Episode 11/2000, Total Reward: 48, Epsilon: 0.9989005498350332
+Episode 12/2000, Total Reward: -42, Epsilon: 0.9988006597800497
+Episode 13/2000, Total Reward: -74, Epsilon: 0.9987007797140718
+Episode 14/2000, Total Reward: 16, Epsilon: 0.9986009096361004
+Episode 15/2000, Total Reward: -74, Epsilon: 0.9985010495451367
+Episode 16/2000, Total Reward: 48, Epsilon: 0.9984011994401822
+Episode 17/2000, Total Reward: 48, Epsilon: 0.9983013593202382
+Episode 18/2000, Total Reward: -74, Epsilon: 0.9982015291843062
+Episode 19/2000, Total Reward: -42, Epsilon: 0.9981017090313877
+Episode 20/2000, Total Reward: -74, Epsilon: 0.9980018988604846
+Episode 21/2000, Total Reward: 16, Epsilon: 0.9979020986705985
+Episode 22/2000, Total Reward: 48, Epsilon: 0.9978023084607315
+Episode 23/2000, Total Reward: -10, Epsilon: 0.9977025282298854
+Episode 24/2000, Total Reward: 16, Epsilon: 0.9976027579770624
+Episode 25/2000, Total Reward: -42, Epsilon: 0.9975029977012647
+Episode 26/2000, Total Reward: -42, Epsilon: 0.9974032474014946
+Episode 27/2000, Total Reward: -74, Epsilon: 0.9973035070767544
+Episode 28/2000, Total Reward: -74, Epsilon: 0.9972037767260468
+Episode 29/2000, Total Reward: 16, Epsilon: 0.9971040563483742
+Episode 30/2000, Total Reward: 16, Epsilon: 0.9970043459427393
+Episode 31/2000, Total Reward: -74, Epsilon: 0.9969046455081451
+Episode 32/2000, Total Reward: 48, Epsilon: 0.9968049550435942
+Episode 33/2000, Total Reward: -74, Epsilon: 0.9967052745480899
+Episode 34/2000, Total Reward: 16, Epsilon: 0.9966056040206351
+Episode 35/2000, Total Reward: -74, Epsilon: 0.9965059434602331
+Episode 36/2000, Total Reward: -42, Epsilon: 0.9964062928658871
+Episode 37/2000, Total Reward: -74, Epsilon: 0.9963066522366005
+Episode 38/2000, Total Reward: -74, Epsilon: 0.9962070215713769
+Episode 39/2000, Total Reward: -74, Epsilon: 0.9961074008692198
+Episode 40/2000, Total Reward: -10, Epsilon: 0.9960077901291329
+Episode 41/2000, Total Reward: 48, Epsilon: 0.9959081893501199
+Episode 42/2000, Total Reward: -74, Epsilon: 0.995808598531185
+Episode 43/2000, Total Reward: 16, Epsilon: 0.9957090176713319
+edge already selected: 0
+Episode 44/2000, Total Reward: -9999999984, Epsilon: 0.9956094467695648
+Episode 45/2000, Total Reward: -42, Epsilon: 0.9955098858248879
+Episode 46/2000, Total Reward: -42, Epsilon: 0.9954103348363054
+Episode 47/2000, Total Reward: 16, Epsilon: 0.9953107938028217
+Episode 48/2000, Total Reward: 16, Epsilon: 0.9952112627234414
+Episode 49/2000, Total Reward: 22, Epsilon: 0.9951117415971691
+Episode 50/2000, Total Reward: -10, Epsilon: 0.9950122304230093
+Episode 51/2000, Total Reward: -42, Epsilon: 0.9949127291999671
+Episode 52/2000, Total Reward: -42, Epsilon: 0.9948132379270471
+Episode 53/2000, Total Reward: -42, Epsilon: 0.9947137566032545
+Episode 54/2000, Total Reward: 16, Epsilon: 0.9946142852275941
+Episode 55/2000, Total Reward: -74, Epsilon: 0.9945148237990713
+Episode 56/2000, Total Reward: -74, Epsilon: 0.9944153723166914
+Episode 57/2000, Total Reward: 48, Epsilon: 0.9943159307794598
+Episode 58/2000, Total Reward: -42, Epsilon: 0.9942164991863819
+Episode 59/2000, Total Reward: -42, Epsilon: 0.9941170775364633
+Episode 60/2000, Total Reward: -42, Epsilon: 0.9940176658287097
+Episode 61/2000, Total Reward: -42, Epsilon: 0.9939182640621268
+Episode 62/2000, Total Reward: -42, Epsilon: 0.9938188722357206
+Episode 63/2000, Total Reward: 48, Epsilon: 0.993719490348497
+Episode 64/2000, Total Reward: -42, Epsilon: 0.9936201183994622
+Episode 65/2000, Total Reward: 16, Epsilon: 0.9935207563876223
+Episode 66/2000, Total Reward: -42, Epsilon: 0.9934214043119836
+Episode 67/2000, Total Reward: -74, Epsilon: 0.9933220621715524
+Episode 68/2000, Total Reward: -10, Epsilon: 0.9932227299653352
+Episode 69/2000, Total Reward: 16, Epsilon: 0.9931234076923388
+Episode 70/2000, Total Reward: 16, Epsilon: 0.9930240953515695
+Episode 71/2000, Total Reward: 16, Epsilon: 0.9929247929420344
+Episode 72/2000, Total Reward: -42, Epsilon: 0.9928255004627402
+Episode 73/2000, Total Reward: -74, Epsilon: 0.992726217912694
+Episode 74/2000, Total Reward: -74, Epsilon: 0.9926269452909028
+Episode 75/2000, Total Reward: -10, Epsilon: 0.9925276825963737
+Episode 76/2000, Total Reward: 16, Epsilon: 0.9924284298281141
+Episode 77/2000, Total Reward: -74, Epsilon: 0.9923291869851313
+Episode 78/2000, Total Reward: 80, Epsilon: 0.9922299540664328
+Episode 79/2000, Total Reward: 16, Epsilon: 0.9921307310710261
+Episode 80/2000, Total Reward: 48, Epsilon: 0.992031517997919
+Episode 81/2000, Total Reward: -74, Epsilon: 0.9919323148461192
+Episode 82/2000, Total Reward: 112, Epsilon: 0.9918331216146347
+Episode 83/2000, Total Reward: -42, Epsilon: 0.9917339383024733
+Episode 84/2000, Total Reward: 16, Epsilon: 0.991634764908643
+Episode 85/2000, Total Reward: -74, Epsilon: 0.9915356014321521
+Episode 86/2000, Total Reward: 80, Epsilon: 0.9914364478720089
+Episode 87/2000, Total Reward: -10, Epsilon: 0.9913373042272218
+Episode 88/2000, Total Reward: -74, Epsilon: 0.9912381704967991
+Episode 89/2000, Total Reward: -72, Epsilon: 0.9911390466797494
+Episode 90/2000, Total Reward: 16, Epsilon: 0.9910399327750814
+Episode 91/2000, Total Reward: 16, Epsilon: 0.9909408287818039
+Episode 92/2000, Total Reward: -42, Epsilon: 0.9908417346989258
+Episode 93/2000, Total Reward: -42, Epsilon: 0.9907426505254558
+Episode 94/2000, Total Reward: 22, Epsilon: 0.9906435762604033
+Episode 95/2000, Total Reward: -10, Epsilon: 0.9905445119027773
+Episode 96/2000, Total Reward: 16, Epsilon: 0.990445457451587
+Episode 97/2000, Total Reward: 22, Epsilon: 0.9903464129058418
+Episode 98/2000, Total Reward: -42, Epsilon: 0.9902473782645512
+Episode 99/2000, Total Reward: -74, Epsilon: 0.9901483535267248
+Episode 100/2000, Total Reward: 80, Epsilon: 0.9900493386913721
+Episode 101/2000, Total Reward: -42, Epsilon: 0.989950333757503
+Episode 102/2000, Total Reward: -42, Epsilon: 0.9898513387241272
+Episode 103/2000, Total Reward: -74, Epsilon: 0.9897523535902548
+Episode 104/2000, Total Reward: 16, Epsilon: 0.9896533783548958
+Episode 105/2000, Total Reward: 48, Epsilon: 0.9895544130170603
+Episode 106/2000, Total Reward: -10, Epsilon: 0.9894554575757586
+Episode 107/2000, Total Reward: 22, Epsilon: 0.9893565120300011
+Episode 108/2000, Total Reward: -42, Epsilon: 0.9892575763787981
+Episode 109/2000, Total Reward: 80, Epsilon: 0.9891586506211602
+Episode 110/2000, Total Reward: 80, Epsilon: 0.9890597347560981
+Episode 111/2000, Total Reward: 16, Epsilon: 0.9889608287826225
+Episode 112/2000, Total Reward: -74, Epsilon: 0.9888619326997442
+Episode 113/2000, Total Reward: -42, Epsilon: 0.9887630465064743
+Episode 114/2000, Total Reward: 16, Epsilon: 0.9886641702018236
+Episode 115/2000, Total Reward: 16, Epsilon: 0.9885653037848035
+Episode 116/2000, Total Reward: 16, Epsilon: 0.988466447254425
+Episode 117/2000, Total Reward: -42, Epsilon: 0.9883676006096995
+Episode 118/2000, Total Reward: 80, Epsilon: 0.9882687638496386
+Episode 119/2000, Total Reward: 16, Epsilon: 0.9881699369732536
+Episode 120/2000, Total Reward: -10, Epsilon: 0.9880711199795563
+Episode 121/2000, Total Reward: -74, Epsilon: 0.9879723128675584
+Episode 122/2000, Total Reward: -74, Epsilon: 0.9878735156362717
+Episode 123/2000, Total Reward: 16, Epsilon: 0.987774728284708
+Episode 124/2000, Total Reward: -42, Epsilon: 0.9876759508118795
+Episode 125/2000, Total Reward: -74, Epsilon: 0.9875771832167983
+Episode 126/2000, Total Reward: 16, Epsilon: 0.9874784254984766
+Episode 127/2000, Total Reward: 48, Epsilon: 0.9873796776559268
+Episode 128/2000, Total Reward: 22, Epsilon: 0.9872809396881612
+edge already selected: 22
+Episode 129/2000, Total Reward: -9999999984, Epsilon: 0.9871822115941924
+Episode 130/2000, Total Reward: -42, Epsilon: 0.987083493373033
+Episode 131/2000, Total Reward: -74, Epsilon: 0.9869847850236957
+Episode 132/2000, Total Reward: 48, Epsilon: 0.9868860865451933
+Episode 133/2000, Total Reward: 16, Epsilon: 0.9867873979365388
+Episode 134/2000, Total Reward: 16, Epsilon: 0.9866887191967452
+Episode 135/2000, Total Reward: 254, Epsilon: 0.9865900503248255
+Episode 136/2000, Total Reward: 16, Epsilon: 0.986491391319793
+Episode 137/2000, Total Reward: -42, Epsilon: 0.9863927421806611
+Episode 138/2000, Total Reward: 16, Epsilon: 0.986294102906443
+Episode 139/2000, Total Reward: 16, Epsilon: 0.9861954734961524
+Episode 140/2000, Total Reward: -74, Epsilon: 0.9860968539488029
+Episode 141/2000, Total Reward: 16, Epsilon: 0.985998244263408
+Episode 142/2000, Total Reward: -74, Epsilon: 0.9858996444389817
+Episode 143/2000, Total Reward: 48, Epsilon: 0.9858010544745378
+Episode 144/2000, Total Reward: 80, Epsilon: 0.9857024743690904
+edge already selected: 8
+Episode 145/2000, Total Reward: -10000000074, Epsilon: 0.9856039041216536
+Episode 146/2000, Total Reward: 16, Epsilon: 0.9855053437312414
+Episode 147/2000, Total Reward: 16, Epsilon: 0.9854067931968683
+edge already selected: 7
+Episode 148/2000, Total Reward: -10000000074, Epsilon: 0.9853082525175486
+Episode 149/2000, Total Reward: 48, Epsilon: 0.9852097216922968
+Episode 150/2000, Total Reward: 22, Epsilon: 0.9851112007201276
+Episode 151/2000, Total Reward: -42, Epsilon: 0.9850126896000556
+Episode 152/2000, Total Reward: -74, Epsilon: 0.9849141883310956
+Episode 153/2000, Total Reward: -74, Epsilon: 0.9848156969122625
+Episode 154/2000, Total Reward: -42, Epsilon: 0.9847172153425713
+edge already selected: 5
+Episode 155/2000, Total Reward: -10000000074, Epsilon: 0.9846187436210371
+Episode 156/2000, Total Reward: 48, Epsilon: 0.9845202817466749
+Episode 157/2000, Total Reward: 16, Epsilon: 0.9844218297185002
+Episode 158/2000, Total Reward: 48, Epsilon: 0.9843233875355284
+Episode 159/2000, Total Reward: 80, Epsilon: 0.9842249551967749
+Episode 160/2000, Total Reward: 22, Epsilon: 0.9841265327012553
+Episode 161/2000, Total Reward: 16, Epsilon: 0.9840281200479851
+Episode 162/2000, Total Reward: -42, Epsilon: 0.9839297172359803
+Episode 163/2000, Total Reward: -42, Epsilon: 0.9838313242642568
+Episode 164/2000, Total Reward: -42, Epsilon: 0.9837329411318304
+Episode 165/2000, Total Reward: 16, Epsilon: 0.9836345678377172
+edge already selected: 20
+Episode 166/2000, Total Reward: -9999999952, Epsilon: 0.9835362043809335
+Episode 167/2000, Total Reward: -74, Epsilon: 0.9834378507604954
+Episode 168/2000, Total Reward: 16, Epsilon: 0.9833395069754194
+Episode 169/2000, Total Reward: 16, Epsilon: 0.9832411730247218
+Episode 170/2000, Total Reward: 16, Epsilon: 0.9831428489074193
+Episode 171/2000, Total Reward: 22, Epsilon: 0.9830445346225286
+Episode 172/2000, Total Reward: -74, Epsilon: 0.9829462301690663
+Episode 173/2000, Total Reward: -74, Epsilon: 0.9828479355460494
+Episode 174/2000, Total Reward: 16, Epsilon: 0.9827496507524949
+Episode 175/2000, Total Reward: -42, Epsilon: 0.9826513757874197
+Episode 176/2000, Total Reward: -42, Epsilon: 0.982553110649841
+Episode 177/2000, Total Reward: -42, Epsilon: 0.982454855338776
+Episode 178/2000, Total Reward: -10, Epsilon: 0.9823566098532421
+Episode 179/2000, Total Reward: -10, Epsilon: 0.9822583741922568
+Episode 180/2000, Total Reward: -10, Epsilon: 0.9821601483548376
+Episode 181/2000, Total Reward: 48, Epsilon: 0.982061932340002
+Episode 182/2000, Total Reward: -42, Epsilon: 0.9819637261467681
+Episode 183/2000, Total Reward: 16, Epsilon: 0.9818655297741534
+Episode 184/2000, Total Reward: -42, Epsilon: 0.981767343221176
+Episode 185/2000, Total Reward: -74, Epsilon: 0.9816691664868539
+Episode 186/2000, Total Reward: 16, Epsilon: 0.9815709995702052
+Episode 187/2000, Total Reward: -74, Epsilon: 0.9814728424702482
+Episode 188/2000, Total Reward: -74, Epsilon: 0.9813746951860012
+Episode 189/2000, Total Reward: 16, Epsilon: 0.9812765577164826
+Episode 190/2000, Total Reward: 16, Epsilon: 0.9811784300607109
+Episode 191/2000, Total Reward: -42, Epsilon: 0.9810803122177049
+Episode 192/2000, Total Reward: 16, Epsilon: 0.9809822041864831
+Episode 193/2000, Total Reward: 16, Epsilon: 0.9808841059660645
+Episode 194/2000, Total Reward: -74, Epsilon: 0.9807860175554679
+Episode 195/2000, Total Reward: 16, Epsilon: 0.9806879389537123
+Episode 196/2000, Total Reward: -74, Epsilon: 0.9805898701598169
+Episode 197/2000, Total Reward: -42, Epsilon: 0.9804918111728009
+Episode 198/2000, Total Reward: -42, Epsilon: 0.9803937619916837
+Episode 199/2000, Total Reward: 16, Epsilon: 0.9802957226154846
+Episode 200/2000, Total Reward: 22, Epsilon: 0.980197693043223
+Episode 201/2000, Total Reward: 16, Epsilon: 0.9800996732739187
+Episode 202/2000, Total Reward: -42, Epsilon: 0.9800016633065913
+edge already selected: 6
+Episode 203/2000, Total Reward: -10000000042, Epsilon: 0.9799036631402607
+Episode 204/2000, Total Reward: -74, Epsilon: 0.9798056727739467
+Episode 205/2000, Total Reward: -42, Epsilon: 0.9797076922066693
+Episode 206/2000, Total Reward: -74, Epsilon: 0.9796097214374486
+Episode 207/2000, Total Reward: 16, Epsilon: 0.9795117604653049
+Episode 208/2000, Total Reward: -74, Epsilon: 0.9794138092892584
+Episode 209/2000, Total Reward: -42, Epsilon: 0.9793158679083295
+Episode 210/2000, Total Reward: -42, Epsilon: 0.9792179363215386
+edge already selected: 1
+Episode 211/2000, Total Reward: -10000000010, Epsilon: 0.9791200145279065
+Episode 212/2000, Total Reward: 16, Epsilon: 0.9790221025264537
+Episode 213/2000, Total Reward: 16, Epsilon: 0.9789242003162011
+Episode 214/2000, Total Reward: 16, Epsilon: 0.9788263078961694
+Episode 215/2000, Total Reward: -42, Epsilon: 0.9787284252653798
+Episode 216/2000, Total Reward: -74, Epsilon: 0.9786305524228534
+Episode 217/2000, Total Reward: -42, Epsilon: 0.9785326893676111
+Episode 218/2000, Total Reward: 16, Epsilon: 0.9784348360986743
+Episode 219/2000, Total Reward: 48, Epsilon: 0.9783369926150645
+Episode 220/2000, Total Reward: -74, Epsilon: 0.9782391589158029
+Episode 221/2000, Total Reward: 16, Epsilon: 0.9781413349999114
+edge already selected: 1
+Episode 222/2000, Total Reward: -10000000010, Epsilon: 0.9780435208664114
+Episode 223/2000, Total Reward: 16, Epsilon: 0.9779457165143248
+Episode 224/2000, Total Reward: 22, Epsilon: 0.9778479219426734
+Episode 225/2000, Total Reward: -74, Epsilon: 0.9777501371504792
+Episode 226/2000, Total Reward: -42, Epsilon: 0.9776523621367642
+Episode 227/2000, Total Reward: -74, Epsilon: 0.9775545969005506
+Episode 228/2000, Total Reward: -74, Epsilon: 0.9774568414408605
+Episode 229/2000, Total Reward: 80, Epsilon: 0.9773590957567164
+edge already selected: 1
+edge already selected: 1
+Episode 230/2000, Total Reward: -19999999952, Epsilon: 0.9772613598471408
+Episode 231/2000, Total Reward: -74, Epsilon: 0.9771636337111561
+edge already selected: 1
+Episode 232/2000, Total Reward: -10000000042, Epsilon: 0.977065917347785
+Episode 233/2000, Total Reward: 16, Epsilon: 0.9769682107560502
+Episode 234/2000, Total Reward: -74, Epsilon: 0.9768705139349746
+Episode 235/2000, Total Reward: -74, Epsilon: 0.9767728268835811
+Episode 236/2000, Total Reward: -42, Epsilon: 0.9766751496008927
+Episode 237/2000, Total Reward: -10, Epsilon: 0.9765774820859326
+Episode 238/2000, Total Reward: 16, Epsilon: 0.9764798243377241
+Episode 239/2000, Total Reward: -42, Epsilon: 0.9763821763552903
+edge already selected: 1
+Episode 240/2000, Total Reward: -10000000042, Epsilon: 0.9762845381376548
+Episode 241/2000, Total Reward: -74, Epsilon: 0.976186909683841
+Episode 242/2000, Total Reward: 16, Epsilon: 0.9760892909928727
+Episode 243/2000, Total Reward: -74, Epsilon: 0.9759916820637734
+Episode 244/2000, Total Reward: 16, Epsilon: 0.975894082895567
+Episode 245/2000, Total Reward: -42, Epsilon: 0.9757964934872775
+Episode 246/2000, Total Reward: -74, Epsilon: 0.9756989138379287
+edge already selected: 1
+Episode 247/2000, Total Reward: -9999999952, Epsilon: 0.975601343946545
+Episode 248/2000, Total Reward: 48, Epsilon: 0.9755037838121503
+Episode 249/2000, Total Reward: -74, Epsilon: 0.9754062334337691
+edge already selected: 1
+Episode 250/2000, Total Reward: -9999999984, Epsilon: 0.9753086928104258
+Episode 251/2000, Total Reward: 16, Epsilon: 0.9752111619411448
+Episode 252/2000, Total Reward: -42, Epsilon: 0.9751136408249507
+edge already selected: 1
+Episode 253/2000, Total Reward: -9999999984, Epsilon: 0.9750161294608681
+Episode 254/2000, Total Reward: 16, Epsilon: 0.974918627847922
+Episode 255/2000, Total Reward: -10, Epsilon: 0.9748211359851373
+Episode 256/2000, Total Reward: -74, Epsilon: 0.9747236538715388
+Episode 257/2000, Total Reward: 16, Epsilon: 0.9746261815061517
+Episode 258/2000, Total Reward: -42, Epsilon: 0.9745287188880011
+Episode 259/2000, Total Reward: 16, Epsilon: 0.9744312660161123
+edge already selected: 0
+Episode 260/2000, Total Reward: -9999999920, Epsilon: 0.9743338228895106
+Episode 261/2000, Total Reward: -74, Epsilon: 0.9742363895072217
+Episode 262/2000, Total Reward: -10, Epsilon: 0.974138965868271
+Episode 263/2000, Total Reward: 16, Epsilon: 0.9740415519716842
+Episode 264/2000, Total Reward: 16, Epsilon: 0.973944147816487
+Episode 265/2000, Total Reward: -74, Epsilon: 0.9738467534017053
+edge already selected: 0
+Episode 266/2000, Total Reward: -10000000042, Epsilon: 0.9737493687263652
+Episode 267/2000, Total Reward: -74, Epsilon: 0.9736519937894925
+Episode 268/2000, Total Reward: -10, Epsilon: 0.9735546285901135
+Episode 269/2000, Total Reward: -74, Epsilon: 0.9734572731272545
+Episode 270/2000, Total Reward: -10, Epsilon: 0.9733599273999418
+Episode 271/2000, Total Reward: 48, Epsilon: 0.9732625914072018
+Episode 272/2000, Total Reward: -42, Epsilon: 0.9731652651480611
+Episode 273/2000, Total Reward: -74, Epsilon: 0.9730679486215463
+Episode 274/2000, Total Reward: 16, Epsilon: 0.9729706418266841
+Episode 275/2000, Total Reward: -10, Epsilon: 0.9728733447625014
+Episode 276/2000, Total Reward: 16, Epsilon: 0.9727760574280252
+Episode 277/2000, Total Reward: 254, Epsilon: 0.9726787798222825
+edge already selected: 0
+Episode 278/2000, Total Reward: -10000000042, Epsilon: 0.9725815119443002
+Episode 279/2000, Total Reward: 80, Epsilon: 0.9724842537931058
+Episode 280/2000, Total Reward: -42, Epsilon: 0.9723870053677265
+Episode 281/2000, Total Reward: 48, Epsilon: 0.9722897666671897
+Episode 282/2000, Total Reward: -74, Epsilon: 0.9721925376905229
+Episode 283/2000, Total Reward: -74, Epsilon: 0.9720953184367539
+edge already selected: 0
+Episode 284/2000, Total Reward: -10000000010, Epsilon: 0.9719981089049102
+Episode 285/2000, Total Reward: 48, Epsilon: 0.9719009090940197
+edge already selected: 0
+Episode 286/2000, Total Reward: -10000000074, Epsilon: 0.9718037190031104
+Episode 287/2000, Total Reward: -42, Epsilon: 0.97170653863121
+Episode 288/2000, Total Reward: 16, Epsilon: 0.9716093679773469
+Episode 289/2000, Total Reward: 16, Epsilon: 0.9715122070405492
+Episode 290/2000, Total Reward: 16, Epsilon: 0.9714150558198451
+Episode 291/2000, Total Reward: 16, Epsilon: 0.9713179143142632
+Episode 292/2000, Total Reward: -42, Epsilon: 0.9712207825228317
+Episode 293/2000, Total Reward: 48, Epsilon: 0.9711236604445794
+Episode 294/2000, Total Reward: -42, Epsilon: 0.971026548078535
+Episode 295/2000, Total Reward: -42, Epsilon: 0.9709294454237271
+Episode 296/2000, Total Reward: -10, Epsilon: 0.9708323524791846
+Episode 297/2000, Total Reward: -74, Epsilon: 0.9707352692439367
+Episode 298/2000, Total Reward: -74, Epsilon: 0.9706381957170124
+Episode 299/2000, Total Reward: -74, Epsilon: 0.9705411318974407
+Episode 300/2000, Total Reward: -42, Epsilon: 0.970444077784251
+edge already selected: 0
+Episode 301/2000, Total Reward: -9999999952, Epsilon: 0.9703470333764725
+Episode 302/2000, Total Reward: 16, Epsilon: 0.9702499986731349
+Episode 303/2000, Total Reward: 16, Epsilon: 0.9701529736732676
+Episode 304/2000, Total Reward: 16, Epsilon: 0.9700559583759003
+Episode 305/2000, Total Reward: 16, Epsilon: 0.9699589527800627
+Episode 306/2000, Total Reward: -74, Epsilon: 0.9698619568847847
+Episode 307/2000, Total Reward: -74, Epsilon: 0.9697649706890963
+Episode 308/2000, Total Reward: 22, Epsilon: 0.9696679941920274
+Episode 309/2000, Total Reward: 16, Epsilon: 0.9695710273926083
+edge already selected: 0
+Episode 310/2000, Total Reward: -10000000010, Epsilon: 0.969474070289869
+Episode 311/2000, Total Reward: -74, Epsilon: 0.9693771228828401
+Episode 312/2000, Total Reward: 16, Epsilon: 0.9692801851705518
+Episode 313/2000, Total Reward: -10, Epsilon: 0.9691832571520348
+Episode 314/2000, Total Reward: 16, Epsilon: 0.9690863388263196
+Episode 315/2000, Total Reward: 48, Epsilon: 0.9689894301924369
+edge already selected: 0
+edge already selected: 0
+Episode 316/2000, Total Reward: -19999999978, Epsilon: 0.9688925312494177
+Episode 317/2000, Total Reward: -74, Epsilon: 0.9687956419962928
+Episode 318/2000, Total Reward: 16, Epsilon: 0.9686987624320932
+Episode 319/2000, Total Reward: 48, Epsilon: 0.9686018925558499
+Episode 320/2000, Total Reward: -74, Epsilon: 0.9685050323665944
+Episode 321/2000, Total Reward: -42, Epsilon: 0.9684081818633578
+Episode 322/2000, Total Reward: 16, Epsilon: 0.9683113410451715
+Episode 323/2000, Total Reward: 16, Epsilon: 0.968214509911067
+Episode 324/2000, Total Reward: 48, Epsilon: 0.9681176884600758
+Episode 325/2000, Total Reward: -42, Epsilon: 0.9680208766912298
+Episode 326/2000, Total Reward: 16, Epsilon: 0.9679240746035607
+Episode 327/2000, Total Reward: -74, Epsilon: 0.9678272821961004
+Episode 328/2000, Total Reward: 16, Epsilon: 0.9677304994678808
+Episode 329/2000, Total Reward: 48, Epsilon: 0.967633726417934
+Episode 330/2000, Total Reward: -42, Epsilon: 0.9675369630452922
+edge already selected: 0
+Episode 331/2000, Total Reward: -9999999984, Epsilon: 0.9674402093489878
+Episode 332/2000, Total Reward: -74, Epsilon: 0.9673434653280529
+Episode 333/2000, Total Reward: 16, Epsilon: 0.9672467309815201
+Episode 334/2000, Total Reward: -10, Epsilon: 0.967150006308422
+Episode 335/2000, Total Reward: -42, Epsilon: 0.9670532913077912
+Episode 336/2000, Total Reward: 16, Epsilon: 0.9669565859786604
+Episode 337/2000, Total Reward: 16, Epsilon: 0.9668598903200626
+Episode 338/2000, Total Reward: -74, Epsilon: 0.9667632043310306
+Episode 339/2000, Total Reward: 48, Epsilon: 0.9666665280105975
+Episode 340/2000, Total Reward: -42, Epsilon: 0.9665698613577964
+Episode 341/2000, Total Reward: 16, Epsilon: 0.9664732043716606
+edge already selected: 0
+Episode 342/2000, Total Reward: -10000000010, Epsilon: 0.9663765570512235
+Episode 343/2000, Total Reward: -10, Epsilon: 0.9662799193955184
+Episode 344/2000, Total Reward: -42, Epsilon: 0.9661832914035788
+Episode 345/2000, Total Reward: -74, Epsilon: 0.9660866730744385
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 346/2000, Total Reward: -29999999984, Epsilon: 0.9659900644071311
+Episode 347/2000, Total Reward: -74, Epsilon: 0.9658934654006904
+edge already selected: 0
+Episode 348/2000, Total Reward: -10000000010, Epsilon: 0.9657968760541503
+Episode 349/2000, Total Reward: -10, Epsilon: 0.9657002963665449
+Episode 350/2000, Total Reward: 48, Epsilon: 0.9656037263369083
+Episode 351/2000, Total Reward: -74, Epsilon: 0.9655071659642745
+Episode 352/2000, Total Reward: 48, Epsilon: 0.9654106152476781
+Episode 353/2000, Total Reward: -42, Epsilon: 0.9653140741861533
+edge already selected: 0
+Episode 354/2000, Total Reward: -10000000074, Epsilon: 0.9652175427787347
+Episode 355/2000, Total Reward: 16, Epsilon: 0.9651210210244568
+Episode 356/2000, Total Reward: -74, Epsilon: 0.9650245089223544
+Episode 357/2000, Total Reward: 48, Epsilon: 0.9649280064714622
+edge already selected: 0
+Episode 358/2000, Total Reward: -9999999984, Epsilon: 0.964831513670815
+Episode 359/2000, Total Reward: 16, Epsilon: 0.9647350305194479
+Episode 360/2000, Total Reward: 16, Epsilon: 0.9646385570163959
+Episode 361/2000, Total Reward: 16, Epsilon: 0.9645420931606943
+Episode 362/2000, Total Reward: -74, Epsilon: 0.9644456389513782
+Episode 363/2000, Total Reward: 16, Epsilon: 0.9643491943874831
+Episode 364/2000, Total Reward: -42, Epsilon: 0.9642527594680443
+Episode 365/2000, Total Reward: 48, Epsilon: 0.9641563341920976
+Episode 366/2000, Total Reward: -10, Epsilon: 0.9640599185586783
+Episode 367/2000, Total Reward: 16, Epsilon: 0.9639635125668224
+Episode 368/2000, Total Reward: 80, Epsilon: 0.9638671162155658
+Episode 369/2000, Total Reward: 16, Epsilon: 0.9637707295039442
+Episode 370/2000, Total Reward: -42, Epsilon: 0.9636743524309938
+Episode 371/2000, Total Reward: 22, Epsilon: 0.9635779849957506
+Episode 372/2000, Total Reward: 80, Epsilon: 0.9634816271972511
+Episode 373/2000, Total Reward: 16, Epsilon: 0.9633852790345313
+Episode 374/2000, Total Reward: -74, Epsilon: 0.9632889405066278
+Episode 375/2000, Total Reward: 112, Epsilon: 0.9631926116125772
+Episode 376/2000, Total Reward: -74, Epsilon: 0.9630962923514159
+Episode 377/2000, Total Reward: -42, Epsilon: 0.9629999827221808
+Episode 378/2000, Total Reward: -10, Epsilon: 0.9629036827239086
+edge already selected: 0
+Episode 379/2000, Total Reward: -9999999952, Epsilon: 0.9628073923556362
+edge already selected: 0
+Episode 380/2000, Total Reward: -9999999984, Epsilon: 0.9627111116164007
+Episode 381/2000, Total Reward: -42, Epsilon: 0.962614840505239
+Episode 382/2000, Total Reward: 16, Epsilon: 0.9625185790211885
+Episode 383/2000, Total Reward: 16, Epsilon: 0.9624223271632865
+Episode 384/2000, Total Reward: -10, Epsilon: 0.9623260849305701
+Episode 385/2000, Total Reward: -74, Epsilon: 0.9622298523220771
+Episode 386/2000, Total Reward: -42, Epsilon: 0.962133629336845
+Episode 387/2000, Total Reward: -74, Epsilon: 0.9620374159739113
+Episode 388/2000, Total Reward: -74, Epsilon: 0.961941212232314
+Episode 389/2000, Total Reward: 16, Epsilon: 0.9618450181110908
+Episode 390/2000, Total Reward: 16, Epsilon: 0.9617488336092797
+Episode 391/2000, Total Reward: -74, Epsilon: 0.9616526587259188
+Episode 392/2000, Total Reward: -74, Epsilon: 0.9615564934600462
+edge already selected: 0
+Episode 393/2000, Total Reward: -9999999984, Epsilon: 0.9614603378107003
+Episode 394/2000, Total Reward: -74, Epsilon: 0.9613641917769192
+Episode 395/2000, Total Reward: 22, Epsilon: 0.9612680553577415
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 396/2000, Total Reward: -30000000074, Epsilon: 0.9611719285522058
+Episode 397/2000, Total Reward: -42, Epsilon: 0.9610758113593506
+Episode 398/2000, Total Reward: 22, Epsilon: 0.9609797037782147
+edge already selected: 0
+Episode 399/2000, Total Reward: -9999999984, Epsilon: 0.9608836058078369
+Episode 400/2000, Total Reward: -74, Epsilon: 0.9607875174472562
+edge already selected: 0
+Episode 401/2000, Total Reward: -9999999984, Epsilon: 0.9606914386955115
+Episode 402/2000, Total Reward: -42, Epsilon: 0.960595369551642
+Episode 403/2000, Total Reward: -42, Epsilon: 0.9604993100146869
+Episode 404/2000, Total Reward: -10, Epsilon: 0.9604032600836855
+Episode 405/2000, Total Reward: -74, Epsilon: 0.9603072197576771
+Episode 406/2000, Total Reward: -10, Epsilon: 0.9602111890357014
+Episode 407/2000, Total Reward: 254, Epsilon: 0.9601151679167977
+Episode 408/2000, Total Reward: 254, Epsilon: 0.9600191564000061
+edge already selected: 0
+edge already selected: 0
+Episode 409/2000, Total Reward: -19999999952, Epsilon: 0.9599231544843662
+Episode 410/2000, Total Reward: 16, Epsilon: 0.9598271621689177
+Episode 411/2000, Total Reward: -10, Epsilon: 0.9597311794527008
+Episode 412/2000, Total Reward: 16, Epsilon: 0.9596352063347555
+Episode 413/2000, Total Reward: -10, Epsilon: 0.9595392428141221
+edge already selected: 0
+Episode 414/2000, Total Reward: -10000000042, Epsilon: 0.9594432888898407
+Episode 415/2000, Total Reward: 48, Epsilon: 0.9593473445609517
+edge already selected: 0
+Episode 416/2000, Total Reward: -10000000010, Epsilon: 0.9592514098264956
+Episode 417/2000, Total Reward: 16, Epsilon: 0.9591554846855129
+Episode 418/2000, Total Reward: -74, Epsilon: 0.9590595691370444
+Episode 419/2000, Total Reward: -42, Epsilon: 0.9589636631801307
+Episode 420/2000, Total Reward: -42, Epsilon: 0.9588677668138127
+Episode 421/2000, Total Reward: -74, Epsilon: 0.9587718800371313
+Episode 422/2000, Total Reward: -42, Epsilon: 0.9586760028491276
+Episode 423/2000, Total Reward: 16, Epsilon: 0.9585801352488427
+Episode 424/2000, Total Reward: -74, Epsilon: 0.9584842772353178
+Episode 425/2000, Total Reward: -74, Epsilon: 0.9583884288075943
+Episode 426/2000, Total Reward: 80, Epsilon: 0.9582925899647136
+Episode 427/2000, Total Reward: 16, Epsilon: 0.9581967607057171
+Episode 428/2000, Total Reward: 22, Epsilon: 0.9581009410296466
+Episode 429/2000, Total Reward: 22, Epsilon: 0.9580051309355436
+Episode 430/2000, Total Reward: -74, Epsilon: 0.9579093304224501
+Episode 431/2000, Total Reward: -74, Epsilon: 0.9578135394894078
+Episode 432/2000, Total Reward: -74, Epsilon: 0.9577177581354589
+Episode 433/2000, Total Reward: -42, Epsilon: 0.9576219863596453
+Episode 434/2000, Total Reward: -74, Epsilon: 0.9575262241610094
+Episode 435/2000, Total Reward: -74, Epsilon: 0.9574304715385933
+edge already selected: 0
+Episode 436/2000, Total Reward: -9999999984, Epsilon: 0.9573347284914394
+Episode 437/2000, Total Reward: -10, Epsilon: 0.9572389950185903
+Episode 438/2000, Total Reward: 16, Epsilon: 0.9571432711190885
+Episode 439/2000, Total Reward: 16, Epsilon: 0.9570475567919766
+Episode 440/2000, Total Reward: 16, Epsilon: 0.9569518520362974
+Episode 441/2000, Total Reward: -74, Epsilon: 0.9568561568510938
+Episode 442/2000, Total Reward: -42, Epsilon: 0.9567604712354087
+Episode 443/2000, Total Reward: 16, Epsilon: 0.9566647951882852
+Episode 444/2000, Total Reward: -74, Epsilon: 0.9565691287087663
+edge already selected: 0
+Episode 445/2000, Total Reward: -9999999952, Epsilon: 0.9564734717958955
+Episode 446/2000, Total Reward: 22, Epsilon: 0.9563778244487159
+Episode 447/2000, Total Reward: 16, Epsilon: 0.9562821866662711
+Episode 448/2000, Total Reward: 48, Epsilon: 0.9561865584476045
+Episode 449/2000, Total Reward: 16, Epsilon: 0.9560909397917597
+Episode 450/2000, Total Reward: 16, Epsilon: 0.9559953306977805
+Episode 451/2000, Total Reward: -74, Epsilon: 0.9558997311647107
+Episode 452/2000, Total Reward: -74, Epsilon: 0.9558041411915943
+Episode 453/2000, Total Reward: 80, Epsilon: 0.9557085607774751
+Episode 454/2000, Total Reward: -42, Epsilon: 0.9556129899213974
+Episode 455/2000, Total Reward: 48, Epsilon: 0.9555174286224053
+Episode 456/2000, Total Reward: -10, Epsilon: 0.955421876879543
+Episode 457/2000, Total Reward: 16, Epsilon: 0.9553263346918551
+Episode 458/2000, Total Reward: -74, Epsilon: 0.955230802058386
+Episode 459/2000, Total Reward: -42, Epsilon: 0.9551352789781802
+edge already selected: 0
+Episode 460/2000, Total Reward: -9999999952, Epsilon: 0.9550397654502824
+Episode 461/2000, Total Reward: 16, Epsilon: 0.9549442614737373
+Episode 462/2000, Total Reward: -42, Epsilon: 0.95484876704759
+Episode 463/2000, Total Reward: 16, Epsilon: 0.9547532821708853
+Episode 464/2000, Total Reward: 48, Epsilon: 0.9546578068426682
+Episode 465/2000, Total Reward: -74, Epsilon: 0.9545623410619839
+edge already selected: 0
+Episode 466/2000, Total Reward: -9999999984, Epsilon: 0.9544668848278777
+Episode 467/2000, Total Reward: -74, Epsilon: 0.9543714381393948
+Episode 468/2000, Total Reward: 16, Epsilon: 0.954276000995581
+edge already selected: 0
+Episode 469/2000, Total Reward: -10000000074, Epsilon: 0.9541805733954815
+Episode 470/2000, Total Reward: -42, Epsilon: 0.9540851553381419
+edge already selected: 0
+Episode 471/2000, Total Reward: -10000000042, Epsilon: 0.9539897468226081
+Episode 472/2000, Total Reward: -42, Epsilon: 0.9538943478479258
+Episode 473/2000, Total Reward: -10, Epsilon: 0.953798958413141
+Episode 474/2000, Total Reward: -74, Epsilon: 0.9537035785172997
+Episode 475/2000, Total Reward: -42, Epsilon: 0.953608208159448
+Episode 476/2000, Total Reward: 16, Epsilon: 0.9535128473386321
+Episode 477/2000, Total Reward: -42, Epsilon: 0.9534174960538983
+Episode 478/2000, Total Reward: -40, Epsilon: 0.9533221543042929
+Episode 479/2000, Total Reward: -74, Epsilon: 0.9532268220888624
+Episode 480/2000, Total Reward: 16, Epsilon: 0.9531314994066535
+Episode 481/2000, Total Reward: -74, Epsilon: 0.9530361862567129
+Episode 482/2000, Total Reward: 16, Epsilon: 0.9529408826380873
+edge already selected: 0
+Episode 483/2000, Total Reward: -10000000074, Epsilon: 0.9528455885498235
+Episode 484/2000, Total Reward: 80, Epsilon: 0.9527503039909685
+Episode 485/2000, Total Reward: -74, Epsilon: 0.9526550289605694
+Episode 486/2000, Total Reward: 16, Epsilon: 0.9525597634576733
+Episode 487/2000, Total Reward: 16, Epsilon: 0.9524645074813276
+Episode 488/2000, Total Reward: -10, Epsilon: 0.9523692610305795
+Episode 489/2000, Total Reward: 16, Epsilon: 0.9522740241044765
+Episode 490/2000, Total Reward: -42, Epsilon: 0.9521787967020661
+Episode 491/2000, Total Reward: -10, Epsilon: 0.9520835788223959
+Episode 492/2000, Total Reward: -42, Epsilon: 0.9519883704645137
+Episode 493/2000, Total Reward: -74, Epsilon: 0.9518931716274672
+Episode 494/2000, Total Reward: 48, Epsilon: 0.9517979823103044
+Episode 495/2000, Total Reward: -74, Epsilon: 0.9517028025120734
+Episode 496/2000, Total Reward: 16, Epsilon: 0.9516076322318222
+Episode 497/2000, Total Reward: -74, Epsilon: 0.9515124714685991
+Episode 498/2000, Total Reward: -74, Epsilon: 0.9514173202214522
+edge already selected: 0
+edge already selected: 0
+Episode 499/2000, Total Reward: -19999999952, Epsilon: 0.95132217848943
+Episode 500/2000, Total Reward: 48, Epsilon: 0.9512270462715811
+Episode 501/2000, Total Reward: -74, Epsilon: 0.9511319235669539
+Episode 502/2000, Total Reward: 16, Epsilon: 0.9510368103745972
+Episode 503/2000, Total Reward: 80, Epsilon: 0.9509417066935597
+Episode 504/2000, Total Reward: -74, Epsilon: 0.9508466125228904
+edge already selected: 0
+Episode 505/2000, Total Reward: -10000000042, Epsilon: 0.9507515278616381
+edge already selected: 0
+Episode 506/2000, Total Reward: -10000000010, Epsilon: 0.9506564527088519
+Episode 507/2000, Total Reward: -42, Epsilon: 0.9505613870635811
+Episode 508/2000, Total Reward: 22, Epsilon: 0.9504663309248748
+Episode 509/2000, Total Reward: 48, Epsilon: 0.9503712842917823
+Episode 510/2000, Total Reward: -74, Epsilon: 0.9502762471633531
+Episode 511/2000, Total Reward: 80, Epsilon: 0.9501812195386368
+edge already selected: 0
+edge already selected: 0
+Episode 512/2000, Total Reward: -20000000042, Epsilon: 0.9500862014166829
+Episode 513/2000, Total Reward: 16, Epsilon: 0.9499911927965412
+Episode 514/2000, Total Reward: 16, Epsilon: 0.9498961936772615
+edge already selected: 0
+Episode 515/2000, Total Reward: -9999999952, Epsilon: 0.9498012040578938
+Episode 516/2000, Total Reward: 16, Epsilon: 0.949706223937488
+Episode 517/2000, Total Reward: -74, Epsilon: 0.9496112533150943
+Episode 518/2000, Total Reward: -42, Epsilon: 0.9495162921897629
+Episode 519/2000, Total Reward: 16, Epsilon: 0.9494213405605438
+Episode 520/2000, Total Reward: -42, Epsilon: 0.9493263984264878
+Episode 521/2000, Total Reward: -10, Epsilon: 0.9492314657866452
+Episode 522/2000, Total Reward: -42, Epsilon: 0.9491365426400665
+edge already selected: 0
+Episode 523/2000, Total Reward: -9999999984, Epsilon: 0.9490416289858026
+Episode 524/2000, Total Reward: 16, Epsilon: 0.948946724822904
+Episode 525/2000, Total Reward: -10, Epsilon: 0.9488518301504217
+edge already selected: 0
+Episode 526/2000, Total Reward: -10000000042, Epsilon: 0.9487569449674067
+Episode 527/2000, Total Reward: 16, Epsilon: 0.94866206927291
+Episode 528/2000, Total Reward: 16, Epsilon: 0.9485672030659826
+Episode 529/2000, Total Reward: -42, Epsilon: 0.948472346345676
+Episode 530/2000, Total Reward: 16, Epsilon: 0.9483774991110414
+edge already selected: 0
+Episode 531/2000, Total Reward: -9999999984, Epsilon: 0.9482826613611303
+Episode 532/2000, Total Reward: -10, Epsilon: 0.9481878330949942
+Episode 533/2000, Total Reward: 16, Epsilon: 0.9480930143116847
+Episode 534/2000, Total Reward: -10, Epsilon: 0.9479982050102536
+edge already selected: 0
+edge already selected: 0
+Episode 535/2000, Total Reward: -20000000042, Epsilon: 0.9479034051897526
+Episode 536/2000, Total Reward: -74, Epsilon: 0.9478086148492336
+Episode 537/2000, Total Reward: 16, Epsilon: 0.9477138339877487
+edge already selected: 0
+edge already selected: 0
+Episode 538/2000, Total Reward: -20000000074, Epsilon: 0.9476190626043499
+Episode 539/2000, Total Reward: 16, Epsilon: 0.9475243006980895
+Episode 540/2000, Total Reward: -74, Epsilon: 0.9474295482680196
+edge already selected: 0
+Episode 541/2000, Total Reward: -9999999984, Epsilon: 0.9473348053131928
+Episode 542/2000, Total Reward: 48, Epsilon: 0.9472400718326615
+edge already selected: 0
+edge already selected: 0
+Episode 543/2000, Total Reward: -19999999984, Epsilon: 0.9471453478254782
+Episode 544/2000, Total Reward: 48, Epsilon: 0.9470506332906957
+Episode 545/2000, Total Reward: -74, Epsilon: 0.9469559282273666
+Episode 546/2000, Total Reward: -42, Epsilon: 0.9468612326345439
+Episode 547/2000, Total Reward: -42, Epsilon: 0.9467665465112804
+Episode 548/2000, Total Reward: 16, Epsilon: 0.9466718698566293
+Episode 549/2000, Total Reward: -42, Epsilon: 0.9465772026696436
+edge already selected: 0
+Episode 550/2000, Total Reward: -10000000010, Epsilon: 0.9464825449493767
+Episode 551/2000, Total Reward: -42, Epsilon: 0.9463878966948818
+Episode 552/2000, Total Reward: 16, Epsilon: 0.9462932579052122
+Episode 553/2000, Total Reward: 16, Epsilon: 0.9461986285794217
+edge already selected: 0
+edge already selected: 0
+Episode 554/2000, Total Reward: -19999999952, Epsilon: 0.9461040087165637
+Episode 555/2000, Total Reward: -74, Epsilon: 0.9460093983156921
+edge already selected: 0
+edge already selected: 0
+Episode 556/2000, Total Reward: -20000000010, Epsilon: 0.9459147973758605
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 557/2000, Total Reward: -39999999920, Epsilon: 0.9458202058961229
+edge already selected: 0
+Episode 558/2000, Total Reward: -10000000074, Epsilon: 0.9457256238755333
+Episode 559/2000, Total Reward: 48, Epsilon: 0.9456310513131457
+Episode 560/2000, Total Reward: -74, Epsilon: 0.9455364882080144
+Episode 561/2000, Total Reward: -74, Epsilon: 0.9454419345591936
+Episode 562/2000, Total Reward: 16, Epsilon: 0.9453473903657377
+Episode 563/2000, Total Reward: 318, Epsilon: 0.9452528556267011
+Episode 564/2000, Total Reward: -74, Epsilon: 0.9451583303411385
+Episode 565/2000, Total Reward: 48, Epsilon: 0.9450638145081044
+Episode 566/2000, Total Reward: 112, Epsilon: 0.9449693081266536
+Episode 567/2000, Total Reward: -74, Epsilon: 0.9448748111958409
+edge already selected: 0
+Episode 568/2000, Total Reward: -10000000010, Epsilon: 0.9447803237147213
+Episode 569/2000, Total Reward: 16, Epsilon: 0.9446858456823498
+Episode 570/2000, Total Reward: 16, Epsilon: 0.9445913770977816
+edge already selected: 0
+Episode 571/2000, Total Reward: -9999999984, Epsilon: 0.9444969179600718
+Episode 572/2000, Total Reward: -42, Epsilon: 0.9444024682682759
+edge already selected: 0
+Episode 573/2000, Total Reward: -10000000042, Epsilon: 0.9443080280214491
+Episode 574/2000, Total Reward: -74, Epsilon: 0.944213597218647
+Episode 575/2000, Total Reward: -74, Epsilon: 0.9441191758589251
+edge already selected: 0
+Episode 576/2000, Total Reward: -10000000042, Epsilon: 0.9440247639413393
+Episode 577/2000, Total Reward: -42, Epsilon: 0.9439303614649451
+Episode 578/2000, Total Reward: -74, Epsilon: 0.9438359684287987
+Episode 579/2000, Total Reward: -74, Epsilon: 0.9437415848319558
+Episode 580/2000, Total Reward: 48, Epsilon: 0.9436472106734726
+Episode 581/2000, Total Reward: -74, Epsilon: 0.9435528459524052
+Episode 582/2000, Total Reward: 16, Epsilon: 0.94345849066781
+Episode 583/2000, Total Reward: -42, Epsilon: 0.9433641448187432
+Episode 584/2000, Total Reward: -42, Epsilon: 0.9432698084042613
+Episode 585/2000, Total Reward: -42, Epsilon: 0.9431754814234209
+Episode 586/2000, Total Reward: 16, Epsilon: 0.9430811638752785
+edge already selected: 0
+Episode 587/2000, Total Reward: -10000000010, Epsilon: 0.942986855758891
+Episode 588/2000, Total Reward: -42, Epsilon: 0.9428925570733151
+edge already selected: 0
+edge already selected: 0
+Episode 589/2000, Total Reward: -20000000042, Epsilon: 0.9427982678176078
+edge already selected: 0
+Episode 590/2000, Total Reward: -9999999984, Epsilon: 0.942703987990826
+Episode 591/2000, Total Reward: 48, Epsilon: 0.9426097175920269
+Episode 592/2000, Total Reward: 16, Epsilon: 0.9425154566202677
+Episode 593/2000, Total Reward: -42, Epsilon: 0.9424212050746057
+Episode 594/2000, Total Reward: 16, Epsilon: 0.9423269629540982
+Episode 595/2000, Total Reward: 16, Epsilon: 0.9422327302578029
+Episode 596/2000, Total Reward: 16, Epsilon: 0.9421385069847771
+Episode 597/2000, Total Reward: -42, Epsilon: 0.9420442931340786
+edge already selected: 0
+Episode 598/2000, Total Reward: -9999999978, Epsilon: 0.9419500887047652
+edge already selected: 0
+Episode 599/2000, Total Reward: -9999999952, Epsilon: 0.9418558936958947
+Episode 600/2000, Total Reward: 16, Epsilon: 0.9417617081065252
+edge already selected: 0
+edge already selected: 0
+Episode 601/2000, Total Reward: -19999999978, Epsilon: 0.9416675319357145
+Episode 602/2000, Total Reward: 16, Epsilon: 0.941573365182521
+Episode 603/2000, Total Reward: 22, Epsilon: 0.9414792078460027
+edge already selected: 0
+Episode 604/2000, Total Reward: -10000000042, Epsilon: 0.9413850599252181
+Episode 605/2000, Total Reward: -74, Epsilon: 0.9412909214192257
+edge already selected: 0
+Episode 606/2000, Total Reward: -10000000074, Epsilon: 0.9411967923270838
+Episode 607/2000, Total Reward: -74, Epsilon: 0.9411026726478511
+Episode 608/2000, Total Reward: 16, Epsilon: 0.9410085623805863
+Episode 609/2000, Total Reward: -42, Epsilon: 0.9409144615243482
+Episode 610/2000, Total Reward: -42, Epsilon: 0.9408203700781957
+Episode 611/2000, Total Reward: 80, Epsilon: 0.940726288041188
+Episode 612/2000, Total Reward: -74, Epsilon: 0.9406322154123838
+edge already selected: 0
+Episode 613/2000, Total Reward: -9999999984, Epsilon: 0.9405381521908426
+Episode 614/2000, Total Reward: 48, Epsilon: 0.9404440983756235
+Episode 615/2000, Total Reward: -74, Epsilon: 0.940350053965786
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 616/2000, Total Reward: -29999999978, Epsilon: 0.9402560189603894
+Episode 617/2000, Total Reward: -42, Epsilon: 0.9401619933584934
+Episode 618/2000, Total Reward: -74, Epsilon: 0.9400679771591576
+Episode 619/2000, Total Reward: 48, Epsilon: 0.9399739703614417
+Episode 620/2000, Total Reward: 22, Epsilon: 0.9398799729644056
+Episode 621/2000, Total Reward: 16, Epsilon: 0.9397859849671092
+Episode 622/2000, Total Reward: 48, Epsilon: 0.9396920063686125
+Episode 623/2000, Total Reward: 16, Epsilon: 0.9395980371679756
+Episode 624/2000, Total Reward: -74, Epsilon: 0.9395040773642589
+Episode 625/2000, Total Reward: -74, Epsilon: 0.9394101269565225
+Episode 626/2000, Total Reward: 16, Epsilon: 0.9393161859438268
+edge already selected: 0
+Episode 627/2000, Total Reward: -9999999978, Epsilon: 0.9392222543252324
+edge already selected: 0
+Episode 628/2000, Total Reward: -9999999952, Epsilon: 0.9391283320998
+Episode 629/2000, Total Reward: -10, Epsilon: 0.93903441926659
+Episode 630/2000, Total Reward: -74, Epsilon: 0.9389405158246634
+Episode 631/2000, Total Reward: 16, Epsilon: 0.938846621773081
+Episode 632/2000, Total Reward: -42, Epsilon: 0.9387527371109037
+Episode 633/2000, Total Reward: -74, Epsilon: 0.9386588618371926
+Episode 634/2000, Total Reward: -10, Epsilon: 0.9385649959510088
+Episode 635/2000, Total Reward: 16, Epsilon: 0.9384711394514138
+edge already selected: 0
+Episode 636/2000, Total Reward: -9999999920, Epsilon: 0.9383772923374687
+Episode 637/2000, Total Reward: -42, Epsilon: 0.9382834546082349
+Episode 638/2000, Total Reward: -74, Epsilon: 0.9381896262627741
+edge already selected: 0
+Episode 639/2000, Total Reward: -9999999952, Epsilon: 0.9380958073001479
+Episode 640/2000, Total Reward: -42, Epsilon: 0.9380019977194178
+Episode 641/2000, Total Reward: -10, Epsilon: 0.9379081975196459
+edge already selected: 0
+Episode 642/2000, Total Reward: -9999999984, Epsilon: 0.937814406699894
+Episode 643/2000, Total Reward: 48, Epsilon: 0.9377206252592241
+Episode 644/2000, Total Reward: 48, Epsilon: 0.9376268531966981
+Episode 645/2000, Total Reward: -74, Epsilon: 0.9375330905113785
+Episode 646/2000, Total Reward: -74, Epsilon: 0.9374393372023273
+edge already selected: 0
+Episode 647/2000, Total Reward: -9999999920, Epsilon: 0.9373455932686071
+edge already selected: 0
+Episode 648/2000, Total Reward: -10000000074, Epsilon: 0.9372518587092803
+Episode 649/2000, Total Reward: 22, Epsilon: 0.9371581335234094
+Episode 650/2000, Total Reward: 22, Epsilon: 0.937064417710057
+Episode 651/2000, Total Reward: 16, Epsilon: 0.936970711268286
+Episode 652/2000, Total Reward: 48, Epsilon: 0.9368770141971592
+edge already selected: 0
+Episode 653/2000, Total Reward: -9999999984, Epsilon: 0.9367833264957395
+Episode 654/2000, Total Reward: -42, Epsilon: 0.9366896481630899
+Episode 655/2000, Total Reward: 16, Epsilon: 0.9365959791982735
+Episode 656/2000, Total Reward: -74, Epsilon: 0.9365023196003537
+Episode 657/2000, Total Reward: 16, Epsilon: 0.9364086693683936
+Episode 658/2000, Total Reward: 16, Epsilon: 0.9363150285014568
+Episode 659/2000, Total Reward: -42, Epsilon: 0.9362213969986066
+Episode 660/2000, Total Reward: -74, Epsilon: 0.9361277748589067
+edge already selected: 0
+Episode 661/2000, Total Reward: -10000000074, Epsilon: 0.9360341620814209
+Episode 662/2000, Total Reward: -42, Epsilon: 0.9359405586652128
+edge already selected: 0
+Episode 663/2000, Total Reward: -9999999984, Epsilon: 0.9358469646093462
+Episode 664/2000, Total Reward: -42, Epsilon: 0.9357533799128853
+Episode 665/2000, Total Reward: -10, Epsilon: 0.9356598045748941
+Episode 666/2000, Total Reward: 80, Epsilon: 0.9355662385944366
+edge already selected: 0
+Episode 667/2000, Total Reward: -9999999952, Epsilon: 0.9354726819705771
+Episode 668/2000, Total Reward: -74, Epsilon: 0.93537913470238
+Episode 669/2000, Total Reward: 16, Epsilon: 0.9352855967889098
+Episode 670/2000, Total Reward: -10, Epsilon: 0.9351920682292308
+Episode 671/2000, Total Reward: -74, Epsilon: 0.935098549022408
+Episode 672/2000, Total Reward: -42, Epsilon: 0.9350050391675058
+Episode 673/2000, Total Reward: 48, Epsilon: 0.934911538663589
+Episode 674/2000, Total Reward: -42, Epsilon: 0.9348180475097226
+Episode 675/2000, Total Reward: -42, Epsilon: 0.9347245657049716
+Episode 676/2000, Total Reward: 16, Epsilon: 0.9346310932484012
+edge already selected: 0
+Episode 677/2000, Total Reward: -9999999920, Epsilon: 0.9345376301390764
+Episode 678/2000, Total Reward: 16, Epsilon: 0.9344441763760625
+Episode 679/2000, Total Reward: -42, Epsilon: 0.9343507319584249
+Episode 680/2000, Total Reward: -42, Epsilon: 0.9342572968852291
+Episode 681/2000, Total Reward: 16, Epsilon: 0.9341638711555406
+edge already selected: 0
+Episode 682/2000, Total Reward: -10000000010, Epsilon: 0.934070454768425
+Episode 683/2000, Total Reward: -74, Epsilon: 0.9339770477229482
+edge already selected: 0
+Episode 684/2000, Total Reward: -10000000042, Epsilon: 0.933883650018176
+Episode 685/2000, Total Reward: -74, Epsilon: 0.9337902616531741
+edge already selected: 0
+Episode 686/2000, Total Reward: -9999999984, Epsilon: 0.9336968826270088
+Episode 687/2000, Total Reward: -42, Epsilon: 0.9336035129387461
+Episode 688/2000, Total Reward: -74, Epsilon: 0.9335101525874523
+Episode 689/2000, Total Reward: -74, Epsilon: 0.9334168015721935
+Episode 690/2000, Total Reward: -74, Epsilon: 0.9333234598920364
+Episode 691/2000, Total Reward: 16, Epsilon: 0.9332301275460472
+Episode 692/2000, Total Reward: -42, Epsilon: 0.9331368045332926
+edge already selected: 0
+edge already selected: 0
+Episode 693/2000, Total Reward: -20000000042, Epsilon: 0.9330434908528393
+Episode 694/2000, Total Reward: 16, Epsilon: 0.932950186503754
+Episode 695/2000, Total Reward: 80, Epsilon: 0.9328568914851036
+Episode 696/2000, Total Reward: -74, Epsilon: 0.9327636057959552
+Episode 697/2000, Total Reward: 16, Epsilon: 0.9326703294353756
+Episode 698/2000, Total Reward: -42, Epsilon: 0.9325770624024321
+Episode 699/2000, Total Reward: -42, Epsilon: 0.9324838046961919
+Episode 700/2000, Total Reward: 48, Epsilon: 0.9323905563157222
+edge already selected: 0
+Episode 701/2000, Total Reward: -9999999952, Epsilon: 0.9322973172600907
+Episode 702/2000, Total Reward: -42, Epsilon: 0.9322040875283647
+edge already selected: 0
+Episode 703/2000, Total Reward: -9999999952, Epsilon: 0.9321108671196119
+edge already selected: 0
+Episode 704/2000, Total Reward: -10000000042, Epsilon: 0.9320176560329
+edge already selected: 0
+Episode 705/2000, Total Reward: -9999999984, Epsilon: 0.9319244542672968
+Episode 706/2000, Total Reward: -74, Epsilon: 0.93183126182187
+Episode 707/2000, Total Reward: 16, Epsilon: 0.9317380786956878
+Episode 708/2000, Total Reward: -10, Epsilon: 0.9316449048878183
+Episode 709/2000, Total Reward: -74, Epsilon: 0.9315517403973295
+Episode 710/2000, Total Reward: -42, Epsilon: 0.9314585852232897
+edge already selected: 0
+Episode 711/2000, Total Reward: -10000000074, Epsilon: 0.9313654393647675
+Episode 712/2000, Total Reward: -74, Epsilon: 0.931272302820831
+Episode 713/2000, Total Reward: -72, Epsilon: 0.9311791755905489
+Episode 714/2000, Total Reward: -42, Epsilon: 0.9310860576729898
+Episode 715/2000, Total Reward: 48, Epsilon: 0.9309929490672225
+edge already selected: 0
+Episode 716/2000, Total Reward: -10000000042, Epsilon: 0.9308998497723158
+edge already selected: 0
+edge already selected: 0
+Episode 717/2000, Total Reward: -19999999984, Epsilon: 0.9308067597873385
+Episode 718/2000, Total Reward: 48, Epsilon: 0.9307136791113598
+Episode 719/2000, Total Reward: 16, Epsilon: 0.9306206077434487
+edge already selected: 0
+Episode 720/2000, Total Reward: -10000000074, Epsilon: 0.9305275456826744
+Episode 721/2000, Total Reward: -10, Epsilon: 0.9304344929281061
+edge already selected: 0
+edge already selected: 0
+Episode 722/2000, Total Reward: -19999999984, Epsilon: 0.9303414494788133
+Episode 723/2000, Total Reward: 16, Epsilon: 0.9302484153338654
+Episode 724/2000, Total Reward: -42, Epsilon: 0.930155390492332
+edge already selected: 0
+Episode 725/2000, Total Reward: -10000000042, Epsilon: 0.9300623749532828
+Episode 726/2000, Total Reward: 16, Epsilon: 0.9299693687157875
+Episode 727/2000, Total Reward: -74, Epsilon: 0.9298763717789159
+Episode 728/2000, Total Reward: -74, Epsilon: 0.929783384141738
+edge already selected: 0
+Episode 729/2000, Total Reward: -9999999984, Epsilon: 0.9296904058033238
+Episode 730/2000, Total Reward: -42, Epsilon: 0.9295974367627435
+Episode 731/2000, Total Reward: 48, Epsilon: 0.9295044770190672
+Episode 732/2000, Total Reward: -74, Epsilon: 0.9294115265713654
+Episode 733/2000, Total Reward: 80, Epsilon: 0.9293185854187083
+Episode 734/2000, Total Reward: 16, Epsilon: 0.9292256535601664
+Episode 735/2000, Total Reward: -74, Epsilon: 0.9291327309948104
+Episode 736/2000, Total Reward: 48, Epsilon: 0.929039817721711
+Episode 737/2000, Total Reward: -74, Epsilon: 0.9289469137399388
+edge already selected: 0
+Episode 738/2000, Total Reward: -9999999984, Epsilon: 0.9288540190485648
+Episode 739/2000, Total Reward: 48, Epsilon: 0.9287611336466599
+edge already selected: 0
+Episode 740/2000, Total Reward: -9999999952, Epsilon: 0.9286682575332953
+Episode 741/2000, Total Reward: 16, Epsilon: 0.928575390707542
+Episode 742/2000, Total Reward: 16, Epsilon: 0.9284825331684713
+edge already selected: 0
+edge already selected: 0
+Episode 743/2000, Total Reward: -20000000042, Epsilon: 0.9283896849151545
+Episode 744/2000, Total Reward: 48, Epsilon: 0.928296845946663
+edge already selected: 0
+Episode 745/2000, Total Reward: -9999999952, Epsilon: 0.9282040162620683
+Episode 746/2000, Total Reward: 16, Epsilon: 0.9281111958604421
+edge already selected: 0
+Episode 747/2000, Total Reward: -9999999984, Epsilon: 0.9280183847408561
+edge already selected: 0
+Episode 748/2000, Total Reward: -10000000010, Epsilon: 0.927925582902382
+Episode 749/2000, Total Reward: 16, Epsilon: 0.9278327903440918
+Episode 750/2000, Total Reward: 48, Epsilon: 0.9277400070650574
+Episode 751/2000, Total Reward: -42, Epsilon: 0.9276472330643509
+edge already selected: 0
+Episode 752/2000, Total Reward: -9999999984, Epsilon: 0.9275544683410445
+Episode 753/2000, Total Reward: 16, Epsilon: 0.9274617128942104
+Episode 754/2000, Total Reward: 22, Epsilon: 0.927368966722921
+Episode 755/2000, Total Reward: -42, Epsilon: 0.9272762298262487
+edge already selected: 0
+Episode 756/2000, Total Reward: -10000000042, Epsilon: 0.9271835022032661
+Episode 757/2000, Total Reward: -74, Epsilon: 0.9270907838530458
+Episode 758/2000, Total Reward: 16, Epsilon: 0.9269980747746605
+Episode 759/2000, Total Reward: 80, Epsilon: 0.926905374967183
+Episode 760/2000, Total Reward: 16, Epsilon: 0.9268126844296862
+Episode 761/2000, Total Reward: -74, Epsilon: 0.9267200031612433
+edge already selected: 0
+Episode 762/2000, Total Reward: -9999999984, Epsilon: 0.9266273311609271
+Episode 763/2000, Total Reward: -74, Epsilon: 0.9265346684278111
+edge already selected: 0
+Episode 764/2000, Total Reward: -10000000042, Epsilon: 0.9264420149609683
+edge already selected: 0
+Episode 765/2000, Total Reward: -10000000042, Epsilon: 0.9263493707594722
+edge already selected: 0
+Episode 766/2000, Total Reward: -10000000042, Epsilon: 0.9262567358223963
+edge already selected: 0
+Episode 767/2000, Total Reward: -10000000074, Epsilon: 0.9261641101488141
+Episode 768/2000, Total Reward: 80, Epsilon: 0.9260714937377992
+Episode 769/2000, Total Reward: 16, Epsilon: 0.9259788865884254
+edge already selected: 0
+edge already selected: 0
+Episode 770/2000, Total Reward: -19999999952, Epsilon: 0.9258862886997666
+Episode 771/2000, Total Reward: 16, Epsilon: 0.9257937000708967
+Episode 772/2000, Total Reward: -42, Epsilon: 0.9257011207008896
+Episode 773/2000, Total Reward: 16, Epsilon: 0.9256085505888195
+edge already selected: 0
+Episode 774/2000, Total Reward: -10000000010, Epsilon: 0.9255159897337607
+edge already selected: 0
+Episode 775/2000, Total Reward: -9999999984, Epsilon: 0.9254234381347873
+Episode 776/2000, Total Reward: -42, Epsilon: 0.9253308957909738
+Episode 777/2000, Total Reward: -42, Epsilon: 0.9252383627013947
+Episode 778/2000, Total Reward: -10, Epsilon: 0.9251458388651246
+Episode 779/2000, Total Reward: 48, Epsilon: 0.9250533242812381
+Episode 780/2000, Total Reward: -74, Epsilon: 0.92496081894881
+Episode 781/2000, Total Reward: -42, Epsilon: 0.9248683228669151
+Episode 782/2000, Total Reward: -74, Epsilon: 0.9247758360346284
+Episode 783/2000, Total Reward: -74, Epsilon: 0.924683358451025
+Episode 784/2000, Total Reward: 16, Epsilon: 0.9245908901151799
+edge already selected: 0
+Episode 785/2000, Total Reward: -9999999978, Epsilon: 0.9244984310261685
+Episode 786/2000, Total Reward: 16, Epsilon: 0.9244059811830658
+Episode 787/2000, Total Reward: -10, Epsilon: 0.9243135405849475
+Episode 788/2000, Total Reward: -74, Epsilon: 0.9242211092308891
+Episode 789/2000, Total Reward: -42, Epsilon: 0.924128687119966
+edge already selected: 0
+Episode 790/2000, Total Reward: -9999999714, Epsilon: 0.924036274251254
+Episode 791/2000, Total Reward: -42, Epsilon: 0.9239438706238289
+edge already selected: 0
+Episode 792/2000, Total Reward: -10000000074, Epsilon: 0.9238514762367666
+edge already selected: 0
+edge already selected: 0
+Episode 793/2000, Total Reward: -20000000074, Epsilon: 0.9237590910891429
+Episode 794/2000, Total Reward: -42, Epsilon: 0.923666715180034
+Episode 795/2000, Total Reward: 16, Epsilon: 0.9235743485085159
+Episode 796/2000, Total Reward: -42, Epsilon: 0.9234819910736651
+Episode 797/2000, Total Reward: -42, Epsilon: 0.9233896428745578
+Episode 798/2000, Total Reward: 48, Epsilon: 0.9232973039102704
+Episode 799/2000, Total Reward: -74, Epsilon: 0.9232049741798795
+edge already selected: 0
+Episode 800/2000, Total Reward: -9999999984, Epsilon: 0.9231126536824614
+Episode 801/2000, Total Reward: -74, Epsilon: 0.9230203424170932
+edge already selected: 0
+Episode 802/2000, Total Reward: -10000000074, Epsilon: 0.9229280403828515
+Episode 803/2000, Total Reward: -74, Epsilon: 0.9228357475788131
+Episode 804/2000, Total Reward: 48, Epsilon: 0.9227434640040553
+Episode 805/2000, Total Reward: 16, Epsilon: 0.9226511896576549
+edge already selected: 0
+Episode 806/2000, Total Reward: -9999999952, Epsilon: 0.9225589245386892
+Episode 807/2000, Total Reward: 16, Epsilon: 0.9224666686462353
+Episode 808/2000, Total Reward: -74, Epsilon: 0.9223744219793707
+Episode 809/2000, Total Reward: 16, Epsilon: 0.9222821845371728
+Episode 810/2000, Total Reward: 48, Epsilon: 0.9221899563187191
+edge already selected: 0
+edge already selected: 0
+Episode 811/2000, Total Reward: -19999999984, Epsilon: 0.9220977373230873
+Episode 812/2000, Total Reward: 16, Epsilon: 0.922005527549355
+edge already selected: 0
+Episode 813/2000, Total Reward: -10000000010, Epsilon: 0.9219133269966001
+Episode 814/2000, Total Reward: 48, Epsilon: 0.9218211356639004
+Episode 815/2000, Total Reward: 16, Epsilon: 0.921728953550334
+Episode 816/2000, Total Reward: 16, Epsilon: 0.921636780654979
+Episode 817/2000, Total Reward: -10, Epsilon: 0.9215446169769135
+edge already selected: 0
+edge already selected: 0
+Episode 818/2000, Total Reward: -20000000042, Epsilon: 0.9214524625152158
+Episode 819/2000, Total Reward: 16, Epsilon: 0.9213603172689643
+edge already selected: 0
+Episode 820/2000, Total Reward: -10000000042, Epsilon: 0.9212681812372374
+Episode 821/2000, Total Reward: -74, Epsilon: 0.9211760544191137
+Episode 822/2000, Total Reward: -74, Epsilon: 0.9210839368136717
+Episode 823/2000, Total Reward: -74, Epsilon: 0.9209918284199904
+Episode 824/2000, Total Reward: -74, Epsilon: 0.9208997292371484
+Episode 825/2000, Total Reward: -42, Epsilon: 0.9208076392642246
+edge already selected: 0
+Episode 826/2000, Total Reward: -10000000042, Epsilon: 0.9207155585002982
+Episode 827/2000, Total Reward: -10, Epsilon: 0.9206234869444482
+edge already selected: 0
+Episode 828/2000, Total Reward: -10000000042, Epsilon: 0.9205314245957538
+Episode 829/2000, Total Reward: 48, Epsilon: 0.9204393714532942
+Episode 830/2000, Total Reward: -74, Epsilon: 0.9203473275161489
+edge already selected: 0
+Episode 831/2000, Total Reward: -9999999984, Epsilon: 0.9202552927833972
+Episode 832/2000, Total Reward: 16, Epsilon: 0.9201632672541189
+Episode 833/2000, Total Reward: 16, Epsilon: 0.9200712509273935
+edge already selected: 0
+Episode 834/2000, Total Reward: -9999999984, Epsilon: 0.9199792438023008
+Episode 835/2000, Total Reward: 16, Epsilon: 0.9198872458779206
+Episode 836/2000, Total Reward: -42, Epsilon: 0.9197952571533328
+Episode 837/2000, Total Reward: -74, Epsilon: 0.9197032776276175
+Episode 838/2000, Total Reward: -74, Epsilon: 0.9196113072998547
+Episode 839/2000, Total Reward: 22, Epsilon: 0.9195193461691248
+Episode 840/2000, Total Reward: 16, Epsilon: 0.9194273942345079
+Episode 841/2000, Total Reward: 16, Epsilon: 0.9193354514950844
+edge already selected: 0
+Episode 842/2000, Total Reward: -10000000042, Epsilon: 0.919243517949935
+Episode 843/2000, Total Reward: 16, Epsilon: 0.91915159359814
+Episode 844/2000, Total Reward: 48, Epsilon: 0.9190596784387802
+edge already selected: 0
+edge already selected: 0
+Episode 845/2000, Total Reward: -19999999952, Epsilon: 0.9189677724709363
+Episode 846/2000, Total Reward: -42, Epsilon: 0.9188758756936892
+Episode 847/2000, Total Reward: -74, Epsilon: 0.9187839881061198
+edge already selected: 0
+edge already selected: 0
+Episode 848/2000, Total Reward: -20000000042, Epsilon: 0.9186921097073092
+Episode 849/2000, Total Reward: 16, Epsilon: 0.9186002404963385
+Episode 850/2000, Total Reward: -42, Epsilon: 0.9185083804722889
+edge already selected: 0
+edge already selected: 0
+Episode 851/2000, Total Reward: -20000000010, Epsilon: 0.9184165296342417
+Episode 852/2000, Total Reward: 16, Epsilon: 0.9183246879812783
+Episode 853/2000, Total Reward: 16, Epsilon: 0.9182328555124802
+Episode 854/2000, Total Reward: 48, Epsilon: 0.918141032226929
+Episode 855/2000, Total Reward: 48, Epsilon: 0.9180492181237063
+edge already selected: 0
+edge already selected: 0
+Episode 856/2000, Total Reward: -19999999952, Epsilon: 0.917957413201894
+edge already selected: 0
+Episode 857/2000, Total Reward: -10000000042, Epsilon: 0.9178656174605737
+Episode 858/2000, Total Reward: 16, Epsilon: 0.9177738308988277
+edge already selected: 0
+Episode 859/2000, Total Reward: -10000000042, Epsilon: 0.9176820535157378
+Episode 860/2000, Total Reward: -74, Epsilon: 0.9175902853103862
+Episode 861/2000, Total Reward: 16, Epsilon: 0.9174985262818552
+edge already selected: 0
+Episode 862/2000, Total Reward: -9999999984, Epsilon: 0.9174067764292271
+Episode 863/2000, Total Reward: -42, Epsilon: 0.9173150357515841
+Episode 864/2000, Total Reward: 16, Epsilon: 0.917223304248009
+edge already selected: 0
+edge already selected: 0
+Episode 865/2000, Total Reward: -19999999952, Epsilon: 0.9171315819175843
+Episode 866/2000, Total Reward: 48, Epsilon: 0.9170398687593925
+edge already selected: 0
+Episode 867/2000, Total Reward: -10000000042, Epsilon: 0.9169481647725165
+Episode 868/2000, Total Reward: -10, Epsilon: 0.9168564699560393
+edge already selected: 0
+Episode 869/2000, Total Reward: -9999999984, Epsilon: 0.9167647843090437
+Episode 870/2000, Total Reward: -74, Epsilon: 0.9166731078306128
+Episode 871/2000, Total Reward: -42, Epsilon: 0.9165814405198298
+Episode 872/2000, Total Reward: 48, Epsilon: 0.9164897823757778
+Episode 873/2000, Total Reward: -74, Epsilon: 0.9163981333975403
+Episode 874/2000, Total Reward: 16, Epsilon: 0.9163064935842006
+edge already selected: 0
+Episode 875/2000, Total Reward: -10000000042, Epsilon: 0.9162148629348421
+edge already selected: 0
+Episode 876/2000, Total Reward: -10000000042, Epsilon: 0.9161232414485486
+Episode 877/2000, Total Reward: 48, Epsilon: 0.9160316291244037
+edge already selected: 0
+Episode 878/2000, Total Reward: -10000000010, Epsilon: 0.9159400259614913
+Episode 879/2000, Total Reward: 48, Epsilon: 0.9158484319588951
+Episode 880/2000, Total Reward: -42, Epsilon: 0.9157568471156993
+Episode 881/2000, Total Reward: -74, Epsilon: 0.9156652714309877
+Episode 882/2000, Total Reward: -42, Epsilon: 0.9155737049038447
+edge already selected: 0
+edge already selected: 0
+Episode 883/2000, Total Reward: -19999999746, Epsilon: 0.9154821475333543
+Episode 884/2000, Total Reward: 16, Epsilon: 0.915390599318601
+Episode 885/2000, Total Reward: -74, Epsilon: 0.9152990602586691
+Episode 886/2000, Total Reward: -74, Epsilon: 0.9152075303526432
+Episode 887/2000, Total Reward: -74, Epsilon: 0.915116009599608
+Episode 888/2000, Total Reward: 16, Epsilon: 0.915024497998648
+Episode 889/2000, Total Reward: 48, Epsilon: 0.9149329955488482
+Episode 890/2000, Total Reward: -10, Epsilon: 0.9148415022492934
+Episode 891/2000, Total Reward: -10, Epsilon: 0.9147500180990684
+Episode 892/2000, Total Reward: 16, Epsilon: 0.9146585430972585
+edge already selected: 0
+Episode 893/2000, Total Reward: -10000000042, Epsilon: 0.9145670772429487
+edge already selected: 0
+Episode 894/2000, Total Reward: -10000000074, Epsilon: 0.9144756205352245
+Episode 895/2000, Total Reward: -74, Epsilon: 0.914384172973171
+edge already selected: 0
+edge already selected: 0
+Episode 896/2000, Total Reward: -19999999984, Epsilon: 0.9142927345558737
+edge already selected: 0
+Episode 897/2000, Total Reward: -10000000010, Epsilon: 0.914201305282418
+Episode 898/2000, Total Reward: -42, Epsilon: 0.9141098851518898
+edge already selected: 0
+Episode 899/2000, Total Reward: -10000000042, Epsilon: 0.9140184741633747
+Episode 900/2000, Total Reward: -74, Epsilon: 0.9139270723159584
+Episode 901/2000, Total Reward: 16, Epsilon: 0.9138356796087268
+edge already selected: 0
+Episode 902/2000, Total Reward: -10000000074, Epsilon: 0.9137442960407659
+Episode 903/2000, Total Reward: -74, Epsilon: 0.9136529216111619
+Episode 904/2000, Total Reward: 16, Epsilon: 0.9135615563190007
+Episode 905/2000, Total Reward: -42, Epsilon: 0.9134702001633688
+Episode 906/2000, Total Reward: -74, Epsilon: 0.9133788531433524
+Episode 907/2000, Total Reward: -10, Epsilon: 0.9132875152580381
+edge already selected: 0
+Episode 908/2000, Total Reward: -10000000010, Epsilon: 0.9131961865065122
+Episode 909/2000, Total Reward: 48, Epsilon: 0.9131048668878616
+Episode 910/2000, Total Reward: 16, Epsilon: 0.9130135564011729
+Episode 911/2000, Total Reward: -74, Epsilon: 0.9129222550455328
+Episode 912/2000, Total Reward: 16, Epsilon: 0.9128309628200283
+Episode 913/2000, Total Reward: 16, Epsilon: 0.9127396797237463
+Episode 914/2000, Total Reward: 254, Epsilon: 0.9126484057557739
+Episode 915/2000, Total Reward: 48, Epsilon: 0.9125571409151984
+Episode 916/2000, Total Reward: 2, Epsilon: 0.9124658852011068
+edge already selected: 0
+Episode 917/2000, Total Reward: -10000000042, Epsilon: 0.9123746386125867
+edge already selected: 0
+Episode 918/2000, Total Reward: -10000000074, Epsilon: 0.9122834011487255
+Episode 919/2000, Total Reward: -74, Epsilon: 0.9121921728086106
+edge already selected: 0
+Episode 920/2000, Total Reward: -10000000010, Epsilon: 0.9121009535913298
+Episode 921/2000, Total Reward: 16, Epsilon: 0.9120097434959706
+Episode 922/2000, Total Reward: -10, Epsilon: 0.9119185425216211
+edge already selected: 0
+edge already selected: 0
+Episode 923/2000, Total Reward: -19999999984, Epsilon: 0.911827350667369
+edge already selected: 0
+Episode 924/2000, Total Reward: -9999999984, Epsilon: 0.9117361679323023
+Episode 925/2000, Total Reward: -42, Epsilon: 0.911644994315509
+edge already selected: 0
+Episode 926/2000, Total Reward: -9999999952, Epsilon: 0.9115538298160775
+Episode 927/2000, Total Reward: -74, Epsilon: 0.9114626744330959
+edge already selected: 0
+Episode 928/2000, Total Reward: -10000000074, Epsilon: 0.9113715281656526
+Episode 929/2000, Total Reward: -42, Epsilon: 0.9112803910128361
+Episode 930/2000, Total Reward: 16, Epsilon: 0.9111892629737348
+Episode 931/2000, Total Reward: -74, Epsilon: 0.9110981440474375
+Episode 932/2000, Total Reward: -42, Epsilon: 0.9110070342330328
+edge already selected: 0
+edge already selected: 0
+Episode 933/2000, Total Reward: -20000000010, Epsilon: 0.9109159335296094
+Episode 934/2000, Total Reward: 16, Epsilon: 0.9108248419362565
+edge already selected: 0
+Episode 935/2000, Total Reward: -10000000074, Epsilon: 0.9107337594520628
+Episode 936/2000, Total Reward: 16, Epsilon: 0.9106426860761176
+Episode 937/2000, Total Reward: 16, Epsilon: 0.91055162180751
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 938/2000, Total Reward: -29999999920, Epsilon: 0.9104605666453293
+edge already selected: 0
+Episode 939/2000, Total Reward: -9999999984, Epsilon: 0.9103695205886647
+edge already selected: 0
+Episode 940/2000, Total Reward: -9999999984, Epsilon: 0.9102784836366059
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 941/2000, Total Reward: -30000000042, Epsilon: 0.9101874557882422
+Episode 942/2000, Total Reward: 16, Epsilon: 0.9100964370426634
+Episode 943/2000, Total Reward: 16, Epsilon: 0.9100054273989592
+edge already selected: 0
+Episode 944/2000, Total Reward: -9999999984, Epsilon: 0.9099144268562193
+Episode 945/2000, Total Reward: -42, Epsilon: 0.9098234354135336
+edge already selected: 0
+edge already selected: 0
+Episode 946/2000, Total Reward: -20000000074, Epsilon: 0.9097324530699923
+edge already selected: 0
+Episode 947/2000, Total Reward: -9999999984, Epsilon: 0.9096414798246854
+Episode 948/2000, Total Reward: -42, Epsilon: 0.9095505156767029
+edge already selected: 0
+edge already selected: 0
+Episode 949/2000, Total Reward: -20000000010, Epsilon: 0.9094595606251352
+Episode 950/2000, Total Reward: 48, Epsilon: 0.9093686146690727
+Episode 951/2000, Total Reward: -10, Epsilon: 0.9092776778076058
+Episode 952/2000, Total Reward: 16, Epsilon: 0.9091867500398251
+edge already selected: 0
+Episode 953/2000, Total Reward: -10000000010, Epsilon: 0.9090958313648211
+Episode 954/2000, Total Reward: -10, Epsilon: 0.9090049217816846
+Episode 955/2000, Total Reward: -42, Epsilon: 0.9089140212895064
+edge already selected: 0
+Episode 956/2000, Total Reward: -9999999984, Epsilon: 0.9088231298873775
+Episode 957/2000, Total Reward: 16, Epsilon: 0.9087322475743888
+edge already selected: 0
+Episode 958/2000, Total Reward: -9999999984, Epsilon: 0.9086413743496313
+Episode 959/2000, Total Reward: 48, Epsilon: 0.9085505102121963
+edge already selected: 0
+edge already selected: 0
+Episode 960/2000, Total Reward: -20000000042, Epsilon: 0.9084596551611751
+Episode 961/2000, Total Reward: -42, Epsilon: 0.908368809195659
+edge already selected: 0
+Episode 962/2000, Total Reward: -10000000074, Epsilon: 0.9082779723147394
+edge already selected: 0
+edge already selected: 0
+Episode 963/2000, Total Reward: -19999999952, Epsilon: 0.9081871445175079
+edge already selected: 0
+edge already selected: 0
+Episode 964/2000, Total Reward: -19999999978, Epsilon: 0.9080963258030562
+Episode 965/2000, Total Reward: -42, Epsilon: 0.9080055161704759
+Episode 966/2000, Total Reward: -42, Epsilon: 0.9079147156188588
+Episode 967/2000, Total Reward: 16, Epsilon: 0.907823924147297
+edge already selected: 0
+edge already selected: 0
+Episode 968/2000, Total Reward: -19999999984, Epsilon: 0.9077331417548823
+edge already selected: 0
+edge already selected: 0
+Episode 969/2000, Total Reward: -20000000074, Epsilon: 0.9076423684407068
+edge already selected: 0
+Episode 970/2000, Total Reward: -9999999984, Epsilon: 0.9075516042038627
+Episode 971/2000, Total Reward: 16, Epsilon: 0.9074608490434424
+Episode 972/2000, Total Reward: -74, Epsilon: 0.907370102958538
+edge already selected: 0
+Episode 973/2000, Total Reward: -9999999952, Epsilon: 0.9072793659482422
+edge already selected: 0
+Episode 974/2000, Total Reward: -10000000010, Epsilon: 0.9071886380116474
+Episode 975/2000, Total Reward: 16, Epsilon: 0.9070979191478462
+Episode 976/2000, Total Reward: -74, Epsilon: 0.9070072093559315
+edge already selected: 0
+Episode 977/2000, Total Reward: -10000000042, Epsilon: 0.906916508634996
+edge already selected: 0
+edge already selected: 0
+Episode 978/2000, Total Reward: -19999999952, Epsilon: 0.9068258169841324
+Episode 979/2000, Total Reward: 16, Epsilon: 0.906735134402434
+Episode 980/2000, Total Reward: 16, Epsilon: 0.9066444608889938
+Episode 981/2000, Total Reward: -74, Epsilon: 0.9065537964429049
+edge already selected: 0
+Episode 982/2000, Total Reward: -9999999984, Epsilon: 0.9064631410632606
+edge already selected: 0
+Episode 983/2000, Total Reward: -10000000010, Epsilon: 0.9063724947491544
+Episode 984/2000, Total Reward: 16, Epsilon: 0.9062818574996795
+Episode 985/2000, Total Reward: -42, Epsilon: 0.9061912293139295
+Episode 986/2000, Total Reward: -74, Epsilon: 0.9061006101909981
+Episode 987/2000, Total Reward: 16, Epsilon: 0.906010000129979
+Episode 988/2000, Total Reward: 16, Epsilon: 0.905919399129966
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 989/2000, Total Reward: -40000000074, Epsilon: 0.905828807190053
+edge already selected: 0
+Episode 990/2000, Total Reward: -9999999978, Epsilon: 0.905738224309334
+Episode 991/2000, Total Reward: 16, Epsilon: 0.9056476504869031
+Episode 992/2000, Total Reward: -74, Epsilon: 0.9055570857218544
+edge already selected: 0
+Episode 993/2000, Total Reward: -10000000010, Epsilon: 0.9054665300132823
+edge already selected: 0
+Episode 994/2000, Total Reward: -9999999952, Epsilon: 0.9053759833602809
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 995/2000, Total Reward: -29999999984, Epsilon: 0.9052854457619449
+Episode 996/2000, Total Reward: 48, Epsilon: 0.9051949172173688
+Episode 997/2000, Total Reward: -10, Epsilon: 0.9051043977256471
+Episode 998/2000, Total Reward: 48, Epsilon: 0.9050138872858745
+Episode 999/2000, Total Reward: -74, Epsilon: 0.9049233858971459
+Episode 1000/2000, Total Reward: -74, Epsilon: 0.9048328935585562
+Episode 1001/2000, Total Reward: 16, Epsilon: 0.9047424102692004
+edge already selected: 0
+Episode 1002/2000, Total Reward: -10000000042, Epsilon: 0.9046519360281735
+edge already selected: 0
+edge already selected: 0
+Episode 1003/2000, Total Reward: -19999999984, Epsilon: 0.9045614708345707
+Episode 1004/2000, Total Reward: -10, Epsilon: 0.9044710146874873
+Episode 1005/2000, Total Reward: 16, Epsilon: 0.9043805675860185
+edge already selected: 0
+Episode 1006/2000, Total Reward: -9999999984, Epsilon: 0.9042901295292599
+edge already selected: 0
+Episode 1007/2000, Total Reward: -9999999952, Epsilon: 0.904199700516307
+Episode 1008/2000, Total Reward: 48, Epsilon: 0.9041092805462554
+Episode 1009/2000, Total Reward: -74, Epsilon: 0.9040188696182008
+Episode 1010/2000, Total Reward: -10, Epsilon: 0.9039284677312389
+edge already selected: 0
+edge already selected: 0
+Episode 1011/2000, Total Reward: -19999999952, Epsilon: 0.9038380748844658
+Episode 1012/2000, Total Reward: -74, Epsilon: 0.9037476910769774
+edge already selected: 0
+Episode 1013/2000, Total Reward: -9999999984, Epsilon: 0.9036573163078697
+Episode 1014/2000, Total Reward: -74, Epsilon: 0.9035669505762389
+Episode 1015/2000, Total Reward: -42, Epsilon: 0.9034765938811813
+Episode 1016/2000, Total Reward: -42, Epsilon: 0.9033862462217932
+Episode 1017/2000, Total Reward: -42, Epsilon: 0.903295907597171
+Episode 1018/2000, Total Reward: -10, Epsilon: 0.9032055780064113
+Episode 1019/2000, Total Reward: -42, Epsilon: 0.9031152574486107
+Episode 1020/2000, Total Reward: -42, Epsilon: 0.9030249459228658
+Episode 1021/2000, Total Reward: 16, Epsilon: 0.9029346434282735
+Episode 1022/2000, Total Reward: -74, Epsilon: 0.9028443499639306
+Episode 1023/2000, Total Reward: 16, Epsilon: 0.9027540655289342
+edge already selected: 0
+Episode 1024/2000, Total Reward: -10000000042, Epsilon: 0.9026637901223813
+edge already selected: 0
+Episode 1025/2000, Total Reward: -10000000042, Epsilon: 0.9025735237433691
+Episode 1026/2000, Total Reward: -42, Epsilon: 0.9024832663909947
+Episode 1027/2000, Total Reward: 80, Epsilon: 0.9023930180643557
+edge already selected: 0
+Episode 1028/2000, Total Reward: -10000000074, Epsilon: 0.9023027787625493
+Episode 1029/2000, Total Reward: -10, Epsilon: 0.902212548484673
+Episode 1030/2000, Total Reward: 16, Epsilon: 0.9021223272298245
+Episode 1031/2000, Total Reward: -74, Epsilon: 0.9020321149971016
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1032/2000, Total Reward: -29999999984, Epsilon: 0.9019419117856019
+Episode 1033/2000, Total Reward: 16, Epsilon: 0.9018517175944234
+Episode 1034/2000, Total Reward: -42, Epsilon: 0.901761532422664
+Episode 1035/2000, Total Reward: -74, Epsilon: 0.9016713562694217
+Episode 1036/2000, Total Reward: 48, Epsilon: 0.9015811891337948
+Episode 1037/2000, Total Reward: 16, Epsilon: 0.9014910310148815
+Episode 1038/2000, Total Reward: -42, Epsilon: 0.90140088191178
+edge already selected: 0
+Episode 1039/2000, Total Reward: -9999999984, Epsilon: 0.9013107418235888
+edge already selected: 0
+Episode 1040/2000, Total Reward: -10000000074, Epsilon: 0.9012206107494065
+Episode 1041/2000, Total Reward: 48, Epsilon: 0.9011304886883316
+edge already selected: 0
+Episode 1042/2000, Total Reward: -9999999952, Epsilon: 0.9010403756394627
+Episode 1043/2000, Total Reward: -42, Epsilon: 0.9009502716018988
+edge already selected: 0
+Episode 1044/2000, Total Reward: -9999999984, Epsilon: 0.9008601765747386
+edge already selected: 0
+edge already selected: 0
+Episode 1045/2000, Total Reward: -19999999984, Epsilon: 0.9007700905570811
+Episode 1046/2000, Total Reward: -74, Epsilon: 0.9006800135480254
+Episode 1047/2000, Total Reward: 254, Epsilon: 0.9005899455466706
+edge already selected: 0
+Episode 1048/2000, Total Reward: -10000000042, Epsilon: 0.900499886552116
+Episode 1049/2000, Total Reward: 16, Epsilon: 0.9004098365634607
+Episode 1050/2000, Total Reward: -42, Epsilon: 0.9003197955798045
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1051/2000, Total Reward: -29999999952, Epsilon: 0.9002297636002465
+edge already selected: 0
+Episode 1052/2000, Total Reward: -10000000042, Epsilon: 0.9001397406238866
+Episode 1053/2000, Total Reward: -42, Epsilon: 0.9000497266498242
+Episode 1054/2000, Total Reward: -42, Epsilon: 0.8999597216771592
+edge already selected: 0
+edge already selected: 0
+Episode 1055/2000, Total Reward: -20000000042, Epsilon: 0.8998697257049915
+Episode 1056/2000, Total Reward: -42, Epsilon: 0.899779738732421
+Episode 1057/2000, Total Reward: 48, Epsilon: 0.8996897607585478
+Episode 1058/2000, Total Reward: -74, Epsilon: 0.899599791782472
+Episode 1059/2000, Total Reward: 16, Epsilon: 0.8995098318032937
+Episode 1060/2000, Total Reward: -74, Epsilon: 0.8994198808201134
+Episode 1061/2000, Total Reward: -42, Epsilon: 0.8993299388320314
+edge already selected: 0
+Episode 1062/2000, Total Reward: -10000000010, Epsilon: 0.8992400058381482
+edge already selected: 0
+Episode 1063/2000, Total Reward: -9999999952, Epsilon: 0.8991500818375644
+Episode 1064/2000, Total Reward: 16, Epsilon: 0.8990601668293806
+Episode 1065/2000, Total Reward: 16, Epsilon: 0.8989702608126977
+Episode 1066/2000, Total Reward: 16, Epsilon: 0.8988803637866164
+edge already selected: 0
+Episode 1067/2000, Total Reward: -9999999984, Epsilon: 0.8987904757502377
+Episode 1068/2000, Total Reward: -42, Epsilon: 0.8987005967026628
+Episode 1069/2000, Total Reward: -42, Epsilon: 0.8986107266429926
+Episode 1070/2000, Total Reward: -74, Epsilon: 0.8985208655703283
+Episode 1071/2000, Total Reward: 16, Epsilon: 0.8984310134837713
+Episode 1072/2000, Total Reward: 48, Epsilon: 0.8983411703824229
+edge already selected: 0
+Episode 1073/2000, Total Reward: -9999999984, Epsilon: 0.8982513362653847
+Episode 1074/2000, Total Reward: -74, Epsilon: 0.8981615111317581
+edge already selected: 0
+Episode 1075/2000, Total Reward: -10000000010, Epsilon: 0.898071694980645
+Episode 1076/2000, Total Reward: -42, Epsilon: 0.897981887811147
+Episode 1077/2000, Total Reward: -42, Epsilon: 0.8978920896223659
+Episode 1078/2000, Total Reward: 16, Epsilon: 0.8978023004134037
+Episode 1079/2000, Total Reward: -42, Epsilon: 0.8977125201833623
+Episode 1080/2000, Total Reward: -42, Epsilon: 0.897622748931344
+Episode 1081/2000, Total Reward: -42, Epsilon: 0.8975329866564509
+edge already selected: 0
+Episode 1082/2000, Total Reward: -9999999978, Epsilon: 0.8974432333577852
+edge already selected: 0
+edge already selected: 0
+Episode 1083/2000, Total Reward: -20000000010, Epsilon: 0.8973534890344494
+Episode 1084/2000, Total Reward: 112, Epsilon: 0.897263753685546
+Episode 1085/2000, Total Reward: 48, Epsilon: 0.8971740273101775
+Episode 1086/2000, Total Reward: -74, Epsilon: 0.8970843099074465
+Episode 1087/2000, Total Reward: -42, Epsilon: 0.8969946014764557
+edge already selected: 0
+Episode 1088/2000, Total Reward: -9999999984, Epsilon: 0.8969049020163081
+Episode 1089/2000, Total Reward: -74, Epsilon: 0.8968152115261065
+Episode 1090/2000, Total Reward: -42, Epsilon: 0.8967255300049539
+Episode 1091/2000, Total Reward: 16, Epsilon: 0.8966358574519534
+Episode 1092/2000, Total Reward: 16, Epsilon: 0.8965461938662083
+Episode 1093/2000, Total Reward: -74, Epsilon: 0.8964565392468217
+edge already selected: 0
+edge already selected: 0
+Episode 1094/2000, Total Reward: -20000000010, Epsilon: 0.896366893592897
+Episode 1095/2000, Total Reward: -74, Epsilon: 0.8962772569035378
+Episode 1096/2000, Total Reward: -42, Epsilon: 0.8961876291778474
+Episode 1097/2000, Total Reward: 16, Epsilon: 0.8960980104149296
+edge already selected: 0
+Episode 1098/2000, Total Reward: -10000000074, Epsilon: 0.8960084006138882
+Episode 1099/2000, Total Reward: -10, Epsilon: 0.8959187997738268
+Episode 1100/2000, Total Reward: 16, Epsilon: 0.8958292078938495
+Episode 1101/2000, Total Reward: 48, Epsilon: 0.89573962497306
+Episode 1102/2000, Total Reward: 16, Epsilon: 0.8956500510105627
+Episode 1103/2000, Total Reward: 48, Epsilon: 0.8955604860054617
+edge already selected: 0
+edge already selected: 0
+Episode 1104/2000, Total Reward: -20000000042, Epsilon: 0.8954709299568612
+Episode 1105/2000, Total Reward: -74, Epsilon: 0.8953813828638655
+Episode 1106/2000, Total Reward: 16, Epsilon: 0.8952918447255791
+edge already selected: 0
+Episode 1107/2000, Total Reward: -10000000074, Epsilon: 0.8952023155411065
+edge already selected: 0
+Episode 1108/2000, Total Reward: -10000000042, Epsilon: 0.8951127953095525
+Episode 1109/2000, Total Reward: -42, Epsilon: 0.8950232840300215
+edge already selected: 0
+edge already selected: 0
+Episode 1110/2000, Total Reward: -20000000042, Epsilon: 0.8949337817016185
+Episode 1111/2000, Total Reward: 16, Epsilon: 0.8948442883234484
+Episode 1112/2000, Total Reward: -42, Epsilon: 0.894754803894616
+Episode 1113/2000, Total Reward: 16, Epsilon: 0.8946653284142266
+Episode 1114/2000, Total Reward: -72, Epsilon: 0.8945758618813853
+Episode 1115/2000, Total Reward: 22, Epsilon: 0.8944864042951971
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1116/2000, Total Reward: -29999999952, Epsilon: 0.8943969556547676
+Episode 1117/2000, Total Reward: -74, Epsilon: 0.8943075159592021
+edge already selected: 0
+Episode 1118/2000, Total Reward: -10000000042, Epsilon: 0.8942180852076062
+edge already selected: 0
+Episode 1119/2000, Total Reward: -9999999984, Epsilon: 0.8941286633990854
+edge already selected: 0
+Episode 1120/2000, Total Reward: -10000000010, Epsilon: 0.8940392505327455
+edge already selected: 0
+edge already selected: 0
+Episode 1121/2000, Total Reward: -20000000074, Epsilon: 0.8939498466076922
+Episode 1122/2000, Total Reward: -72, Epsilon: 0.8938604516230314
+Episode 1123/2000, Total Reward: 48, Epsilon: 0.8937710655778691
+Episode 1124/2000, Total Reward: 16, Epsilon: 0.8936816884713114
+edge already selected: 0
+edge already selected: 0
+Episode 1125/2000, Total Reward: -19999999982, Epsilon: 0.8935923203024643
+edge already selected: 0
+Episode 1126/2000, Total Reward: -10000000010, Epsilon: 0.893502961070434
+Episode 1127/2000, Total Reward: -42, Epsilon: 0.893413610774327
+edge already selected: 0
+edge already selected: 0
+Episode 1128/2000, Total Reward: -20000000074, Epsilon: 0.8933242694132496
+Episode 1129/2000, Total Reward: 16, Epsilon: 0.8932349369863083
+Episode 1130/2000, Total Reward: 48, Epsilon: 0.8931456134926097
+edge already selected: 0
+Episode 1131/2000, Total Reward: -10000000042, Epsilon: 0.8930562989312605
+Episode 1132/2000, Total Reward: 16, Epsilon: 0.8929669933013674
+Episode 1133/2000, Total Reward: -42, Epsilon: 0.8928776966020373
+edge already selected: 0
+Episode 1134/2000, Total Reward: -9999999920, Epsilon: 0.8927884088323771
+edge already selected: 0
+Episode 1135/2000, Total Reward: -9999999984, Epsilon: 0.8926991299914938
+Episode 1136/2000, Total Reward: 80, Epsilon: 0.8926098600784946
+edge already selected: 0
+Episode 1137/2000, Total Reward: -10000000010, Epsilon: 0.8925205990924868
+Episode 1138/2000, Total Reward: -74, Epsilon: 0.8924313470325775
+Episode 1139/2000, Total Reward: -10, Epsilon: 0.8923421038978743
+edge already selected: 0
+Episode 1140/2000, Total Reward: -9999999984, Epsilon: 0.8922528696874845
+Episode 1141/2000, Total Reward: 16, Epsilon: 0.8921636444005158
+edge already selected: 0
+Episode 1142/2000, Total Reward: -10000000042, Epsilon: 0.8920744280360757
+Episode 1143/2000, Total Reward: -42, Epsilon: 0.8919852205932721
+Episode 1144/2000, Total Reward: -42, Epsilon: 0.8918960220712128
+Episode 1145/2000, Total Reward: -42, Epsilon: 0.8918068324690056
+Episode 1146/2000, Total Reward: -74, Epsilon: 0.8917176517857587
+edge already selected: 0
+Episode 1147/2000, Total Reward: -10000000042, Epsilon: 0.8916284800205801
+edge already selected: 0
+edge already selected: 0
+Episode 1148/2000, Total Reward: -20000000074, Epsilon: 0.8915393171725781
+Episode 1149/2000, Total Reward: -42, Epsilon: 0.8914501632408608
+edge already selected: 0
+Episode 1150/2000, Total Reward: -10000000042, Epsilon: 0.8913610182245367
+edge already selected: 0
+Episode 1151/2000, Total Reward: -9999999984, Epsilon: 0.8912718821227142
+Episode 1152/2000, Total Reward: -42, Epsilon: 0.8911827549345019
+Episode 1153/2000, Total Reward: -42, Epsilon: 0.8910936366590085
+Episode 1154/2000, Total Reward: 16, Epsilon: 0.8910045272953426
+edge already selected: 0
+Episode 1155/2000, Total Reward: -10000000010, Epsilon: 0.8909154268426132
+Episode 1156/2000, Total Reward: -42, Epsilon: 0.8908263352999289
+edge already selected: 0
+edge already selected: 0
+Episode 1157/2000, Total Reward: -20000000042, Epsilon: 0.8907372526663989
+Episode 1158/2000, Total Reward: -74, Epsilon: 0.8906481789411322
+Episode 1159/2000, Total Reward: 16, Epsilon: 0.8905591141232382
+Episode 1160/2000, Total Reward: 16, Epsilon: 0.8904700582118259
+Episode 1161/2000, Total Reward: -42, Epsilon: 0.8903810112060048
+edge already selected: 0
+Episode 1162/2000, Total Reward: -10000000042, Epsilon: 0.8902919731048842
+Episode 1163/2000, Total Reward: -10, Epsilon: 0.8902029439075737
+Episode 1164/2000, Total Reward: -74, Epsilon: 0.890113923613183
+Episode 1165/2000, Total Reward: -74, Epsilon: 0.8900249122208217
+Episode 1166/2000, Total Reward: -74, Epsilon: 0.8899359097295996
+edge already selected: 0
+edge already selected: 0
+Episode 1167/2000, Total Reward: -19999999984, Epsilon: 0.8898469161386267
+Episode 1168/2000, Total Reward: -74, Epsilon: 0.8897579314470128
+Episode 1169/2000, Total Reward: -42, Epsilon: 0.889668955653868
+edge already selected: 0
+Episode 1170/2000, Total Reward: -9999999952, Epsilon: 0.8895799887583027
+edge already selected: 0
+Episode 1171/2000, Total Reward: -10000000042, Epsilon: 0.8894910307594268
+Episode 1172/2000, Total Reward: 48, Epsilon: 0.8894020816563509
+Episode 1173/2000, Total Reward: -10, Epsilon: 0.8893131414481853
+edge already selected: 0
+Episode 1174/2000, Total Reward: -10000000074, Epsilon: 0.8892242101340405
+edge already selected: 0
+Episode 1175/2000, Total Reward: -9999999984, Epsilon: 0.8891352877130271
+edge already selected: 0
+Episode 1176/2000, Total Reward: -9999999984, Epsilon: 0.8890463741842558
+edge already selected: 0
+edge already selected: 0
+Episode 1177/2000, Total Reward: -20000000042, Epsilon: 0.8889574695468374
+Episode 1178/2000, Total Reward: -42, Epsilon: 0.8888685737998827
+Episode 1179/2000, Total Reward: 16, Epsilon: 0.8887796869425028
+Episode 1180/2000, Total Reward: 16, Epsilon: 0.8886908089738085
+Episode 1181/2000, Total Reward: 16, Epsilon: 0.8886019398929111
+edge already selected: 0
+edge already selected: 0
+Episode 1182/2000, Total Reward: -19999999888, Epsilon: 0.8885130796989219
+Episode 1183/2000, Total Reward: 22, Epsilon: 0.888424228390952
+Episode 1184/2000, Total Reward: 22, Epsilon: 0.8883353859681129
+Episode 1185/2000, Total Reward: 16, Epsilon: 0.8882465524295161
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1186/2000, Total Reward: -30000000074, Epsilon: 0.8881577277742732
+Episode 1187/2000, Total Reward: -74, Epsilon: 0.8880689120014957
+edge already selected: 0
+edge already selected: 0
+Episode 1188/2000, Total Reward: -19999999952, Epsilon: 0.8879801051102956
+Episode 1189/2000, Total Reward: 22, Epsilon: 0.8878913070997846
+Episode 1190/2000, Total Reward: 16, Epsilon: 0.8878025179690746
+Episode 1191/2000, Total Reward: -74, Epsilon: 0.8877137377172777
+Episode 1192/2000, Total Reward: 16, Epsilon: 0.887624966343506
+edge already selected: 0
+Episode 1193/2000, Total Reward: -10000000042, Epsilon: 0.8875362038468716
+Episode 1194/2000, Total Reward: -42, Epsilon: 0.887447450226487
+Episode 1195/2000, Total Reward: -10, Epsilon: 0.8873587054814643
+Episode 1196/2000, Total Reward: 16, Epsilon: 0.8872699696109162
+Episode 1197/2000, Total Reward: -74, Epsilon: 0.8871812426139551
+Episode 1198/2000, Total Reward: 48, Epsilon: 0.8870925244896938
+Episode 1199/2000, Total Reward: -42, Epsilon: 0.8870038152372448
+Episode 1200/2000, Total Reward: 48, Epsilon: 0.886915114855721
+Episode 1201/2000, Total Reward: 16, Epsilon: 0.8868264233442354
+Episode 1202/2000, Total Reward: -74, Epsilon: 0.886737740701901
+Episode 1203/2000, Total Reward: -10, Epsilon: 0.8866490669278309
+Episode 1204/2000, Total Reward: 22, Epsilon: 0.8865604020211381
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1205/2000, Total Reward: -39999999952, Epsilon: 0.8864717459809359
+edge already selected: 0
+Episode 1206/2000, Total Reward: -9999999984, Epsilon: 0.8863830988063378
+edge already selected: 0
+edge already selected: 0
+Episode 1207/2000, Total Reward: -19999999952, Epsilon: 0.8862944604964572
+Episode 1208/2000, Total Reward: -42, Epsilon: 0.8862058310504076
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1209/2000, Total Reward: -30000000042, Epsilon: 0.8861172104673026
+edge already selected: 0
+Episode 1210/2000, Total Reward: -9999999984, Epsilon: 0.886028598746256
+edge already selected: 0
+Episode 1211/2000, Total Reward: -9999999984, Epsilon: 0.8859399958863813
+Episode 1212/2000, Total Reward: -42, Epsilon: 0.8858514018867927
+Episode 1213/2000, Total Reward: -10, Epsilon: 0.885762816746604
+edge already selected: 0
+edge already selected: 0
+Episode 1214/2000, Total Reward: -20000000042, Epsilon: 0.8856742404649293
+Episode 1215/2000, Total Reward: -10, Epsilon: 0.8855856730408828
+Episode 1216/2000, Total Reward: -42, Epsilon: 0.8854971144735787
+edge already selected: 0
+Episode 1217/2000, Total Reward: -9999999952, Epsilon: 0.8854085647621314
+edge already selected: 0
+Episode 1218/2000, Total Reward: -9999999952, Epsilon: 0.8853200239056551
+Episode 1219/2000, Total Reward: 16, Epsilon: 0.8852314919032646
+edge already selected: 0
+Episode 1220/2000, Total Reward: -10000000042, Epsilon: 0.8851429687540743
+edge already selected: 0
+Episode 1221/2000, Total Reward: -10000000074, Epsilon: 0.8850544544571989
+Episode 1222/2000, Total Reward: 16, Epsilon: 0.8849659490117532
+Episode 1223/2000, Total Reward: 16, Epsilon: 0.884877452416852
+edge already selected: 0
+Episode 1224/2000, Total Reward: -10000000074, Epsilon: 0.8847889646716103
+Episode 1225/2000, Total Reward: -74, Epsilon: 0.8847004857751432
+edge already selected: 0
+edge already selected: 0
+Episode 1226/2000, Total Reward: -20000000042, Epsilon: 0.8846120157265657
+Episode 1227/2000, Total Reward: -42, Epsilon: 0.884523554524993
+Episode 1228/2000, Total Reward: 16, Epsilon: 0.8844351021695405
+Episode 1229/2000, Total Reward: 16, Epsilon: 0.8843466586593235
+edge already selected: 0
+edge already selected: 0
+Episode 1230/2000, Total Reward: -19999999984, Epsilon: 0.8842582239934575
+edge already selected: 0
+Episode 1231/2000, Total Reward: -10000000074, Epsilon: 0.8841697981710582
+edge already selected: 0
+Episode 1232/2000, Total Reward: -10000000074, Epsilon: 0.8840813811912411
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1233/2000, Total Reward: -30000000010, Epsilon: 0.883992973053122
+Episode 1234/2000, Total Reward: -42, Epsilon: 0.8839045737558167
+Episode 1235/2000, Total Reward: -42, Epsilon: 0.8838161832984411
+Episode 1236/2000, Total Reward: -74, Epsilon: 0.8837278016801113
+Episode 1237/2000, Total Reward: -42, Epsilon: 0.8836394288999433
+Episode 1238/2000, Total Reward: -42, Epsilon: 0.8835510649570533
+Episode 1239/2000, Total Reward: -74, Epsilon: 0.8834627098505575
+edge already selected: 0
+Episode 1240/2000, Total Reward: -10000000074, Epsilon: 0.8833743635795724
+Episode 1241/2000, Total Reward: 16, Epsilon: 0.8832860261432145
+edge already selected: 0
+Episode 1242/2000, Total Reward: -10000000074, Epsilon: 0.8831976975406002
+edge already selected: 0
+edge already selected: 0
+Episode 1243/2000, Total Reward: -19999999984, Epsilon: 0.8831093777708461
+Episode 1244/2000, Total Reward: -10, Epsilon: 0.883021066833069
+Episode 1245/2000, Total Reward: -42, Epsilon: 0.8829327647263857
+edge already selected: 0
+Episode 1246/2000, Total Reward: -9999999984, Epsilon: 0.8828444714499131
+edge already selected: 0
+Episode 1247/2000, Total Reward: -9999999984, Epsilon: 0.8827561870027681
+Episode 1248/2000, Total Reward: -74, Epsilon: 0.8826679113840679
+Episode 1249/2000, Total Reward: -74, Epsilon: 0.8825796445929295
+edge already selected: 0
+edge already selected: 0
+Episode 1250/2000, Total Reward: -20000000042, Epsilon: 0.8824913866284702
+Episode 1251/2000, Total Reward: -74, Epsilon: 0.8824031374898074
+Episode 1252/2000, Total Reward: -10, Epsilon: 0.8823148971760584
+Episode 1253/2000, Total Reward: 16, Epsilon: 0.8822266656863408
+edge already selected: 0
+Episode 1254/2000, Total Reward: -10000000074, Epsilon: 0.8821384430197722
+Episode 1255/2000, Total Reward: -74, Epsilon: 0.8820502291754702
+edge already selected: 0
+edge already selected: 0
+Episode 1256/2000, Total Reward: -20000000074, Epsilon: 0.8819620241525526
+Episode 1257/2000, Total Reward: -74, Epsilon: 0.8818738279501374
+Episode 1258/2000, Total Reward: -74, Epsilon: 0.8817856405673423
+Episode 1259/2000, Total Reward: 48, Epsilon: 0.8816974620032856
+Episode 1260/2000, Total Reward: 16, Epsilon: 0.8816092922570853
+edge already selected: 0
+Episode 1261/2000, Total Reward: -10000000074, Epsilon: 0.8815211313278596
+Episode 1262/2000, Total Reward: 16, Epsilon: 0.8814329792147269
+edge already selected: 0
+Episode 1263/2000, Total Reward: -9999999952, Epsilon: 0.8813448359168053
+Episode 1264/2000, Total Reward: -42, Epsilon: 0.8812567014332137
+edge already selected: 0
+Episode 1265/2000, Total Reward: -10000000042, Epsilon: 0.8811685757630704
+edge already selected: 0
+Episode 1266/2000, Total Reward: -9999999952, Epsilon: 0.8810804589054941
+edge already selected: 0
+Episode 1267/2000, Total Reward: -10000000042, Epsilon: 0.8809923508596036
+edge already selected: 0
+Episode 1268/2000, Total Reward: -9999999984, Epsilon: 0.8809042516245177
+Episode 1269/2000, Total Reward: 80, Epsilon: 0.8808161611993552
+Episode 1270/2000, Total Reward: -74, Epsilon: 0.8807280795832353
+edge already selected: 0
+edge already selected: 0
+Episode 1271/2000, Total Reward: -19999999984, Epsilon: 0.880640006775277
+Episode 1272/2000, Total Reward: -74, Epsilon: 0.8805519427745995
+edge already selected: 0
+Episode 1273/2000, Total Reward: -10000000042, Epsilon: 0.880463887580322
+Episode 1274/2000, Total Reward: 16, Epsilon: 0.880375841191564
+edge already selected: 0
+Episode 1275/2000, Total Reward: -10000000074, Epsilon: 0.8802878036074449
+Episode 1276/2000, Total Reward: -74, Epsilon: 0.8801997748270841
+Episode 1277/2000, Total Reward: -74, Epsilon: 0.8801117548496015
+Episode 1278/2000, Total Reward: 48, Epsilon: 0.8800237436741165
+edge already selected: 0
+Episode 1279/2000, Total Reward: -9999999984, Epsilon: 0.879935741299749
+edge already selected: 0
+Episode 1280/2000, Total Reward: -10000000074, Epsilon: 0.8798477477256191
+Episode 1281/2000, Total Reward: 16, Epsilon: 0.8797597629508466
+Episode 1282/2000, Total Reward: -42, Epsilon: 0.8796717869745515
+Episode 1283/2000, Total Reward: -42, Epsilon: 0.8795838197958541
+edge already selected: 0
+Episode 1284/2000, Total Reward: -10000000074, Epsilon: 0.8794958614138745
+edge already selected: 0
+Episode 1285/2000, Total Reward: -9999999984, Epsilon: 0.8794079118277331
+Episode 1286/2000, Total Reward: -74, Epsilon: 0.8793199710365504
+Episode 1287/2000, Total Reward: 16, Epsilon: 0.8792320390394467
+Episode 1288/2000, Total Reward: 48, Epsilon: 0.8791441158355427
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1289/2000, Total Reward: -30000000010, Epsilon: 0.8790562014239592
+edge already selected: 0
+Episode 1290/2000, Total Reward: -9999999984, Epsilon: 0.8789682958038169
+edge already selected: 0
+Episode 1291/2000, Total Reward: -10000000042, Epsilon: 0.8788803989742365
+edge already selected: 0
+Episode 1292/2000, Total Reward: -10000000010, Epsilon: 0.8787925109343391
+Episode 1293/2000, Total Reward: -74, Epsilon: 0.8787046316832456
+Episode 1294/2000, Total Reward: 48, Epsilon: 0.8786167612200774
+Episode 1295/2000, Total Reward: 48, Epsilon: 0.8785288995439554
+Episode 1296/2000, Total Reward: -74, Epsilon: 0.878441046654001
+Episode 1297/2000, Total Reward: -42, Epsilon: 0.8783532025493357
+edge already selected: 0
+Episode 1298/2000, Total Reward: -9999999984, Epsilon: 0.8782653672290808
+Episode 1299/2000, Total Reward: -74, Epsilon: 0.8781775406923579
+edge already selected: 0
+edge already selected: 0
+Episode 1300/2000, Total Reward: -20000000042, Epsilon: 0.8780897229382887
+edge already selected: 0
+edge already selected: 0
+Episode 1301/2000, Total Reward: -20000000010, Epsilon: 0.8780019139659949
+Episode 1302/2000, Total Reward: -10, Epsilon: 0.8779141137745984
+edge already selected: 0
+Episode 1303/2000, Total Reward: -9999999984, Epsilon: 0.8778263223632209
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1304/2000, Total Reward: -30000000010, Epsilon: 0.8777385397309846
+edge already selected: 0
+edge already selected: 0
+Episode 1305/2000, Total Reward: -19999999984, Epsilon: 0.8776507658770115
+Episode 1306/2000, Total Reward: -74, Epsilon: 0.8775630008004238
+Episode 1307/2000, Total Reward: 16, Epsilon: 0.8774752445003438
+Episode 1308/2000, Total Reward: -42, Epsilon: 0.8773874969758937
+edge already selected: 0
+Episode 1309/2000, Total Reward: -10000000042, Epsilon: 0.8772997582261961
+Episode 1310/2000, Total Reward: 16, Epsilon: 0.8772120282503735
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1311/2000, Total Reward: -39999999920, Epsilon: 0.8771243070475484
+edge already selected: 0
+Episode 1312/2000, Total Reward: -10000000010, Epsilon: 0.8770365946168437
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1313/2000, Total Reward: -39999999984, Epsilon: 0.876948890957382
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1314/2000, Total Reward: -29999999952, Epsilon: 0.8768611960682863
+Episode 1315/2000, Total Reward: 16, Epsilon: 0.8767735099486794
+edge already selected: 0
+Episode 1316/2000, Total Reward: -9999999952, Epsilon: 0.8766858325976845
+edge already selected: 0
+edge already selected: 0
+Episode 1317/2000, Total Reward: -19999999984, Epsilon: 0.8765981640144248
+Episode 1318/2000, Total Reward: -42, Epsilon: 0.8765105041980233
+Episode 1319/2000, Total Reward: -74, Epsilon: 0.8764228531476036
+edge already selected: 0
+Episode 1320/2000, Total Reward: -9999999984, Epsilon: 0.8763352108622888
+Episode 1321/2000, Total Reward: -42, Epsilon: 0.8762475773412026
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1322/2000, Total Reward: -29999999984, Epsilon: 0.8761599525834685
+edge already selected: 0
+edge already selected: 0
+Episode 1323/2000, Total Reward: -20000000042, Epsilon: 0.8760723365882102
+edge already selected: 0
+Episode 1324/2000, Total Reward: -10000000074, Epsilon: 0.8759847293545513
+edge already selected: 0
+Episode 1325/2000, Total Reward: -10000000042, Epsilon: 0.8758971308816158
+edge already selected: 0
+Episode 1326/2000, Total Reward: -10000000074, Epsilon: 0.8758095411685276
+edge already selected: 0
+edge already selected: 0
+Episode 1327/2000, Total Reward: -20000000042, Epsilon: 0.8757219602144107
+edge already selected: 0
+Episode 1328/2000, Total Reward: -9999999920, Epsilon: 0.8756343880183893
+edge already selected: 0
+Episode 1329/2000, Total Reward: -10000000042, Epsilon: 0.8755468245795875
+Episode 1330/2000, Total Reward: 16, Epsilon: 0.8754592698971296
+Episode 1331/2000, Total Reward: 16, Epsilon: 0.87537172397014
+edge already selected: 0
+Episode 1332/2000, Total Reward: -10000000010, Epsilon: 0.875284186797743
+edge already selected: 0
+Episode 1333/2000, Total Reward: -9999999984, Epsilon: 0.8751966583790632
+Episode 1334/2000, Total Reward: -42, Epsilon: 0.8751091387132254
+Episode 1335/2000, Total Reward: 16, Epsilon: 0.8750216277993541
+edge already selected: 0
+Episode 1336/2000, Total Reward: -10000000042, Epsilon: 0.8749341256365741
+edge already selected: 0
+edge already selected: 0
+Episode 1337/2000, Total Reward: -20000000010, Epsilon: 0.8748466322240105
+Episode 1338/2000, Total Reward: 16, Epsilon: 0.8747591475607881
+Episode 1339/2000, Total Reward: 16, Epsilon: 0.874671671646032
+Episode 1340/2000, Total Reward: -10, Epsilon: 0.8745842044788674
+edge already selected: 0
+Episode 1341/2000, Total Reward: -9999999952, Epsilon: 0.8744967460584195
+Episode 1342/2000, Total Reward: -74, Epsilon: 0.8744092963838137
+edge already selected: 0
+Episode 1343/2000, Total Reward: -9999999984, Epsilon: 0.8743218554541753
+edge already selected: 0
+Episode 1344/2000, Total Reward: -9999999984, Epsilon: 0.8742344232686299
+Episode 1345/2000, Total Reward: -42, Epsilon: 0.8741469998263031
+edge already selected: 0
+Episode 1346/2000, Total Reward: -10000000042, Epsilon: 0.8740595851263204
+Episode 1347/2000, Total Reward: 48, Epsilon: 0.8739721791678078
+edge already selected: 0
+Episode 1348/2000, Total Reward: -10000000074, Epsilon: 0.873884781949891
+edge already selected: 0
+Episode 1349/2000, Total Reward: -10000000010, Epsilon: 0.873797393471696
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1350/2000, Total Reward: -29999999984, Epsilon: 0.8737100137323489
+edge already selected: 0
+Episode 1351/2000, Total Reward: -10000000010, Epsilon: 0.8736226427309757
+Episode 1352/2000, Total Reward: 16, Epsilon: 0.8735352804667026
+Episode 1353/2000, Total Reward: -42, Epsilon: 0.8734479269386559
+Episode 1354/2000, Total Reward: -74, Epsilon: 0.873360582145962
+edge already selected: 0
+Episode 1355/2000, Total Reward: -10000000042, Epsilon: 0.8732732460877475
+edge already selected: 0
+Episode 1356/2000, Total Reward: -10000000074, Epsilon: 0.8731859187631387
+edge already selected: 0
+Episode 1357/2000, Total Reward: -9999999952, Epsilon: 0.8730986001712624
+Episode 1358/2000, Total Reward: -74, Epsilon: 0.8730112903112452
+edge already selected: 0
+Episode 1359/2000, Total Reward: -10000000042, Epsilon: 0.8729239891822141
+edge already selected: 0
+Episode 1360/2000, Total Reward: -10000000010, Epsilon: 0.8728366967832959
+edge already selected: 0
+Episode 1361/2000, Total Reward: -10000000042, Epsilon: 0.8727494131136175
+edge already selected: 0
+edge already selected: 0
+Episode 1362/2000, Total Reward: -20000000042, Epsilon: 0.8726621381723062
+edge already selected: 0
+Episode 1363/2000, Total Reward: -10000000042, Epsilon: 0.8725748719584889
+Episode 1364/2000, Total Reward: -42, Epsilon: 0.8724876144712931
+edge already selected: 0
+Episode 1365/2000, Total Reward: -10000000074, Epsilon: 0.8724003657098459
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1366/2000, Total Reward: -30000000074, Epsilon: 0.8723131256732749
+edge already selected: 0
+Episode 1367/2000, Total Reward: -10000000042, Epsilon: 0.8722258943607076
+edge already selected: 0
+edge already selected: 0
+Episode 1368/2000, Total Reward: -19999999984, Epsilon: 0.8721386717712716
+edge already selected: 0
+Episode 1369/2000, Total Reward: -10000000042, Epsilon: 0.8720514579040944
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1370/2000, Total Reward: -29999999952, Epsilon: 0.871964252758304
+Episode 1371/2000, Total Reward: -74, Epsilon: 0.8718770563330283
+edge already selected: 0
+Episode 1372/2000, Total Reward: -10000000074, Epsilon: 0.8717898686273949
+edge already selected: 0
+Episode 1373/2000, Total Reward: -10000000074, Epsilon: 0.8717026896405322
+Episode 1374/2000, Total Reward: -74, Epsilon: 0.8716155193715681
+Episode 1375/2000, Total Reward: 16, Epsilon: 0.871528357819631
+edge already selected: 0
+edge already selected: 0
+Episode 1376/2000, Total Reward: -20000000042, Epsilon: 0.871441204983849
+edge already selected: 0
+Episode 1377/2000, Total Reward: -10000000074, Epsilon: 0.8713540608633507
+Episode 1378/2000, Total Reward: -74, Epsilon: 0.8712669254572644
+Episode 1379/2000, Total Reward: -74, Epsilon: 0.8711797987647186
+edge already selected: 0
+edge already selected: 0
+Episode 1380/2000, Total Reward: -20000000074, Epsilon: 0.8710926807848421
+Episode 1381/2000, Total Reward: -74, Epsilon: 0.8710055715167637
+Episode 1382/2000, Total Reward: -74, Epsilon: 0.8709184709596121
+Episode 1383/2000, Total Reward: 16, Epsilon: 0.8708313791125161
+Episode 1384/2000, Total Reward: 16, Epsilon: 0.8707442959746048
+Episode 1385/2000, Total Reward: 16, Epsilon: 0.8706572215450074
+Episode 1386/2000, Total Reward: -74, Epsilon: 0.8705701558228529
+Episode 1387/2000, Total Reward: -42, Epsilon: 0.8704830988072706
+Episode 1388/2000, Total Reward: -10, Epsilon: 0.8703960504973899
+Episode 1389/2000, Total Reward: 122, Epsilon: 0.8703090108923401
+edge already selected: 0
+Episode 1390/2000, Total Reward: -10000000074, Epsilon: 0.870221979991251
+edge already selected: 0
+Episode 1391/2000, Total Reward: -10000000074, Epsilon: 0.8701349577932518
+edge already selected: 0
+Episode 1392/2000, Total Reward: -9999999984, Epsilon: 0.8700479442974725
+edge already selected: 0
+Episode 1393/2000, Total Reward: -9999999952, Epsilon: 0.8699609395030428
+Episode 1394/2000, Total Reward: 48, Epsilon: 0.8698739434090925
+Episode 1395/2000, Total Reward: -42, Epsilon: 0.8697869560147516
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1396/2000, Total Reward: -50000000042, Epsilon: 0.8696999773191502
+Episode 1397/2000, Total Reward: 16, Epsilon: 0.8696130073214182
+Episode 1398/2000, Total Reward: -10, Epsilon: 0.8695260460206861
+Episode 1399/2000, Total Reward: -42, Epsilon: 0.869439093416084
+Episode 1400/2000, Total Reward: 16, Epsilon: 0.8693521495067424
+Episode 1401/2000, Total Reward: -42, Epsilon: 0.8692652142917918
+Episode 1402/2000, Total Reward: -10, Epsilon: 0.8691782877703627
+Episode 1403/2000, Total Reward: -42, Epsilon: 0.8690913699415856
+edge already selected: 0
+edge already selected: 0
+Episode 1404/2000, Total Reward: -20000000010, Epsilon: 0.8690044608045915
+edge already selected: 0
+Episode 1405/2000, Total Reward: -9999999952, Epsilon: 0.8689175603585111
+Episode 1406/2000, Total Reward: -42, Epsilon: 0.8688306686024753
+Episode 1407/2000, Total Reward: -42, Epsilon: 0.868743785535615
+edge already selected: 0
+Episode 1408/2000, Total Reward: -9999999984, Epsilon: 0.8686569111570615
+Episode 1409/2000, Total Reward: -42, Epsilon: 0.8685700454659457
+Episode 1410/2000, Total Reward: -74, Epsilon: 0.8684831884613992
+Episode 1411/2000, Total Reward: 48, Epsilon: 0.8683963401425531
+edge already selected: 0
+edge already selected: 0
+Episode 1412/2000, Total Reward: -19999999952, Epsilon: 0.8683095005085388
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1413/2000, Total Reward: -29999999984, Epsilon: 0.868222669558488
+edge already selected: 0
+Episode 1414/2000, Total Reward: -9999999978, Epsilon: 0.8681358472915321
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1415/2000, Total Reward: -30000000010, Epsilon: 0.868049033706803
+Episode 1416/2000, Total Reward: 16, Epsilon: 0.8679622288034323
+edge already selected: 0
+Episode 1417/2000, Total Reward: -9999999746, Epsilon: 0.867875432580552
+Episode 1418/2000, Total Reward: 16, Epsilon: 0.8677886450372939
+edge already selected: 0
+Episode 1419/2000, Total Reward: -10000000074, Epsilon: 0.8677018661727902
+Episode 1420/2000, Total Reward: -74, Epsilon: 0.8676150959861729
+edge already selected: 0
+Episode 1421/2000, Total Reward: -10000000042, Epsilon: 0.8675283344765743
+Episode 1422/2000, Total Reward: 16, Epsilon: 0.8674415816431267
+Episode 1423/2000, Total Reward: -74, Epsilon: 0.8673548374849623
+Episode 1424/2000, Total Reward: 16, Epsilon: 0.8672681020012138
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1425/2000, Total Reward: -29999999984, Epsilon: 0.8671813751910137
+Episode 1426/2000, Total Reward: -74, Epsilon: 0.8670946570534946
+Episode 1427/2000, Total Reward: 16, Epsilon: 0.8670079475877893
+edge already selected: 0
+edge already selected: 0
+Episode 1428/2000, Total Reward: -20000000042, Epsilon: 0.8669212467930305
+edge already selected: 0
+Episode 1429/2000, Total Reward: -9999999952, Epsilon: 0.8668345546683512
+edge already selected: 0
+Episode 1430/2000, Total Reward: -10000000074, Epsilon: 0.8667478712128844
+Episode 1431/2000, Total Reward: 48, Epsilon: 0.8666611964257631
+Episode 1432/2000, Total Reward: 16, Epsilon: 0.8665745303061205
+Episode 1433/2000, Total Reward: 22, Epsilon: 0.8664878728530899
+edge already selected: 0
+Episode 1434/2000, Total Reward: -10000000042, Epsilon: 0.8664012240658047
+edge already selected: 0
+edge already selected: 0
+Episode 1435/2000, Total Reward: -19999999746, Epsilon: 0.8663145839433981
+edge already selected: 0
+Episode 1436/2000, Total Reward: -9999999984, Epsilon: 0.8662279524850037
+Episode 1437/2000, Total Reward: -74, Epsilon: 0.8661413296897552
+edge already selected: 0
+Episode 1438/2000, Total Reward: -9999999920, Epsilon: 0.8660547155567863
+Episode 1439/2000, Total Reward: 16, Epsilon: 0.8659681100852306
+Episode 1440/2000, Total Reward: 16, Epsilon: 0.865881513274222
+Episode 1441/2000, Total Reward: -42, Epsilon: 0.8657949251228946
+edge already selected: 0
+Episode 1442/2000, Total Reward: -9999999984, Epsilon: 0.8657083456303823
+Episode 1443/2000, Total Reward: -42, Epsilon: 0.8656217747958194
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1444/2000, Total Reward: -30000000042, Epsilon: 0.8655352126183398
+edge already selected: 0
+Episode 1445/2000, Total Reward: -9999999984, Epsilon: 0.8654486590970779
+Episode 1446/2000, Total Reward: -42, Epsilon: 0.8653621142311683
+edge already selected: 0
+edge already selected: 0
+Episode 1447/2000, Total Reward: -19999999984, Epsilon: 0.8652755780197452
+edge already selected: 0
+Episode 1448/2000, Total Reward: -10000000042, Epsilon: 0.8651890504619433
+edge already selected: 0
+Episode 1449/2000, Total Reward: -10000000010, Epsilon: 0.8651025315568971
+Episode 1450/2000, Total Reward: -10, Epsilon: 0.8650160213037414
+edge already selected: 0
+Episode 1451/2000, Total Reward: -10000000042, Epsilon: 0.864929519701611
+edge already selected: 0
+Episode 1452/2000, Total Reward: -10000000010, Epsilon: 0.8648430267496409
+Episode 1453/2000, Total Reward: -42, Epsilon: 0.8647565424469659
+Episode 1454/2000, Total Reward: 16, Epsilon: 0.8646700667927212
+Episode 1455/2000, Total Reward: -74, Epsilon: 0.8645835997860419
+edge already selected: 0
+Episode 1456/2000, Total Reward: -9999999984, Epsilon: 0.8644971414260634
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1457/2000, Total Reward: -69999999984, Epsilon: 0.8644106917119208
+Episode 1458/2000, Total Reward: 16, Epsilon: 0.8643242506427495
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1459/2000, Total Reward: -30000000010, Epsilon: 0.8642378182176853
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1460/2000, Total Reward: -50000000042, Epsilon: 0.8641513944358635
+edge already selected: 0
+edge already selected: 0
+Episode 1461/2000, Total Reward: -20000000074, Epsilon: 0.8640649792964199
+edge already selected: 0
+Episode 1462/2000, Total Reward: -10000000074, Epsilon: 0.8639785727984902
+Episode 1463/2000, Total Reward: 48, Epsilon: 0.8638921749412104
+edge already selected: 0
+Episode 1464/2000, Total Reward: -9999999984, Epsilon: 0.8638057857237162
+edge already selected: 0
+Episode 1465/2000, Total Reward: -10000000042, Epsilon: 0.8637194051451439
+Episode 1466/2000, Total Reward: 48, Epsilon: 0.8636330332046294
+Episode 1467/2000, Total Reward: -74, Epsilon: 0.8635466699013089
+edge already selected: 0
+Episode 1468/2000, Total Reward: -9999999978, Epsilon: 0.8634603152343188
+Episode 1469/2000, Total Reward: 16, Epsilon: 0.8633739692027953
+Episode 1470/2000, Total Reward: 48, Epsilon: 0.863287631805875
+edge already selected: 0
+edge already selected: 0
+Episode 1471/2000, Total Reward: -19999999978, Epsilon: 0.8632013030426944
+edge already selected: 0
+edge already selected: 0
+Episode 1472/2000, Total Reward: -20000000010, Epsilon: 0.8631149829123901
+edge already selected: 0
+Episode 1473/2000, Total Reward: -9999999952, Epsilon: 0.8630286714140989
+Episode 1474/2000, Total Reward: -74, Epsilon: 0.8629423685469575
+edge already selected: 0
+Episode 1475/2000, Total Reward: -9999999952, Epsilon: 0.8628560743101028
+Episode 1476/2000, Total Reward: -10, Epsilon: 0.8627697887026718
+Episode 1477/2000, Total Reward: -42, Epsilon: 0.8626835117238016
+Episode 1478/2000, Total Reward: -74, Epsilon: 0.8625972433726292
+Episode 1479/2000, Total Reward: -72, Epsilon: 0.8625109836482919
+edge already selected: 0
+edge already selected: 0
+Episode 1480/2000, Total Reward: -20000000042, Epsilon: 0.8624247325499271
+Episode 1481/2000, Total Reward: 16, Epsilon: 0.8623384900766722
+Episode 1482/2000, Total Reward: -74, Epsilon: 0.8622522562276645
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1483/2000, Total Reward: -30000000042, Epsilon: 0.8621660310020418
+edge already selected: 0
+Episode 1484/2000, Total Reward: -9999999984, Epsilon: 0.8620798143989417
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1485/2000, Total Reward: -29999999984, Epsilon: 0.8619936064175018
+edge already selected: 0
+Episode 1486/2000, Total Reward: -9999999952, Epsilon: 0.8619074070568601
+edge already selected: 0
+Episode 1487/2000, Total Reward: -9999999952, Epsilon: 0.8618212163161544
+Episode 1488/2000, Total Reward: 22, Epsilon: 0.8617350341945228
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1489/2000, Total Reward: -30000000042, Epsilon: 0.8616488606911034
+Episode 1490/2000, Total Reward: -42, Epsilon: 0.8615626958050343
+edge already selected: 0
+Episode 1491/2000, Total Reward: -10000000074, Epsilon: 0.8614765395354538
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1492/2000, Total Reward: -29999999920, Epsilon: 0.8613903918815002
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1493/2000, Total Reward: -29999999984, Epsilon: 0.861304252842312
+Episode 1494/2000, Total Reward: 16, Epsilon: 0.8612181224170278
+edge already selected: 0
+Episode 1495/2000, Total Reward: -9999999984, Epsilon: 0.8611320006047861
+edge already selected: 0
+edge already selected: 0
+Episode 1496/2000, Total Reward: -20000000010, Epsilon: 0.8610458874047257
+edge already selected: 0
+Episode 1497/2000, Total Reward: -9999999920, Epsilon: 0.8609597828159852
+Episode 1498/2000, Total Reward: -74, Epsilon: 0.8608736868377036
+edge already selected: 0
+Episode 1499/2000, Total Reward: -10000000042, Epsilon: 0.8607875994690198
+Episode 1500/2000, Total Reward: -10, Epsilon: 0.8607015207090729
+Episode 1501/2000, Total Reward: -74, Epsilon: 0.8606154505570021
+Episode 1502/2000, Total Reward: -74, Epsilon: 0.8605293890119464
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1503/2000, Total Reward: -30000000074, Epsilon: 0.8604433360730452
+edge already selected: 0
+Episode 1504/2000, Total Reward: -10000000074, Epsilon: 0.860357291739438
+Episode 1505/2000, Total Reward: 16, Epsilon: 0.860271256010264
+edge already selected: 0
+Episode 1506/2000, Total Reward: -10000000010, Epsilon: 0.860185228884663
+Episode 1507/2000, Total Reward: 16, Epsilon: 0.8600992103617745
+edge already selected: 0
+edge already selected: 0
+Episode 1508/2000, Total Reward: -19999999984, Epsilon: 0.8600132004407384
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1509/2000, Total Reward: -40000000042, Epsilon: 0.8599271991206943
+edge already selected: 0
+Episode 1510/2000, Total Reward: -9999999984, Epsilon: 0.8598412064007822
+Episode 1511/2000, Total Reward: -42, Epsilon: 0.8597552222801421
+Episode 1512/2000, Total Reward: -74, Epsilon: 0.8596692467579141
+Episode 1513/2000, Total Reward: -42, Epsilon: 0.8595832798332383
+Episode 1514/2000, Total Reward: 16, Epsilon: 0.859497321505255
+edge already selected: 0
+edge already selected: 0
+Episode 1515/2000, Total Reward: -20000000042, Epsilon: 0.8594113717731046
+Episode 1516/2000, Total Reward: 16, Epsilon: 0.8593254306359273
+edge already selected: 0
+edge already selected: 0
+Episode 1517/2000, Total Reward: -20000000042, Epsilon: 0.8592394980928637
+edge already selected: 0
+edge already selected: 0
+Episode 1518/2000, Total Reward: -19999999984, Epsilon: 0.8591535741430544
+Episode 1519/2000, Total Reward: 48, Epsilon: 0.8590676587856401
+Episode 1520/2000, Total Reward: 48, Epsilon: 0.8589817520197615
+Episode 1521/2000, Total Reward: -10, Epsilon: 0.8588958538445595
+Episode 1522/2000, Total Reward: 16, Epsilon: 0.858809964259175
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1523/2000, Total Reward: -49999999920, Epsilon: 0.8587240832627491
+Episode 1524/2000, Total Reward: -42, Epsilon: 0.8586382108544228
+Episode 1525/2000, Total Reward: 80, Epsilon: 0.8585523470333374
+edge already selected: 0
+Episode 1526/2000, Total Reward: -10000000074, Epsilon: 0.8584664917986341
+Episode 1527/2000, Total Reward: -74, Epsilon: 0.8583806451494542
+edge already selected: 0
+Episode 1528/2000, Total Reward: -10000000074, Epsilon: 0.8582948070849393
+Episode 1529/2000, Total Reward: 16, Epsilon: 0.8582089776042309
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1530/2000, Total Reward: -30000000042, Epsilon: 0.8581231567064704
+Episode 1531/2000, Total Reward: -42, Epsilon: 0.8580373443907998
+Episode 1532/2000, Total Reward: 18, Epsilon: 0.8579515406563607
+Episode 1533/2000, Total Reward: 48, Epsilon: 0.8578657455022951
+Episode 1534/2000, Total Reward: 16, Epsilon: 0.8577799589277448
+edge already selected: 0
+Episode 1535/2000, Total Reward: -9999999978, Epsilon: 0.8576941809318521
+Episode 1536/2000, Total Reward: 16, Epsilon: 0.857608411513759
+Episode 1537/2000, Total Reward: -42, Epsilon: 0.8575226506726076
+edge already selected: 0
+Episode 1538/2000, Total Reward: -10000000074, Epsilon: 0.8574368984075403
+edge already selected: 0
+Episode 1539/2000, Total Reward: -9999999952, Epsilon: 0.8573511547176996
+edge already selected: 0
+Episode 1540/2000, Total Reward: -9999999952, Epsilon: 0.8572654196022279
+Episode 1541/2000, Total Reward: -74, Epsilon: 0.8571796930602676
+edge already selected: 0
+Episode 1542/2000, Total Reward: -10000000074, Epsilon: 0.8570939750909616
+edge already selected: 0
+Episode 1543/2000, Total Reward: -10000000042, Epsilon: 0.8570082656934526
+Episode 1544/2000, Total Reward: 112, Epsilon: 0.8569225648668832
+Episode 1545/2000, Total Reward: 16, Epsilon: 0.8568368726103965
+edge already selected: 0
+edge already selected: 0
+Episode 1546/2000, Total Reward: -19999999984, Epsilon: 0.8567511889231355
+Episode 1547/2000, Total Reward: -74, Epsilon: 0.8566655138042432
+Episode 1548/2000, Total Reward: -74, Epsilon: 0.8565798472528627
+edge already selected: 0
+Episode 1549/2000, Total Reward: -9999999978, Epsilon: 0.8564941892681375
+edge already selected: 0
+Episode 1550/2000, Total Reward: -9999999984, Epsilon: 0.8564085398492106
+edge already selected: 0
+Episode 1551/2000, Total Reward: -10000000074, Epsilon: 0.8563228989952257
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1552/2000, Total Reward: -49999999984, Epsilon: 0.8562372667053262
+Episode 1553/2000, Total Reward: -42, Epsilon: 0.8561516429786556
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1554/2000, Total Reward: -30000000042, Epsilon: 0.8560660278143578
+Episode 1555/2000, Total Reward: 48, Epsilon: 0.8559804212115764
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1556/2000, Total Reward: -40000000010, Epsilon: 0.8558948231694552
+edge already selected: 0
+Episode 1557/2000, Total Reward: -9999999984, Epsilon: 0.8558092336871382
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1558/2000, Total Reward: -29999999984, Epsilon: 0.8557236527637695
+Episode 1559/2000, Total Reward: -42, Epsilon: 0.8556380803984931
+edge already selected: 0
+Episode 1560/2000, Total Reward: -9999999952, Epsilon: 0.8555525165904533
+Episode 1561/2000, Total Reward: 48, Epsilon: 0.8554669613387943
+Episode 1562/2000, Total Reward: 16, Epsilon: 0.8553814146426604
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1563/2000, Total Reward: -29999999984, Epsilon: 0.8552958765011961
+edge already selected: 0
+Episode 1564/2000, Total Reward: -9999999984, Epsilon: 0.855210346913546
+Episode 1565/2000, Total Reward: -74, Epsilon: 0.8551248258788546
+Episode 1566/2000, Total Reward: 48, Epsilon: 0.8550393133962667
+edge already selected: 0
+Episode 1567/2000, Total Reward: -10000000074, Epsilon: 0.854953809464927
+Episode 1568/2000, Total Reward: 16, Epsilon: 0.8548683140839806
+Episode 1569/2000, Total Reward: 16, Epsilon: 0.8547828272525722
+Episode 1570/2000, Total Reward: 16, Epsilon: 0.854697348969847
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1571/2000, Total Reward: -69999999920, Epsilon: 0.85461187923495
+Episode 1572/2000, Total Reward: 16, Epsilon: 0.8545264180470264
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1573/2000, Total Reward: -30000000042, Epsilon: 0.8544409654052217
+edge already selected: 0
+Episode 1574/2000, Total Reward: -10000000074, Epsilon: 0.8543555213086812
+Episode 1575/2000, Total Reward: 16, Epsilon: 0.8542700857565504
+edge already selected: 0
+Episode 1576/2000, Total Reward: -9999999984, Epsilon: 0.8541846587479748
+Episode 1577/2000, Total Reward: 80, Epsilon: 0.8540992402820999
+Episode 1578/2000, Total Reward: 16, Epsilon: 0.8540138303580718
+edge already selected: 0
+Episode 1579/2000, Total Reward: -10000000010, Epsilon: 0.853928428975036
+Episode 1580/2000, Total Reward: 16, Epsilon: 0.8538430361321384
+edge already selected: 0
+edge already selected: 0
+Episode 1581/2000, Total Reward: -19999999920, Epsilon: 0.8537576518285253
+Episode 1582/2000, Total Reward: -42, Epsilon: 0.8536722760633424
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1583/2000, Total Reward: -30000000010, Epsilon: 0.8535869088357361
+edge already selected: 0
+Episode 1584/2000, Total Reward: -10000000074, Epsilon: 0.8535015501448525
+edge already selected: 0
+Episode 1585/2000, Total Reward: -9999999984, Epsilon: 0.8534161999898381
+edge already selected: 0
+edge already selected: 0
+Episode 1586/2000, Total Reward: -19999999952, Epsilon: 0.8533308583698391
+edge already selected: 0
+Episode 1587/2000, Total Reward: -10000000074, Epsilon: 0.8532455252840021
+Episode 1588/2000, Total Reward: 16, Epsilon: 0.8531602007314737
+Episode 1589/2000, Total Reward: -74, Epsilon: 0.8530748847114006
+edge already selected: 0
+Episode 1590/2000, Total Reward: -9999999984, Epsilon: 0.8529895772229295
+Episode 1591/2000, Total Reward: 16, Epsilon: 0.8529042782652072
+edge already selected: 0
+Episode 1592/2000, Total Reward: -10000000042, Epsilon: 0.8528189878373807
+edge already selected: 0
+Episode 1593/2000, Total Reward: -9999999984, Epsilon: 0.852733705938597
+Episode 1594/2000, Total Reward: -74, Epsilon: 0.8526484325680032
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1595/2000, Total Reward: -29999999952, Epsilon: 0.8525631677247464
+Episode 1596/2000, Total Reward: 16, Epsilon: 0.8524779114079739
+Episode 1597/2000, Total Reward: 16, Epsilon: 0.8523926636168331
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1598/2000, Total Reward: -30000000074, Epsilon: 0.8523074243504714
+edge already selected: 0
+Episode 1599/2000, Total Reward: -9999999952, Epsilon: 0.8522221936080363
+edge already selected: 0
+Episode 1600/2000, Total Reward: -10000000042, Epsilon: 0.8521369713886755
+Episode 1601/2000, Total Reward: 16, Epsilon: 0.8520517576915366
+edge already selected: 0
+Episode 1602/2000, Total Reward: -9999999952, Epsilon: 0.8519665525157675
+Episode 1603/2000, Total Reward: 16, Epsilon: 0.8518813558605159
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1604/2000, Total Reward: -29999999952, Epsilon: 0.8517961677249299
+edge already selected: 0
+edge already selected: 0
+Episode 1605/2000, Total Reward: -20000000042, Epsilon: 0.8517109881081575
+Episode 1606/2000, Total Reward: -42, Epsilon: 0.8516258170093467
+Episode 1607/2000, Total Reward: 16, Epsilon: 0.8515406544276458
+edge already selected: 0
+edge already selected: 0
+Episode 1608/2000, Total Reward: -20000000042, Epsilon: 0.8514555003622031
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1609/2000, Total Reward: -29999999978, Epsilon: 0.8513703548121668
+Episode 1610/2000, Total Reward: -42, Epsilon: 0.8512852177766856
+Episode 1611/2000, Total Reward: -74, Epsilon: 0.851200089254908
+Episode 1612/2000, Total Reward: -10, Epsilon: 0.8511149692459825
+Episode 1613/2000, Total Reward: -74, Epsilon: 0.8510298577490579
+edge already selected: 0
+Episode 1614/2000, Total Reward: -9999999984, Epsilon: 0.850944754763283
+edge already selected: 0
+edge already selected: 0
+Episode 1615/2000, Total Reward: -19999999984, Epsilon: 0.8508596602878067
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1616/2000, Total Reward: -29999999920, Epsilon: 0.8507745743217779
+Episode 1617/2000, Total Reward: 48, Epsilon: 0.8506894968643458
+edge already selected: 0
+Episode 1618/2000, Total Reward: -10000000010, Epsilon: 0.8506044279146594
+edge already selected: 0
+Episode 1619/2000, Total Reward: -10000000074, Epsilon: 0.850519367471868
+Episode 1620/2000, Total Reward: 80, Epsilon: 0.8504343155351208
+Episode 1621/2000, Total Reward: 48, Epsilon: 0.8503492721035674
+Episode 1622/2000, Total Reward: -42, Epsilon: 0.850264237176357
+Episode 1623/2000, Total Reward: 16, Epsilon: 0.8501792107526394
+Episode 1624/2000, Total Reward: 16, Epsilon: 0.8500941928315641
+Episode 1625/2000, Total Reward: 80, Epsilon: 0.8500091834122809
+Episode 1626/2000, Total Reward: 16, Epsilon: 0.8499241824939398
+edge already selected: 0
+Episode 1627/2000, Total Reward: -10000000074, Epsilon: 0.8498391900756904
+Episode 1628/2000, Total Reward: 16, Epsilon: 0.8497542061566828
+edge already selected: 0
+Episode 1629/2000, Total Reward: -10000000010, Epsilon: 0.8496692307360671
+Episode 1630/2000, Total Reward: -74, Epsilon: 0.8495842638129936
+Episode 1631/2000, Total Reward: -74, Epsilon: 0.8494993053866122
+Episode 1632/2000, Total Reward: -42, Epsilon: 0.8494143554560736
+edge already selected: 0
+Episode 1633/2000, Total Reward: -10000000074, Epsilon: 0.849329414020528
+Episode 1634/2000, Total Reward: 16, Epsilon: 0.849244481079126
+edge already selected: 0
+Episode 1635/2000, Total Reward: -10000000074, Epsilon: 0.849159556631018
+Episode 1636/2000, Total Reward: -74, Epsilon: 0.849074640675355
+Episode 1637/2000, Total Reward: 16, Epsilon: 0.8489897332112875
+edge already selected: 0
+Episode 1638/2000, Total Reward: -10000000042, Epsilon: 0.8489048342379664
+edge already selected: 0
+Episode 1639/2000, Total Reward: -9999999984, Epsilon: 0.8488199437545426
+edge already selected: 0
+Episode 1640/2000, Total Reward: -9999999984, Epsilon: 0.8487350617601672
+edge already selected: 0
+Episode 1641/2000, Total Reward: -10000000010, Epsilon: 0.8486501882539912
+Episode 1642/2000, Total Reward: 16, Epsilon: 0.8485653232351658
+Episode 1643/2000, Total Reward: -74, Epsilon: 0.8484804667028423
+edge already selected: 0
+Episode 1644/2000, Total Reward: -9999999984, Epsilon: 0.848395618656172
+edge already selected: 0
+edge already selected: 0
+Episode 1645/2000, Total Reward: -20000000074, Epsilon: 0.8483107790943064
+Episode 1646/2000, Total Reward: -10, Epsilon: 0.848225948016397
+Episode 1647/2000, Total Reward: 48, Epsilon: 0.8481411254215954
+Episode 1648/2000, Total Reward: 16, Epsilon: 0.8480563113090532
+Episode 1649/2000, Total Reward: -42, Epsilon: 0.8479715056779223
+edge already selected: 0
+Episode 1650/2000, Total Reward: -9999999984, Epsilon: 0.8478867085273546
+Episode 1651/2000, Total Reward: 16, Epsilon: 0.8478019198565019
+Episode 1652/2000, Total Reward: 16, Epsilon: 0.8477171396645162
+edge already selected: 0
+Episode 1653/2000, Total Reward: -10000000074, Epsilon: 0.8476323679505497
+Episode 1654/2000, Total Reward: -74, Epsilon: 0.8475476047137547
+Episode 1655/2000, Total Reward: -42, Epsilon: 0.8474628499532834
+edge already selected: 0
+Episode 1656/2000, Total Reward: -9999999952, Epsilon: 0.847378103668288
+edge already selected: 0
+Episode 1657/2000, Total Reward: -10000000042, Epsilon: 0.8472933658579213
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1658/2000, Total Reward: -29999999952, Epsilon: 0.8472086365213355
+edge already selected: 0
+Episode 1659/2000, Total Reward: -9999999978, Epsilon: 0.8471239156576834
+edge already selected: 0
+Episode 1660/2000, Total Reward: -9999999984, Epsilon: 0.8470392032661177
+Episode 1661/2000, Total Reward: -74, Epsilon: 0.8469544993457911
+Episode 1662/2000, Total Reward: -74, Epsilon: 0.8468698038958565
+Episode 1663/2000, Total Reward: -42, Epsilon: 0.846785116915467
+Episode 1664/2000, Total Reward: 16, Epsilon: 0.8467004384037754
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1665/2000, Total Reward: -30000000010, Epsilon: 0.846615768359935
+edge already selected: 0
+Episode 1666/2000, Total Reward: -10000000042, Epsilon: 0.8465311067830991
+edge already selected: 0
+Episode 1667/2000, Total Reward: -10000000010, Epsilon: 0.8464464536724208
+Episode 1668/2000, Total Reward: 16, Epsilon: 0.8463618090270535
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1669/2000, Total Reward: -40000000074, Epsilon: 0.8462771728461508
+edge already selected: 0
+Episode 1670/2000, Total Reward: -10000000042, Epsilon: 0.8461925451288662
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1671/2000, Total Reward: -50000000042, Epsilon: 0.8461079258743534
+edge already selected: 0
+Episode 1672/2000, Total Reward: -9999999984, Epsilon: 0.8460233150817659
+edge already selected: 0
+Episode 1673/2000, Total Reward: -10000000074, Epsilon: 0.8459387127502577
+Episode 1674/2000, Total Reward: -42, Epsilon: 0.8458541188789827
+Episode 1675/2000, Total Reward: -42, Epsilon: 0.8457695334670947
+edge already selected: 0
+edge already selected: 0
+Episode 1676/2000, Total Reward: -19999999984, Epsilon: 0.845684956513748
+Episode 1677/2000, Total Reward: 16, Epsilon: 0.8456003880180966
+Episode 1678/2000, Total Reward: 16, Epsilon: 0.8455158279792948
+Episode 1679/2000, Total Reward: 48, Epsilon: 0.8454312763964968
+Episode 1680/2000, Total Reward: -42, Epsilon: 0.8453467332688572
+edge already selected: 0
+Episode 1681/2000, Total Reward: -9999999984, Epsilon: 0.8452621985955303
+Episode 1682/2000, Total Reward: 16, Epsilon: 0.8451776723756708
+edge already selected: 0
+edge already selected: 0
+Episode 1683/2000, Total Reward: -19999999952, Epsilon: 0.8450931546084332
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1684/2000, Total Reward: -39999999978, Epsilon: 0.8450086452929724
+edge already selected: 0
+edge already selected: 0
+Episode 1685/2000, Total Reward: -20000000042, Epsilon: 0.8449241444284431
+edge already selected: 0
+Episode 1686/2000, Total Reward: -10000000042, Epsilon: 0.8448396520140002
+edge already selected: 0
+Episode 1687/2000, Total Reward: -9999999952, Epsilon: 0.8447551680487988
+Episode 1688/2000, Total Reward: -74, Epsilon: 0.8446706925319939
+edge already selected: 0
+edge already selected: 0
+Episode 1689/2000, Total Reward: -20000000010, Epsilon: 0.8445862254627408
+edge already selected: 0
+Episode 1690/2000, Total Reward: -9999999984, Epsilon: 0.8445017668401945
+edge already selected: 0
+edge already selected: 0
+Episode 1691/2000, Total Reward: -19999999978, Epsilon: 0.8444173166635105
+Episode 1692/2000, Total Reward: 16, Epsilon: 0.8443328749318442
+edge already selected: 0
+Episode 1693/2000, Total Reward: -9999999978, Epsilon: 0.844248441644351
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1694/2000, Total Reward: -49999999984, Epsilon: 0.8441640168001866
+edge already selected: 0
+Episode 1695/2000, Total Reward: -10000000042, Epsilon: 0.8440796003985066
+Episode 1696/2000, Total Reward: 16, Epsilon: 0.8439951924384668
+edge already selected: 0
+Episode 1697/2000, Total Reward: -10000000074, Epsilon: 0.8439107929192229
+Episode 1698/2000, Total Reward: 48, Epsilon: 0.843826401839931
+Episode 1699/2000, Total Reward: -42, Epsilon: 0.843742019199747
+Episode 1700/2000, Total Reward: 16, Epsilon: 0.843657644997827
+edge already selected: 0
+edge already selected: 0
+Episode 1701/2000, Total Reward: -19999999984, Epsilon: 0.8435732792333273
+edge already selected: 0
+edge already selected: 0
+Episode 1702/2000, Total Reward: -19999999952, Epsilon: 0.8434889219054039
+Episode 1703/2000, Total Reward: -10, Epsilon: 0.8434045730132134
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1704/2000, Total Reward: -30000000010, Epsilon: 0.843320232555912
+Episode 1705/2000, Total Reward: -42, Epsilon: 0.8432359005326565
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1706/2000, Total Reward: -39999999984, Epsilon: 0.8431515769426032
+edge already selected: 0
+edge already selected: 0
+Episode 1707/2000, Total Reward: -20000000042, Epsilon: 0.843067261784909
+Episode 1708/2000, Total Reward: 16, Epsilon: 0.8429829550587306
+Episode 1709/2000, Total Reward: -42, Epsilon: 0.8428986567632247
+edge already selected: 0
+edge already selected: 0
+Episode 1710/2000, Total Reward: -19999999952, Epsilon: 0.8428143668975484
+edge already selected: 0
+edge already selected: 0
+Episode 1711/2000, Total Reward: -20000000042, Epsilon: 0.8427300854608587
+edge already selected: 0
+Episode 1712/2000, Total Reward: -9999999952, Epsilon: 0.8426458124523126
+edge already selected: 0
+Episode 1713/2000, Total Reward: -10000000042, Epsilon: 0.8425615478710674
+edge already selected: 0
+edge already selected: 0
+Episode 1714/2000, Total Reward: -20000000042, Epsilon: 0.8424772917162803
+Episode 1715/2000, Total Reward: -10, Epsilon: 0.8423930439871087
+edge already selected: 0
+Episode 1716/2000, Total Reward: -9999999920, Epsilon: 0.84230880468271
+edge already selected: 0
+Episode 1717/2000, Total Reward: -9999999984, Epsilon: 0.8422245738022417
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1718/2000, Total Reward: -50000000074, Epsilon: 0.8421403513448614
+Episode 1719/2000, Total Reward: 16, Epsilon: 0.842056137309727
+edge already selected: 0
+Episode 1720/2000, Total Reward: -9999999978, Epsilon: 0.8419719316959959
+Episode 1721/2000, Total Reward: 16, Epsilon: 0.8418877345028264
+edge already selected: 0
+Episode 1722/2000, Total Reward: -9999999984, Epsilon: 0.8418035457293761
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1723/2000, Total Reward: -29999999984, Epsilon: 0.8417193653748032
+Episode 1724/2000, Total Reward: 16, Epsilon: 0.8416351934382658
+Episode 1725/2000, Total Reward: -42, Epsilon: 0.841551029918922
+Episode 1726/2000, Total Reward: -42, Epsilon: 0.8414668748159301
+edge already selected: 0
+Episode 1727/2000, Total Reward: -10000000042, Epsilon: 0.8413827281284485
+edge already selected: 0
+Episode 1728/2000, Total Reward: -10000000042, Epsilon: 0.8412985898556357
+edge already selected: 0
+Episode 1729/2000, Total Reward: -10000000010, Epsilon: 0.8412144599966501
+edge already selected: 0
+Episode 1730/2000, Total Reward: -9999999984, Epsilon: 0.8411303385506504
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1731/2000, Total Reward: -49999999746, Epsilon: 0.8410462255167954
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1732/2000, Total Reward: -39999999984, Epsilon: 0.8409621208942437
+edge already selected: 0
+edge already selected: 0
+Episode 1733/2000, Total Reward: -20000000042, Epsilon: 0.8408780246821543
+edge already selected: 0
+Episode 1734/2000, Total Reward: -10000000074, Epsilon: 0.8407939368796862
+edge already selected: 0
+Episode 1735/2000, Total Reward: -9999999984, Epsilon: 0.8407098574859982
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1736/2000, Total Reward: -50000000042, Epsilon: 0.8406257865002497
+edge already selected: 0
+Episode 1737/2000, Total Reward: -9999999952, Epsilon: 0.8405417239215996
+edge already selected: 0
+edge already selected: 0
+Episode 1738/2000, Total Reward: -19999999984, Epsilon: 0.8404576697492075
+edge already selected: 0
+Episode 1739/2000, Total Reward: -10000000042, Epsilon: 0.8403736239822326
+edge already selected: 0
+edge already selected: 0
+Episode 1740/2000, Total Reward: -20000000074, Epsilon: 0.8402895866198343
+edge already selected: 0
+edge already selected: 0
+Episode 1741/2000, Total Reward: -19999999978, Epsilon: 0.8402055576611723
+edge already selected: 0
+edge already selected: 0
+Episode 1742/2000, Total Reward: -19999999978, Epsilon: 0.8401215371054063
+edge already selected: 0
+Episode 1743/2000, Total Reward: -10000000042, Epsilon: 0.8400375249516957
+edge already selected: 0
+Episode 1744/2000, Total Reward: -9999999984, Epsilon: 0.8399535211992005
+edge already selected: 0
+Episode 1745/2000, Total Reward: -10000000042, Epsilon: 0.8398695258470806
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1746/2000, Total Reward: -29999999952, Epsilon: 0.8397855388944959
+Episode 1747/2000, Total Reward: -42, Epsilon: 0.8397015603406065
+Episode 1748/2000, Total Reward: -74, Epsilon: 0.8396175901845725
+Episode 1749/2000, Total Reward: 144, Epsilon: 0.839533628425554
+Episode 1750/2000, Total Reward: -42, Epsilon: 0.8394496750627115
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1751/2000, Total Reward: -39999999984, Epsilon: 0.8393657300952052
+edge already selected: 0
+Episode 1752/2000, Total Reward: -9999999984, Epsilon: 0.8392817935221957
+Episode 1753/2000, Total Reward: 48, Epsilon: 0.8391978653428435
+edge already selected: 0
+Episode 1754/2000, Total Reward: -9999999984, Epsilon: 0.8391139455563091
+Episode 1755/2000, Total Reward: -42, Epsilon: 0.8390300341617535
+Episode 1756/2000, Total Reward: 16, Epsilon: 0.8389461311583373
+Episode 1757/2000, Total Reward: 16, Epsilon: 0.8388622365452214
+Episode 1758/2000, Total Reward: -42, Epsilon: 0.8387783503215669
+Episode 1759/2000, Total Reward: -42, Epsilon: 0.8386944724865347
+Episode 1760/2000, Total Reward: 16, Epsilon: 0.838610603039286
+edge already selected: 0
+Episode 1761/2000, Total Reward: -9999999984, Epsilon: 0.8385267419789821
+Episode 1762/2000, Total Reward: 16, Epsilon: 0.8384428893047843
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1763/2000, Total Reward: -49999999984, Epsilon: 0.8383590450158538
+Episode 1764/2000, Total Reward: -42, Epsilon: 0.8382752091113522
+edge already selected: 0
+Episode 1765/2000, Total Reward: -10000000042, Epsilon: 0.8381913815904412
+edge already selected: 0
+Episode 1766/2000, Total Reward: -9999999984, Epsilon: 0.8381075624522821
+edge already selected: 0
+edge already selected: 0
+Episode 1767/2000, Total Reward: -19999999952, Epsilon: 0.8380237516960369
+Episode 1768/2000, Total Reward: -10, Epsilon: 0.8379399493208673
+edge already selected: 0
+edge already selected: 0
+Episode 1769/2000, Total Reward: -20000000010, Epsilon: 0.8378561553259353
+Episode 1770/2000, Total Reward: 16, Epsilon: 0.8377723697104027
+edge already selected: 0
+Episode 1771/2000, Total Reward: -9999999984, Epsilon: 0.8376885924734316
+edge already selected: 0
+edge already selected: 0
+Episode 1772/2000, Total Reward: -20000000042, Epsilon: 0.8376048236141843
+edge already selected: 0
+Episode 1773/2000, Total Reward: -9999999984, Epsilon: 0.837521063131823
+Episode 1774/2000, Total Reward: 16, Epsilon: 0.8374373110255098
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1775/2000, Total Reward: -29999999984, Epsilon: 0.8373535672944072
+edge already selected: 0
+Episode 1776/2000, Total Reward: -9999999984, Epsilon: 0.8372698319376778
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1777/2000, Total Reward: -30000000010, Epsilon: 0.837186104954484
+edge already selected: 0
+Episode 1778/2000, Total Reward: -9999999984, Epsilon: 0.8371023863439886
+Episode 1779/2000, Total Reward: 48, Epsilon: 0.8370186761053542
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1780/2000, Total Reward: -39999999984, Epsilon: 0.8369349742377437
+edge already selected: 0
+Episode 1781/2000, Total Reward: -9999999950, Epsilon: 0.8368512807403199
+Episode 1782/2000, Total Reward: 16, Epsilon: 0.8367675956122459
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1783/2000, Total Reward: -40000000074, Epsilon: 0.8366839188526847
+edge already selected: 0
+Episode 1784/2000, Total Reward: -9999999984, Epsilon: 0.8366002504607994
+edge already selected: 0
+edge already selected: 0
+Episode 1785/2000, Total Reward: -20000000042, Epsilon: 0.8365165904357533
+edge already selected: 0
+Episode 1786/2000, Total Reward: -9999999952, Epsilon: 0.8364329387767098
+Episode 1787/2000, Total Reward: -74, Epsilon: 0.8363492954828321
+edge already selected: 0
+edge already selected: 0
+Episode 1788/2000, Total Reward: -19999999998, Epsilon: 0.8362656605532838
+Episode 1789/2000, Total Reward: 16, Epsilon: 0.8361820339872285
+edge already selected: 0
+edge already selected: 0
+Episode 1790/2000, Total Reward: -20000000010, Epsilon: 0.8360984157838297
+Episode 1791/2000, Total Reward: -42, Epsilon: 0.8360148059422513
+Episode 1792/2000, Total Reward: 16, Epsilon: 0.8359312044616571
+Episode 1793/2000, Total Reward: 22, Epsilon: 0.835847611341211
+Episode 1794/2000, Total Reward: -42, Epsilon: 0.8357640265800769
+Episode 1795/2000, Total Reward: -42, Epsilon: 0.8356804501774189
+Episode 1796/2000, Total Reward: -42, Epsilon: 0.8355968821324011
+edge already selected: 0
+edge already selected: 0
+Episode 1797/2000, Total Reward: -20000000074, Epsilon: 0.8355133224441879
+edge already selected: 0
+Episode 1798/2000, Total Reward: -10000000074, Epsilon: 0.8354297711119435
+Episode 1799/2000, Total Reward: 16, Epsilon: 0.8353462281348323
+edge already selected: 0
+edge already selected: 0
+Episode 1800/2000, Total Reward: -19999999998, Epsilon: 0.8352626935120188
+edge already selected: 0
+edge already selected: 0
+Episode 1801/2000, Total Reward: -20000000010, Epsilon: 0.8351791672426676
+Episode 1802/2000, Total Reward: 48, Epsilon: 0.8350956493259434
+Episode 1803/2000, Total Reward: -42, Epsilon: 0.8350121397610107
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1804/2000, Total Reward: -29999999952, Epsilon: 0.8349286385470347
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1805/2000, Total Reward: -39999999952, Epsilon: 0.83484514568318
+Episode 1806/2000, Total Reward: -42, Epsilon: 0.8347616611686117
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1807/2000, Total Reward: -30000000074, Epsilon: 0.8346781850024949
+edge already selected: 0
+Episode 1808/2000, Total Reward: -10000000074, Epsilon: 0.8345947171839947
+Episode 1809/2000, Total Reward: 48, Epsilon: 0.8345112577122763
+Episode 1810/2000, Total Reward: -74, Epsilon: 0.8344278065865051
+Episode 1811/2000, Total Reward: 80, Epsilon: 0.8343443638058464
+Episode 1812/2000, Total Reward: -42, Epsilon: 0.8342609293694658
+edge already selected: 0
+Episode 1813/2000, Total Reward: -10000000074, Epsilon: 0.8341775032765288
+Episode 1814/2000, Total Reward: -74, Epsilon: 0.8340940855262012
+Episode 1815/2000, Total Reward: -42, Epsilon: 0.8340106761176487
+Episode 1816/2000, Total Reward: 16, Epsilon: 0.8339272750500369
+edge already selected: 0
+Episode 1817/2000, Total Reward: -9999999984, Epsilon: 0.8338438823225319
+edge already selected: 0
+edge already selected: 0
+Episode 1818/2000, Total Reward: -20000000074, Epsilon: 0.8337604979342996
+edge already selected: 0
+edge already selected: 0
+Episode 1819/2000, Total Reward: -20000000010, Epsilon: 0.8336771218845062
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1820/2000, Total Reward: -49999999984, Epsilon: 0.8335937541723177
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1821/2000, Total Reward: -30000000074, Epsilon: 0.8335103947969005
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1822/2000, Total Reward: -29999999984, Epsilon: 0.8334270437574208
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1823/2000, Total Reward: -29999999984, Epsilon: 0.8333437010530451
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1824/2000, Total Reward: -29999999978, Epsilon: 0.8332603666829398
+edge already selected: 0
+Episode 1825/2000, Total Reward: -9999999984, Epsilon: 0.8331770406462715
+edge already selected: 0
+edge already selected: 0
+Episode 1826/2000, Total Reward: -20000000010, Epsilon: 0.8330937229422068
+edge already selected: 0
+edge already selected: 0
+Episode 1827/2000, Total Reward: -19999999952, Epsilon: 0.8330104135699127
+Episode 1828/2000, Total Reward: 80, Epsilon: 0.8329271125285557
+edge already selected: 0
+Episode 1829/2000, Total Reward: -10000000074, Epsilon: 0.8328438198173028
+Episode 1830/2000, Total Reward: 80, Epsilon: 0.8327605354353211
+edge already selected: 0
+Episode 1831/2000, Total Reward: -9999999920, Epsilon: 0.8326772593817776
+Episode 1832/2000, Total Reward: -42, Epsilon: 0.8325939916558395
+Episode 1833/2000, Total Reward: 16, Epsilon: 0.8325107322566739
+edge already selected: 0
+Episode 1834/2000, Total Reward: -9999999952, Epsilon: 0.8324274811834482
+edge already selected: 0
+edge already selected: 0
+Episode 1835/2000, Total Reward: -20000000074, Epsilon: 0.8323442384353299
+Episode 1836/2000, Total Reward: -42, Epsilon: 0.8322610040114864
+edge already selected: 0
+edge already selected: 0
+Episode 1837/2000, Total Reward: -20000000074, Epsilon: 0.8321777779110853
+edge already selected: 0
+Episode 1838/2000, Total Reward: -9999999984, Epsilon: 0.8320945601332942
+Episode 1839/2000, Total Reward: 16, Epsilon: 0.8320113506772808
+Episode 1840/2000, Total Reward: -74, Epsilon: 0.8319281495422131
+edge already selected: 0
+Episode 1841/2000, Total Reward: -9999999984, Epsilon: 0.8318449567272589
+Episode 1842/2000, Total Reward: -42, Epsilon: 0.8317617722315862
+edge already selected: 0
+edge already selected: 0
+Episode 1843/2000, Total Reward: -20000000042, Epsilon: 0.831678596054363
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1844/2000, Total Reward: -30000000074, Epsilon: 0.8315954281947576
+Episode 1845/2000, Total Reward: -74, Epsilon: 0.8315122686519382
+edge already selected: 0
+Episode 1846/2000, Total Reward: -10000000074, Epsilon: 0.831429117425073
+Episode 1847/2000, Total Reward: 16, Epsilon: 0.8313459745133305
+edge already selected: 0
+Episode 1848/2000, Total Reward: -9999999984, Epsilon: 0.8312628399158791
+Episode 1849/2000, Total Reward: 16, Epsilon: 0.8311797136318876
+edge already selected: 0
+Episode 1850/2000, Total Reward: -10000000042, Epsilon: 0.8310965956605244
+edge already selected: 0
+Episode 1851/2000, Total Reward: -9999999952, Epsilon: 0.8310134860009584
+Episode 1852/2000, Total Reward: -40, Epsilon: 0.8309303846523582
+edge already selected: 0
+edge already selected: 0
+Episode 1853/2000, Total Reward: -20000000010, Epsilon: 0.830847291613893
+Episode 1854/2000, Total Reward: 16, Epsilon: 0.8307642068847316
+Episode 1855/2000, Total Reward: 16, Epsilon: 0.8306811304640431
+Episode 1856/2000, Total Reward: 16, Epsilon: 0.8305980623509968
+Episode 1857/2000, Total Reward: -74, Epsilon: 0.8305150025447616
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1858/2000, Total Reward: -29999999984, Epsilon: 0.8304319510445072
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1859/2000, Total Reward: -30000000010, Epsilon: 0.8303489078494027
+Episode 1860/2000, Total Reward: -10, Epsilon: 0.8302658729586178
+Episode 1861/2000, Total Reward: -74, Epsilon: 0.8301828463713219
+edge already selected: 0
+Episode 1862/2000, Total Reward: -10000000074, Epsilon: 0.8300998280866848
+Episode 1863/2000, Total Reward: -42, Epsilon: 0.8300168181038762
+Episode 1864/2000, Total Reward: 16, Epsilon: 0.8299338164220658
+edge already selected: 0
+Episode 1865/2000, Total Reward: -10000000042, Epsilon: 0.8298508230404236
+edge already selected: 0
+edge already selected: 0
+Episode 1866/2000, Total Reward: -19999999920, Epsilon: 0.8297678379581195
+edge already selected: 0
+Episode 1867/2000, Total Reward: -10000000074, Epsilon: 0.8296848611743237
+edge already selected: 0
+Episode 1868/2000, Total Reward: -9999999984, Epsilon: 0.8296018926882063
+edge already selected: 0
+edge already selected: 0
+Episode 1869/2000, Total Reward: -20000000042, Epsilon: 0.8295189324989375
+edge already selected: 0
+edge already selected: 0
+Episode 1870/2000, Total Reward: -19999999952, Epsilon: 0.8294359806056876
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1871/2000, Total Reward: -29999999978, Epsilon: 0.829353037007627
+edge already selected: 0
+edge already selected: 0
+Episode 1872/2000, Total Reward: -20000000042, Epsilon: 0.8292701017039262
+edge already selected: 0
+edge already selected: 0
+Episode 1873/2000, Total Reward: -19999999952, Epsilon: 0.8291871746937558
+edge already selected: 0
+Episode 1874/2000, Total Reward: -9999999984, Epsilon: 0.8291042559762865
+Episode 1875/2000, Total Reward: -42, Epsilon: 0.8290213455506888
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1876/2000, Total Reward: -60000000010, Epsilon: 0.8289384434161338
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1877/2000, Total Reward: -29999999952, Epsilon: 0.8288555495717922
+Episode 1878/2000, Total Reward: 16, Epsilon: 0.828772664016835
+edge already selected: 0
+edge already selected: 0
+Episode 1879/2000, Total Reward: -20000000010, Epsilon: 0.8286897867504334
+edge already selected: 0
+edge already selected: 0
+Episode 1880/2000, Total Reward: -19999999952, Epsilon: 0.8286069177717583
+edge already selected: 0
+Episode 1881/2000, Total Reward: -9999999952, Epsilon: 0.8285240570799811
+edge already selected: 0
+Episode 1882/2000, Total Reward: -9999999984, Epsilon: 0.8284412046742732
+edge already selected: 0
+Episode 1883/2000, Total Reward: -9999999952, Epsilon: 0.8283583605538057
+Episode 1884/2000, Total Reward: 16, Epsilon: 0.8282755247177503
+Episode 1885/2000, Total Reward: 48, Epsilon: 0.8281926971652785
+edge already selected: 0
+Episode 1886/2000, Total Reward: -9999999984, Epsilon: 0.828109877895562
+edge already selected: 0
+Episode 1887/2000, Total Reward: -10000000010, Epsilon: 0.8280270669077725
+Episode 1888/2000, Total Reward: 48, Epsilon: 0.8279442642010817
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1889/2000, Total Reward: -29999999952, Epsilon: 0.8278614697746616
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1890/2000, Total Reward: -29999999952, Epsilon: 0.8277786836276841
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1891/2000, Total Reward: -30000000042, Epsilon: 0.8276959057593214
+edge already selected: 0
+Episode 1892/2000, Total Reward: -9999999978, Epsilon: 0.8276131361687454
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1893/2000, Total Reward: -29999999984, Epsilon: 0.8275303748551286
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1894/2000, Total Reward: -30000000074, Epsilon: 0.8274476218176431
+Episode 1895/2000, Total Reward: 48, Epsilon: 0.8273648770554614
+edge already selected: 0
+Episode 1896/2000, Total Reward: -10000000010, Epsilon: 0.8272821405677558
+edge already selected: 0
+edge already selected: 0
+Episode 1897/2000, Total Reward: -20000000074, Epsilon: 0.8271994123536991
+Episode 1898/2000, Total Reward: -74, Epsilon: 0.8271166924124638
+edge already selected: 0
+edge already selected: 0
+Episode 1899/2000, Total Reward: -20000000042, Epsilon: 0.8270339807432225
+Episode 1900/2000, Total Reward: 48, Epsilon: 0.8269512773451482
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1901/2000, Total Reward: -29999999984, Epsilon: 0.8268685822174137
+edge already selected: 0
+Episode 1902/2000, Total Reward: -9999999984, Epsilon: 0.8267858953591919
+edge already selected: 0
+Episode 1903/2000, Total Reward: -10000000010, Epsilon: 0.826703216769656
+edge already selected: 0
+Episode 1904/2000, Total Reward: -9999999984, Epsilon: 0.826620546447979
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1905/2000, Total Reward: -49999999920, Epsilon: 0.8265378843933342
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1906/2000, Total Reward: -30000000042, Epsilon: 0.8264552306048949
+edge already selected: 0
+Episode 1907/2000, Total Reward: -10000000074, Epsilon: 0.8263725850818344
+Episode 1908/2000, Total Reward: 16, Epsilon: 0.8262899478233262
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1909/2000, Total Reward: -29999999984, Epsilon: 0.8262073188285439
+Episode 1910/2000, Total Reward: -74, Epsilon: 0.8261246980966611
+edge already selected: 0
+Episode 1911/2000, Total Reward: -9999999952, Epsilon: 0.8260420856268514
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1912/2000, Total Reward: -29999999984, Epsilon: 0.8259594814182888
+edge already selected: 0
+Episode 1913/2000, Total Reward: -9999999978, Epsilon: 0.8258768854701469
+edge already selected: 0
+edge already selected: 0
+Episode 1914/2000, Total Reward: -19999999952, Epsilon: 0.8257942977816
+edge already selected: 0
+edge already selected: 0
+Episode 1915/2000, Total Reward: -19999999952, Epsilon: 0.8257117183518218
+edge already selected: 0
+Episode 1916/2000, Total Reward: -9999999984, Epsilon: 0.8256291471799866
+edge already selected: 0
+edge already selected: 0
+Episode 1917/2000, Total Reward: -20000000074, Epsilon: 0.8255465842652686
+edge already selected: 0
+Episode 1918/2000, Total Reward: -10000000010, Epsilon: 0.8254640296068421
+edge already selected: 0
+edge already selected: 0
+Episode 1919/2000, Total Reward: -20000000042, Epsilon: 0.8253814832038814
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1920/2000, Total Reward: -29999999984, Epsilon: 0.825298945055561
+edge already selected: 0
+edge already selected: 0
+Episode 1921/2000, Total Reward: -20000000042, Epsilon: 0.8252164151610555
+edge already selected: 0
+Episode 1922/2000, Total Reward: -10000000042, Epsilon: 0.8251338935195394
+edge already selected: 0
+edge already selected: 0
+Episode 1923/2000, Total Reward: -19999999984, Epsilon: 0.8250513801301874
+edge already selected: 0
+Episode 1924/2000, Total Reward: -10000000074, Epsilon: 0.8249688749921744
+Episode 1925/2000, Total Reward: 16, Epsilon: 0.8248863781046752
+edge already selected: 0
+Episode 1926/2000, Total Reward: -10000000074, Epsilon: 0.8248038894668648
+edge already selected: 0
+edge already selected: 0
+Episode 1927/2000, Total Reward: -20000000072, Epsilon: 0.8247214090779181
+Episode 1928/2000, Total Reward: -10, Epsilon: 0.8246389369370104
+Episode 1929/2000, Total Reward: 254, Epsilon: 0.8245564730433167
+Episode 1930/2000, Total Reward: -74, Epsilon: 0.8244740173960123
+Episode 1931/2000, Total Reward: -74, Epsilon: 0.8243915699942728
+edge already selected: 0
+Episode 1932/2000, Total Reward: -10000000074, Epsilon: 0.8243091308372733
+edge already selected: 0
+Episode 1933/2000, Total Reward: -9999999984, Epsilon: 0.8242266999241896
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1934/2000, Total Reward: -59999999984, Epsilon: 0.8241442772541973
+edge already selected: 0
+edge already selected: 0
+Episode 1935/2000, Total Reward: -20000000074, Epsilon: 0.8240618628264719
+Episode 1936/2000, Total Reward: -74, Epsilon: 0.8239794566401892
+Episode 1937/2000, Total Reward: 16, Epsilon: 0.8238970586945252
+edge already selected: 0
+Episode 1938/2000, Total Reward: -10000000042, Epsilon: 0.8238146689886557
+edge already selected: 0
+Episode 1939/2000, Total Reward: -10000000074, Epsilon: 0.8237322875217569
+Episode 1940/2000, Total Reward: 48, Epsilon: 0.8236499142930047
+Episode 1941/2000, Total Reward: 16, Epsilon: 0.8235675493015754
+Episode 1942/2000, Total Reward: -10, Epsilon: 0.8234851925466452
+edge already selected: 0
+edge already selected: 0
+Episode 1943/2000, Total Reward: -20000000074, Epsilon: 0.8234028440273905
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1944/2000, Total Reward: -30000000042, Epsilon: 0.8233205037429878
+Episode 1945/2000, Total Reward: -42, Epsilon: 0.8232381716926135
+edge already selected: 0
+edge already selected: 0
+Episode 1946/2000, Total Reward: -20000000042, Epsilon: 0.8231558478754443
+Episode 1947/2000, Total Reward: 16, Epsilon: 0.8230735322906567
+Episode 1948/2000, Total Reward: 16, Epsilon: 0.8229912249374277
+edge already selected: 0
+edge already selected: 0
+Episode 1949/2000, Total Reward: -20000000010, Epsilon: 0.822908925814934
+edge already selected: 0
+Episode 1950/2000, Total Reward: -10000000010, Epsilon: 0.8228266349223525
+edge already selected: 0
+Episode 1951/2000, Total Reward: -9999999978, Epsilon: 0.8227443522588603
+Episode 1952/2000, Total Reward: -42, Epsilon: 0.8226620778236344
+edge already selected: 0
+edge already selected: 0
+Episode 1953/2000, Total Reward: -19999999952, Epsilon: 0.822579811615852
+edge already selected: 0
+edge already selected: 0
+Episode 1954/2000, Total Reward: -20000000010, Epsilon: 0.8224975536346905
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1955/2000, Total Reward: -30000000042, Epsilon: 0.822415303879327
+edge already selected: 0
+edge already selected: 0
+Episode 1956/2000, Total Reward: -19999999984, Epsilon: 0.8223330623489391
+edge already selected: 0
+Episode 1957/2000, Total Reward: -9999999984, Epsilon: 0.8222508290427042
+edge already selected: 0
+Episode 1958/2000, Total Reward: -10000000042, Epsilon: 0.8221686039598
+edge already selected: 0
+Episode 1959/2000, Total Reward: -10000000074, Epsilon: 0.822086387099404
+Episode 1960/2000, Total Reward: -42, Epsilon: 0.8220041784606941
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1961/2000, Total Reward: -30000000074, Epsilon: 0.8219219780428481
+Episode 1962/2000, Total Reward: -42, Epsilon: 0.8218397858450438
+Episode 1963/2000, Total Reward: -74, Epsilon: 0.8217576018664593
+Episode 1964/2000, Total Reward: 16, Epsilon: 0.8216754261062726
+Episode 1965/2000, Total Reward: -74, Epsilon: 0.821593258563662
+Episode 1966/2000, Total Reward: 22, Epsilon: 0.8215110992378057
+edge already selected: 0
+Episode 1967/2000, Total Reward: -10000000074, Epsilon: 0.8214289481278819
+edge already selected: 0
+edge already selected: 0
+Episode 1968/2000, Total Reward: -19999999984, Epsilon: 0.8213468052330691
+Episode 1969/2000, Total Reward: -42, Epsilon: 0.8212646705525458
+Episode 1970/2000, Total Reward: -74, Epsilon: 0.8211825440854905
+Episode 1971/2000, Total Reward: 16, Epsilon: 0.821100425831082
+edge already selected: 0
+Episode 1972/2000, Total Reward: -10000000074, Epsilon: 0.8210183157884989
+edge already selected: 0
+edge already selected: 0
+Episode 1973/2000, Total Reward: -20000000010, Epsilon: 0.8209362139569201
+Episode 1974/2000, Total Reward: 286, Epsilon: 0.8208541203355244
+edge already selected: 0
+edge already selected: 0
+Episode 1975/2000, Total Reward: -19999999952, Epsilon: 0.8207720349234908
+edge already selected: 0
+Episode 1976/2000, Total Reward: -9999999952, Epsilon: 0.8206899577199985
+edge already selected: 0
+Episode 1977/2000, Total Reward: -9999999714, Epsilon: 0.8206078887242265
+edge already selected: 0
+Episode 1978/2000, Total Reward: -10000000074, Epsilon: 0.8205258279353541
+Episode 1979/2000, Total Reward: -74, Epsilon: 0.8204437753525606
+edge already selected: 0
+Episode 1980/2000, Total Reward: -10000000074, Epsilon: 0.8203617309750254
+Episode 1981/2000, Total Reward: 16, Epsilon: 0.8202796948019279
+edge already selected: 0
+edge already selected: 0
+Episode 1982/2000, Total Reward: -20000000074, Epsilon: 0.8201976668324477
+Episode 1983/2000, Total Reward: 16, Epsilon: 0.8201156470657645
+edge already selected: 0
+edge already selected: 0
+Episode 1984/2000, Total Reward: -19999999920, Epsilon: 0.8200336355010579
+edge already selected: 0
+edge already selected: 0
+Episode 1985/2000, Total Reward: -19999999952, Epsilon: 0.8199516321375078
+Episode 1986/2000, Total Reward: -74, Epsilon: 0.819869636974294
+edge already selected: 0
+Episode 1987/2000, Total Reward: -9999999984, Epsilon: 0.8197876500105966
+edge already selected: 0
+edge already selected: 0
+Episode 1988/2000, Total Reward: -20000000042, Epsilon: 0.8197056712455956
+Episode 1989/2000, Total Reward: 80, Epsilon: 0.819623700678471
+Episode 1990/2000, Total Reward: -74, Epsilon: 0.8195417383084032
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1991/2000, Total Reward: -29999999984, Epsilon: 0.8194597841345723
+Episode 1992/2000, Total Reward: 48, Epsilon: 0.8193778381561588
+Episode 1993/2000, Total Reward: -10, Epsilon: 0.8192959003723432
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1994/2000, Total Reward: -49999999978, Epsilon: 0.819213970782306
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1995/2000, Total Reward: -60000000074, Epsilon: 0.8191320493852278
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1996/2000, Total Reward: -29999999984, Epsilon: 0.8190501361802892
+edge already selected: 0
+Episode 1997/2000, Total Reward: -10000000074, Epsilon: 0.8189682311666712
+edge already selected: 0
+edge already selected: 0
+edge already selected: 0
+Episode 1998/2000, Total Reward: -30000000074, Epsilon: 0.8188863343435545
+Episode 1999/2000, Total Reward: 16, Epsilon: 0.8188044457101201
+Episode 2000/2000, Total Reward: -42, Epsilon: 0.8187225652655491
+Completed Games:  2000
+Won Games:  15

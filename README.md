@@ -36,7 +36,7 @@ Observations:
 Attempt 2:
 Terminates on Wrong Move: True
 Legal Edge Selection (w Epsilon Greedy): True
-Wrong Move Reward: -250
+Wrong Move Reward: -50
 Losing Reward: -100
 Winning Reward: 100
 
@@ -46,3 +46,47 @@ Winning Reward: 100
 
 Attempt 3:
 Terminates on Wrong Move: False
+Legal Edge Selection (w Epsilon Greedy): True
+Wrong Move Reward: -50
+Losing Reward: -100
+Winning Reward: 100
+Replay Size: 512
+Batch Size: 32
+Sync Rate: 10
+
++ All Games run until completion.
++ Agent is trying to learn the correct moves but the batch and replay sizes are probably too big
+
+Attempt 4:
+Terminates on Wrong Move: False
+Legal Edge Selection (w Epsilon Greedy): True
+Wrong Move Reward: -50
+Losing Reward: -100
+Winning Reward: 100
+Replay Size: 64
+Batch Size: 4
+Sync Rate: 4
+
+Attempt 5:
+Increase learning rate from 0.001 to 0.008,
+
+- Similar convergence
+
+Attempt 6:
+Get First N memory samples instead of random N
+
++ Slightly Faster Convergence, overall, penalties seem to reduce during exploitation
+
+Attempt 7:
+Don't use replay learning
+
+Attempt 8:
+Reduce Penalty for wrong step
+
+Attempt 9:
+Near Infinite Penalty for wrong step
+
+Attempt 10:
+Reduce Epsilon Decay so that agent learns valid moves first
+
++ More Games Won
