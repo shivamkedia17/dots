@@ -26,9 +26,17 @@ class DQN(nn.Module):
 
     # feed an input into the network
     def forward(self, x):
+        # print(f"Input tensor type: {x.type()}, shape: {x.shape}")
+
         x = F.relu(self.fc1(x))  # Rectified Linear Unit Activation
+        # print(f"After fc1 layer: {x.type()}, shape: {x.shape}")
+
         x = F.relu(self.h1(x))
+        # print(f"After h1 layer: {x.type()}, shape: {x.shape}")
+
         x = self.h2_out(x)
+        # print(f"After h2_out layer: {x.type()}, shape: {x.shape}")
+
         return x
 
 
@@ -79,6 +87,9 @@ class DQNAgent:
         self.epsilon_min = 0.01
         self.epsilon_decay = 0.995
 
+        self.bot_player_name = "dqn"
+        self.op_player_name = "$L3"
+
     # Function Equivalences:
     # initialisation:       reset() = dbnpy.Game(board_size, players)
     # actions:              act(state) = select_edge(self, board_state, score, opp_score)
@@ -95,10 +106,11 @@ class DQNAgent:
             Given n_edges, player_score, opponent_score
         Return: tensor([*n_edges, player_score, opponent_score])
         """
-        state = torch.zeros(self.in_states, dtype=torch.uint8)
-        state[: self.out_actions] = torch.ByteTensor(game.get_board_state())
-        state[-2] = game.get_score(game.get_current_player())
-        state[-1] = game.get_score(game.get_next_player())
+        state = torch.zeros(self.in_states, dtype=torch.float)
+        state[: self.out_actions] = torch.FloatTensor(game.get_board_state())
+        # The the second last scalar should be the bot's score and the last should be the opponent's
+        state[-2] = game.get_score(self.bot_player_name)
+        state[-1] = game.get_score(self.op_player_name)
         return state
 
     # Done AI agent's moves
@@ -106,7 +118,7 @@ class DQNAgent:
     def select_edge(self, game):
         # Epsilon-greedy: randomly select a state if below epsilon threshold
         if random.random() < self.epsilon:
-            move = random.sample(game.get_legal_moves(), 1)[0]
+            move = random.sample(range(self.out_actions), 1)[0]
         # Exploitation: select best action
         else:
             with torch.no_grad():
@@ -122,28 +134,36 @@ class DQNAgent:
     #   however a single move can make multiple boxes
     #   must reward more boxes accordingly
     #
-    # Note: Agent does not make illegal moves anyway
+    # Note: Agent may make illegal moves during exploitation
 
     def step(self, game, move, current_player):
-        next_player, boxes_made = game.select_edge(move, current_player)
-        done = game.is_finished()
+        try:
+            next_player, boxes_made = game.select_edge(move, current_player)
+            done = game.is_finished()
 
-        reward = boxes_made * 10
+            reward = 2 + boxes_made * 10
 
-        if done:
-            dqnbot_score = game.get_score(current_player)
-            # note: game_get_next_player returns the next opponent
-            op_score = game.get_score(game.get_next_player())
+            if done:
+                dqnbot_score = game.get_score(current_player)
+                # note: game_get_next_player returns the next opponent
+                op_score = game.get_score(game.get_next_player())
 
-            if dqnbot_score > op_score:
-                reward += 100  # W
-            elif op_score > dqnbot_score:
-                reward -= 100  # L
+                if dqnbot_score > op_score:
+                    reward += 100  # W
+                elif op_score > dqnbot_score:
+                    reward -= 100  # L
+                else:
+                    reward += 50  # Tie
             else:
-                reward += 50  # Tie
-        else:
-            if next_player == current_player:
-                reward += 20  # for creating a chain
+                if next_player == current_player:
+                    reward += 20  # for creating a chain
+
+        # if the bot violates a rule
+        except Exception as e:
+            print(e)
+            game.terminate()
+            done = True
+            reward = -250
 
         next_state = self.state_to_dqn_input(game)
         return next_state, reward, done
@@ -153,16 +173,30 @@ class DQNAgent:
         batch = self.memory.sample(self.mini_batch_size)
         states, actions, rewards, next_states, dones = zip(*batch)
 
-        states = torch.cat(states)
-        # actions = torch.ByteTensor(actions).unsqueeze(1)
-        actions = torch.ByteTensor(actions)
-        rewards = torch.IntTensor(rewards)
-        next_states = torch.cat(next_states)
-        dones = torch.BoolTensor(dones)
+        states = torch.stack(states)
+        # print(f"states shape: {states.shape}")
 
-        q_values = self.policy_net(states).gather(1, actions).squeeze(1)
-        next_q_values = self.target_net(next_states).max(1)[0]
-        target_q_values = rewards + self.discount_factor * next_q_values * (1 - dones)
+        actions = torch.tensor(actions, dtype=torch.float).unsqueeze(1)
+        # print(f"actions shape: {actions.shape}")
+
+        rewards = torch.tensor(rewards, dtype=torch.int).unsqueeze(1)
+        # print(f"rewards shape: {rewards.shape}")
+
+        next_states = torch.stack(next_states)
+        # print(f"next_states shape: {next_states.shape}")
+
+        dones = torch.tensor(dones, dtype=torch.bool).unsqueeze(1)
+        # print(f"dones shape: {dones.shape}")
+
+        # q_values = self.policy_net(states).gather(1, actions)
+        q_values = self.policy_net(states).max(1)[0].unsqueeze(1)
+        # print(f"q_values shape: {q_values.shape}")
+
+        next_q_values = self.target_net(next_states).max(1)[0].unsqueeze(1)
+        # print(f"next_q_values shape: {next_q_values.shape}")
+
+        target_q_values = rewards + self.discount_factor * next_q_values * (~dones)
+        # print(f"target_q_values shape: {target_q_values.shape}")
 
         loss = self.loss_fn(q_values, target_q_values)
         self.optimizer.zero_grad()
@@ -172,7 +206,7 @@ class DQNAgent:
     def train(self, episodes, render=False):
         # create environment instance
         board_size = self.board_size
-        players = ["$L3", "dqn"]
+        players = [self.op_player_name, self.bot_player_name]
         # n_edges = cols * (rows - 1) * 2 + rows * (cols - 1) * 2
 
         # training loop
@@ -192,7 +226,7 @@ class DQNAgent:
             total_reward = 0
             steps = 0
 
-            while not game.is_finished():
+            while not game.is_finished() and not game.is_terminated():
                 current_player = game.get_current_player()
                 opp_player = game.get_next_player()
 
@@ -208,36 +242,36 @@ class DQNAgent:
                     game.select_edge(move, current_player)
                 else:
                     # Agent's turn
-                    try:
-                        # 2. Select an action
-                        state = self.state_to_dqn_input(game)
-                        move = self.select_edge(game)
-                        # print("player %s selects edge %s" % (current_player, move))
+                    # try:
+                    # 2. Select an action
+                    state = self.state_to_dqn_input(game)
+                    move = self.select_edge(game)
+                    # print("player %s selects edge %s" % (current_player, move))
 
-                        # 3. perform the action and receive next_state, reward, terminated=True/False
-                        next_state, reward, done = self.step(game, move, current_player)
-                        total_reward += reward
+                    # 3. perform the action and receive next_state, reward, terminated=True/False
+                    next_state, reward, done = self.step(game, move, current_player)
+                    total_reward += reward
 
-                        # 4. Store the transition in the replay buffer
-                        self.memory.append((state, move, reward, next_state, done))
+                    # 4. Store the transition in the replay buffer
+                    self.memory.append((state, move, reward, next_state, done))
 
-                        # 5. Replay when appropriate
-                        if len(self.memory) >= self.mini_batch_size:
-                            self.replay()
+                    # 5. Replay when appropriate
+                    if len(self.memory) >= self.mini_batch_size:
+                        self.replay()
 
-                        # 6. Sync the network at intervals
-                        steps += 1
-                        if steps % self.network_sync_rate == 0:
-                            self.target_net.load_state_dict(
-                                self.policy_net.state_dict()
-                            )
-                            self.target_net.eval()
-                    except Exception as e:
-                        print(e)
+                    # 6. Sync the network at intervals
+                    steps += 1
+                    if steps % self.network_sync_rate == 0:
+                        self.target_net.load_state_dict(self.policy_net.state_dict())
+                        self.target_net.eval()
+                # except Exception as e:
+                #     print(e)
 
             print(game)
             self.epsilon = max(self.epsilon_min, self.epsilon * self.epsilon_decay)
-            print(f"Episode {episode + 1}/{episodes}, Total Reward: {total_reward}")
+            print(
+                f"Episode {episode + 1}/{episodes}, Total Reward: {total_reward}, Epsilon: {self.epsilon}"
+            )
 
     def save_model(self, path="dqn_model.pth"):
         saved = {
@@ -260,5 +294,5 @@ class DQNAgent:
 if __name__ == "__main__":
     board_size = (3, 3)  # Example board size
     agent = DQNAgent(board_size)
-    agent.train(episodes=5)
+    agent.train(episodes=50)
     agent.save_model()

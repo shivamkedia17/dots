@@ -28,6 +28,7 @@ class Game:
             raise Exception("game is already finished")
         self._boxes = init_boxes(board_size)
         self._players_to_boxes = {}
+        self._terminated = False
         for player in players:
             self._players_to_boxes[player] = set()
 
@@ -36,6 +37,12 @@ class Game:
 
     def get_players(self):
         return [player for player in self._players]
+
+    def is_terminated(self):
+        return self._terminated
+
+    def terminate(self):
+        self._terminated = True
 
     def get_board_state(self):
         """
