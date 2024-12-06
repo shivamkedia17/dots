@@ -1,11 +1,12 @@
-Credits: lantunes/dnbpy
+Training Environment Credits: lantunes/dnbpy
 
-Refer to above repo's readme for more usage.
+---
 
 Dependencies:
-torch
-np
-idr what else
+
+- torch
+- numpy
+
 
 to train agent:
 ```sh
@@ -17,10 +18,9 @@ save output to a file:
 python agent.py > file2.txt
 ```
 
-TODO:
-load trained agent as an option to play against in play.py
+---
 
-# Training:
+# Training & Observations:
 
 #### **Attempt 1:**
 
