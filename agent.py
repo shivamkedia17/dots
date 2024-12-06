@@ -338,7 +338,7 @@ class DQNAgent:
 if __name__ == "__main__":
     board_size = (3, 3)  # Example board size
     agent = DQNAgent(board_size)
-    completed, won = agent.train(episodes=2000)
+    completed, won = agent.train(episodes=10000)
     print("Completed Games: ", completed)
     print("Won Games: ", won)
     agent.save_model()

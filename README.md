@@ -90,3 +90,9 @@ Attempt 10:
 Reduce Epsilon Decay so that agent learns valid moves first
 
 + More Games Won
+
+Attempt 11:
+Let's see if this policy works. Using 10k episodes.
+
+- 51/10k games won
+- Agent does not learn the game because the rules of the game are not known.
