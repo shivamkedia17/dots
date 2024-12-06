@@ -118,7 +118,7 @@ class DQNAgent:
     def select_edge(self, game):
         # Epsilon-greedy: randomly select a state if below epsilon threshold
         if random.random() < self.epsilon:
-            move = random.sample(range(self.out_actions), 1)[0]
+            move = random.sample(game.get_legal_moves(), 1)[0]
         # Exploitation: select best action
         else:
             with torch.no_grad():
@@ -135,6 +135,16 @@ class DQNAgent:
     #   must reward more boxes accordingly
     #
     # Note: Agent may make illegal moves during exploitation
+    def is_winner(self, game):
+        dqnbot_score = game.get_score(self.bot_player_name)
+        # note: game_get_next_player returns the next opponent
+        op_score = game.get_score(self.op_player_name)
+        if dqnbot_score > op_score:
+            return 1
+        elif op_score > dqnbot_score:
+            return -1
+        else:
+            return 0
 
     def step(self, game, move, current_player):
         try:
@@ -143,14 +153,12 @@ class DQNAgent:
 
             reward = 2 + boxes_made * 10
 
-            if done:
-                dqnbot_score = game.get_score(current_player)
-                # note: game_get_next_player returns the next opponent
-                op_score = game.get_score(game.get_next_player())
+            w = self.is_winner(game)
 
-                if dqnbot_score > op_score:
+            if done:
+                if w == 1:
                     reward += 100  # W
-                elif op_score > dqnbot_score:
+                elif w == -1:
                     reward -= 100  # L
                 else:
                     reward += 50  # Tie
@@ -163,7 +171,7 @@ class DQNAgent:
             print(e)
             game.terminate()
             done = True
-            reward = -250
+            reward = -50
 
         next_state = self.state_to_dqn_input(game)
         return next_state, reward, done
@@ -206,6 +214,9 @@ class DQNAgent:
     def train(self, episodes, render=False):
         # create environment instance
         board_size = self.board_size
+        games_finished = 0
+        games_won = 0
+
         players = [self.op_player_name, self.bot_player_name]
         # n_edges = cols * (rows - 1) * 2 + rows * (cols - 1) * 2
 
@@ -267,11 +278,18 @@ class DQNAgent:
                 # except Exception as e:
                 #     print(e)
 
-            print(game)
+            # print(game)
             self.epsilon = max(self.epsilon_min, self.epsilon * self.epsilon_decay)
+            if game.is_finished():
+                games_finished += 1
+                winner = self.is_winner(game)
+                if winner == 1:
+                    games_won += 1
             print(
                 f"Episode {episode + 1}/{episodes}, Total Reward: {total_reward}, Epsilon: {self.epsilon}"
             )
+
+        return (games_finished, games_won)
 
     def save_model(self, path="dqn_model.pth"):
         saved = {
@@ -294,5 +312,7 @@ class DQNAgent:
 if __name__ == "__main__":
     board_size = (3, 3)  # Example board size
     agent = DQNAgent(board_size)
-    agent.train(episodes=50)
+    completed, won = agent.train(episodes=1000)
+    print("Completed Games: ", completed)
+    print("Won Games: ", won)
     agent.save_model()
