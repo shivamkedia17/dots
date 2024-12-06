@@ -75,7 +75,7 @@ Sync Rate: 10
 + All Games run until completion.
 + Agent is trying to learn the correct moves but the batch and replay sizes are probably too big
 
-#### *Attempt 4:**
+#### **Attempt 4:**
 
 Terminates on Wrong Move: False
 
